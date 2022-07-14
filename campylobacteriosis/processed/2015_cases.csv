@@ -1,0 +1,241 @@
+DHB,Year,Month,Count
+Northland,2015,January,23
+Northland,2015,February,16
+Northland,2015,March,16
+Northland,2015,April,8
+Northland,2015,May,11
+Northland,2015,June,12
+Northland,2015,July,24
+Northland,2015,August,27
+Northland,2015,September,26
+Northland,2015,October,26
+Northland,2015,November,26
+Northland,2015,December,41
+Waitemata,2015,January,84
+Waitemata,2015,February,55
+Waitemata,2015,March,35
+Waitemata,2015,April,40
+Waitemata,2015,May,56
+Waitemata,2015,June,64
+Waitemata,2015,July,60
+Waitemata,2015,August,47
+Waitemata,2015,September,72
+Waitemata,2015,October,77
+Waitemata,2015,November,134
+Waitemata,2015,December,95
+Auckland,2015,January,63
+Auckland,2015,February,43
+Auckland,2015,March,38
+Auckland,2015,April,23
+Auckland,2015,May,31
+Auckland,2015,June,38
+Auckland,2015,July,39
+Auckland,2015,August,38
+Auckland,2015,September,53
+Auckland,2015,October,43
+Auckland,2015,November,68
+Auckland,2015,December,55
+Counties Manukau,2015,January,58
+Counties Manukau,2015,February,35
+Counties Manukau,2015,March,31
+Counties Manukau,2015,April,25
+Counties Manukau,2015,May,33
+Counties Manukau,2015,June,26
+Counties Manukau,2015,July,36
+Counties Manukau,2015,August,32
+Counties Manukau,2015,September,39
+Counties Manukau,2015,October,38
+Counties Manukau,2015,November,70
+Counties Manukau,2015,December,67
+Waikato,2015,January,59
+Waikato,2015,February,31
+Waikato,2015,March,33
+Waikato,2015,April,30
+Waikato,2015,May,25
+Waikato,2015,June,34
+Waikato,2015,July,42
+Waikato,2015,August,76
+Waikato,2015,September,73
+Waikato,2015,October,58
+Waikato,2015,November,74
+Waikato,2015,December,64
+Lakes,2015,January,15
+Lakes,2015,February,9
+Lakes,2015,March,15
+Lakes,2015,April,11
+Lakes,2015,May,8
+Lakes,2015,June,12
+Lakes,2015,July,5
+Lakes,2015,August,20
+Lakes,2015,September,11
+Lakes,2015,October,26
+Lakes,2015,November,17
+Lakes,2015,December,15
+Bay of Plenty,2015,January,30
+Bay of Plenty,2015,February,26
+Bay of Plenty,2015,March,25
+Bay of Plenty,2015,April,15
+Bay of Plenty,2015,May,10
+Bay of Plenty,2015,June,15
+Bay of Plenty,2015,July,12
+Bay of Plenty,2015,August,16
+Bay of Plenty,2015,September,21
+Bay of Plenty,2015,October,23
+Bay of Plenty,2015,November,21
+Bay of Plenty,2015,December,30
+Tairawhiti,2015,January,6
+Tairawhiti,2015,February,1
+Tairawhiti,2015,March,3
+Tairawhiti,2015,April,1
+Tairawhiti,2015,May,3
+Tairawhiti,2015,June,4
+Tairawhiti,2015,July,5
+Tairawhiti,2015,August,5
+Tairawhiti,2015,September,4
+Tairawhiti,2015,October,4
+Tairawhiti,2015,November,8
+Tairawhiti,2015,December,7
+Taranaki,2015,January,23
+Taranaki,2015,February,13
+Taranaki,2015,March,21
+Taranaki,2015,April,15
+Taranaki,2015,May,8
+Taranaki,2015,June,11
+Taranaki,2015,July,12
+Taranaki,2015,August,23
+Taranaki,2015,September,14
+Taranaki,2015,October,30
+Taranaki,2015,November,25
+Taranaki,2015,December,30
+Hawke's Bay,2015,January,27
+Hawke's Bay,2015,February,15
+Hawke's Bay,2015,March,15
+Hawke's Bay,2015,April,8
+Hawke's Bay,2015,May,18
+Hawke's Bay,2015,June,13
+Hawke's Bay,2015,July,16
+Hawke's Bay,2015,August,21
+Hawke's Bay,2015,September,21
+Hawke's Bay,2015,October,25
+Hawke's Bay,2015,November,35
+Hawke's Bay,2015,December,32
+Whanganui,2015,January,11
+Whanganui,2015,February,6
+Whanganui,2015,March,2
+Whanganui,2015,April,7
+Whanganui,2015,May,4
+Whanganui,2015,June,2
+Whanganui,2015,July,5
+Whanganui,2015,August,4
+Whanganui,2015,September,11
+Whanganui,2015,October,9
+Whanganui,2015,November,13
+Whanganui,2015,December,13
+MidCentral,2015,January,19
+MidCentral,2015,February,14
+MidCentral,2015,March,26
+MidCentral,2015,April,5
+MidCentral,2015,May,3
+MidCentral,2015,June,9
+MidCentral,2015,July,12
+MidCentral,2015,August,10
+MidCentral,2015,September,25
+MidCentral,2015,October,12
+MidCentral,2015,November,33
+MidCentral,2015,December,28
+Hutt Valley,2015,January,28
+Hutt Valley,2015,February,23
+Hutt Valley,2015,March,15
+Hutt Valley,2015,April,9
+Hutt Valley,2015,May,7
+Hutt Valley,2015,June,8
+Hutt Valley,2015,July,21
+Hutt Valley,2015,August,13
+Hutt Valley,2015,September,20
+Hutt Valley,2015,October,12
+Hutt Valley,2015,November,21
+Hutt Valley,2015,December,18
+Capital and Coast,2015,January,44
+Capital and Coast,2015,February,37
+Capital and Coast,2015,March,30
+Capital and Coast,2015,April,25
+Capital and Coast,2015,May,29
+Capital and Coast,2015,June,28
+Capital and Coast,2015,July,36
+Capital and Coast,2015,August,35
+Capital and Coast,2015,September,21
+Capital and Coast,2015,October,24
+Capital and Coast,2015,November,31
+Capital and Coast,2015,December,48
+Wairarapa,2015,January,6
+Wairarapa,2015,February,3
+Wairarapa,2015,March,4
+Wairarapa,2015,April,7
+Wairarapa,2015,May,5
+Wairarapa,2015,June,6
+Wairarapa,2015,July,5
+Wairarapa,2015,August,7
+Wairarapa,2015,September,4
+Wairarapa,2015,October,8
+Wairarapa,2015,November,8
+Wairarapa,2015,December,9
+Nelson Marlborough,2015,January,17
+Nelson Marlborough,2015,February,17
+Nelson Marlborough,2015,March,18
+Nelson Marlborough,2015,April,15
+Nelson Marlborough,2015,May,21
+Nelson Marlborough,2015,June,10
+Nelson Marlborough,2015,July,13
+Nelson Marlborough,2015,August,19
+Nelson Marlborough,2015,September,19
+Nelson Marlborough,2015,October,22
+Nelson Marlborough,2015,November,21
+Nelson Marlborough,2015,December,25
+West Coast,2015,January,6
+West Coast,2015,February,6
+West Coast,2015,March,4
+West Coast,2015,April,3
+West Coast,2015,May,6
+West Coast,2015,June,2
+West Coast,2015,July,5
+West Coast,2015,August,7
+West Coast,2015,September,7
+West Coast,2015,October,11
+West Coast,2015,November,14
+West Coast,2015,December,9
+Canterbury,2015,January,89
+Canterbury,2015,February,52
+Canterbury,2015,March,40
+Canterbury,2015,April,36
+Canterbury,2015,May,61
+Canterbury,2015,June,41
+Canterbury,2015,July,41
+Canterbury,2015,August,54
+Canterbury,2015,September,67
+Canterbury,2015,October,69
+Canterbury,2015,November,90
+Canterbury,2015,December,89
+South Canterbury,2015,January,19
+South Canterbury,2015,February,8
+South Canterbury,2015,March,9
+South Canterbury,2015,April,8
+South Canterbury,2015,May,8
+South Canterbury,2015,June,3
+South Canterbury,2015,July,6
+South Canterbury,2015,August,9
+South Canterbury,2015,September,11
+South Canterbury,2015,October,13
+South Canterbury,2015,November,17
+South Canterbury,2015,December,15
+Southern,2015,January,50
+Southern,2015,February,46
+Southern,2015,March,38
+Southern,2015,April,36
+Southern,2015,May,37
+Southern,2015,June,34
+Southern,2015,July,25
+Southern,2015,August,27
+Southern,2015,September,52
+Southern,2015,October,47
+Southern,2015,November,56
+Southern,2015,December,67

@@ -1,0 +1,5761 @@
+Year,DHB,Month,Count
+1997,Waitemata,January,148
+1997,Waitemata,February,86
+1997,Waitemata,March,122
+1997,Waitemata,April,86
+1997,Waitemata,May,54
+1997,Waitemata,June,42
+1997,Waitemata,July,71
+1997,Waitemata,August,47
+1997,Waitemata,September,64
+1997,Waitemata,October,100
+1997,Waitemata,November,114
+1997,Waitemata,December,138
+1998,Waitemata,January,109
+1998,Waitemata,February,88
+1998,Waitemata,March,134
+1998,Waitemata,April,90
+1998,Waitemata,May,129
+1998,Waitemata,June,95
+1998,Waitemata,July,115
+1998,Waitemata,August,115
+1998,Waitemata,September,87
+1998,Waitemata,October,106
+1998,Waitemata,November,130
+1998,Waitemata,December,165
+1999,Waitemata,January,75
+1999,Waitemata,February,62
+1999,Waitemata,March,67
+1999,Waitemata,April,62
+1999,Waitemata,May,65
+1999,Waitemata,June,80
+1999,Waitemata,July,77
+1999,Waitemata,August,91
+1999,Waitemata,September,63
+1999,Waitemata,October,69
+1999,Waitemata,November,113
+1999,Waitemata,December,101
+2000,Waitemata,January,91
+2000,Waitemata,February,105
+2000,Waitemata,March,61
+2000,Waitemata,April,38
+2000,Waitemata,May,44
+2000,Waitemata,June,41
+2000,Waitemata,July,51
+2000,Waitemata,August,65
+2000,Waitemata,September,88
+2000,Waitemata,October,88
+2000,Waitemata,November,99
+2000,Waitemata,December,88
+2001,Waitemata,January,117
+2001,Waitemata,February,65
+2001,Waitemata,March,72
+2001,Waitemata,April,68
+2001,Waitemata,May,73
+2001,Waitemata,June,57
+2001,Waitemata,July,74
+2001,Waitemata,August,125
+2001,Waitemata,September,83
+2001,Waitemata,October,140
+2001,Waitemata,November,185
+2001,Waitemata,December,186
+2002,Waitemata,January,195
+2002,Waitemata,February,128
+2002,Waitemata,March,142
+2002,Waitemata,April,67
+2002,Waitemata,May,125
+2002,Waitemata,June,164
+2002,Waitemata,July,161
+2002,Waitemata,August,180
+2002,Waitemata,September,157
+2002,Waitemata,October,175
+2002,Waitemata,November,136
+2002,Waitemata,December,170
+2003,Waitemata,January,190
+2003,Waitemata,February,141
+2003,Waitemata,March,144
+2003,Waitemata,April,116
+2003,Waitemata,May,103
+2003,Waitemata,June,114
+2003,Waitemata,July,148
+2003,Waitemata,August,155
+2003,Waitemata,September,129
+2003,Waitemata,October,150
+2003,Waitemata,November,204
+2003,Waitemata,December,173
+2004,Waitemata,January,168
+2004,Waitemata,February,137
+2004,Waitemata,March,133
+2004,Waitemata,April,80
+2004,Waitemata,May,83
+2004,Waitemata,June,115
+2004,Waitemata,July,97
+2004,Waitemata,August,134
+2004,Waitemata,September,162
+2004,Waitemata,October,122
+2004,Waitemata,November,199
+2004,Waitemata,December,200
+2005,Waitemata,January,158
+2005,Waitemata,February,157
+2005,Waitemata,March,81
+2005,Waitemata,April,94
+2005,Waitemata,May,101
+2005,Waitemata,June,79
+2005,Waitemata,July,121
+2005,Waitemata,August,142
+2005,Waitemata,September,159
+2005,Waitemata,October,167
+2005,Waitemata,November,197
+2005,Waitemata,December,214
+2006,Waitemata,January,196
+2006,Waitemata,February,204
+2006,Waitemata,March,152
+2006,Waitemata,April,113
+2006,Waitemata,May,210
+2006,Waitemata,June,192
+2006,Waitemata,July,159
+2006,Waitemata,August,168
+2006,Waitemata,September,211
+2006,Waitemata,October,183
+2006,Waitemata,November,275
+2006,Waitemata,December,256
+2007,Waitemata,January,235
+2007,Waitemata,February,172
+2007,Waitemata,March,161
+2007,Waitemata,April,67
+2007,Waitemata,May,119
+2007,Waitemata,June,98
+2007,Waitemata,July,110
+2007,Waitemata,August,114
+2007,Waitemata,September,138
+2007,Waitemata,October,152
+2007,Waitemata,November,172
+2007,Waitemata,December,161
+2008,Waitemata,January,100
+2008,Waitemata,February,72
+2008,Waitemata,March,64
+2008,Waitemata,April,47
+2008,Waitemata,May,48
+2008,Waitemata,June,38
+2008,Waitemata,July,39
+2008,Waitemata,August,56
+2008,Waitemata,September,61
+2008,Waitemata,October,83
+2008,Waitemata,November,121
+2008,Waitemata,December,152
+2009,Waitemata,January,100
+2009,Waitemata,February,77
+2009,Waitemata,March,56
+2009,Waitemata,April,49
+2009,Waitemata,May,49
+2009,Waitemata,June,64
+2009,Waitemata,July,52
+2009,Waitemata,August,71
+2009,Waitemata,September,59
+2009,Waitemata,October,61
+2009,Waitemata,November,154
+2009,Waitemata,December,122
+2010,Waitemata,January,100
+2010,Waitemata,February,77
+2010,Waitemata,March,58
+2010,Waitemata,April,56
+2010,Waitemata,May,60
+2010,Waitemata,June,56
+2010,Waitemata,July,58
+2010,Waitemata,August,85
+2010,Waitemata,September,57
+2010,Waitemata,October,61
+2010,Waitemata,November,89
+2010,Waitemata,December,86
+2011,Waitemata,January,56
+2011,Waitemata,February,48
+2011,Waitemata,March,56
+2011,Waitemata,April,45
+2011,Waitemata,May,43
+2011,Waitemata,June,45
+2011,Waitemata,July,52
+2011,Waitemata,August,59
+2011,Waitemata,September,56
+2011,Waitemata,October,72
+2011,Waitemata,November,92
+2011,Waitemata,December,140
+2012,Waitemata,January,127
+2012,Waitemata,February,81
+2012,Waitemata,March,46
+2012,Waitemata,April,54
+2012,Waitemata,May,42
+2012,Waitemata,June,50
+2012,Waitemata,July,43
+2012,Waitemata,August,46
+2012,Waitemata,September,49
+2012,Waitemata,October,60
+2012,Waitemata,November,88
+2012,Waitemata,December,87
+2013,Waitemata,January,90
+2013,Waitemata,February,54
+2013,Waitemata,March,38
+2013,Waitemata,April,44
+2013,Waitemata,May,51
+2013,Waitemata,June,43
+2013,Waitemata,July,72
+2013,Waitemata,August,60
+2013,Waitemata,September,84
+2013,Waitemata,October,62
+2013,Waitemata,November,92
+2013,Waitemata,December,82
+2014,Waitemata,January,73
+2014,Waitemata,February,57
+2014,Waitemata,March,52
+2014,Waitemata,April,39
+2014,Waitemata,May,40
+2014,Waitemata,June,46
+2014,Waitemata,July,49
+2014,Waitemata,August,49
+2014,Waitemata,September,51
+2014,Waitemata,October,77
+2014,Waitemata,November,115
+2014,Waitemata,December,106
+1997,Whanganui,January,8
+1997,Whanganui,February,6
+1997,Whanganui,March,7
+1997,Whanganui,April,6
+1997,Whanganui,May,7
+1997,Whanganui,June,5
+1997,Whanganui,July,10
+1997,Whanganui,August,8
+1997,Whanganui,September,11
+1997,Whanganui,October,14
+1997,Whanganui,November,6
+1997,Whanganui,December,9
+1998,Whanganui,January,8
+1998,Whanganui,February,4
+1998,Whanganui,March,9
+1998,Whanganui,April,5
+1998,Whanganui,May,7
+1998,Whanganui,June,12
+1998,Whanganui,July,15
+1998,Whanganui,August,13
+1998,Whanganui,September,10
+1998,Whanganui,October,10
+1998,Whanganui,November,11
+1998,Whanganui,December,18
+1999,Whanganui,January,9
+1999,Whanganui,February,4
+1999,Whanganui,March,1
+1999,Whanganui,April,5
+1999,Whanganui,May,9
+1999,Whanganui,June,6
+1999,Whanganui,July,9
+1999,Whanganui,August,12
+1999,Whanganui,September,3
+1999,Whanganui,October,3
+1999,Whanganui,November,18
+1999,Whanganui,December,10
+2000,Whanganui,January,12
+2000,Whanganui,February,10
+2000,Whanganui,March,8
+2000,Whanganui,April,1
+2000,Whanganui,May,3
+2000,Whanganui,June,5
+2000,Whanganui,July,2
+2000,Whanganui,August,3
+2000,Whanganui,September,8
+2000,Whanganui,October,7
+2000,Whanganui,November,20
+2000,Whanganui,December,13
+2001,Whanganui,January,10
+2001,Whanganui,February,9
+2001,Whanganui,March,10
+2001,Whanganui,April,2
+2001,Whanganui,May,5
+2001,Whanganui,June,12
+2001,Whanganui,July,8
+2001,Whanganui,August,14
+2001,Whanganui,September,8
+2001,Whanganui,October,15
+2001,Whanganui,November,20
+2001,Whanganui,December,15
+2002,Whanganui,January,24
+2002,Whanganui,February,18
+2002,Whanganui,March,10
+2002,Whanganui,April,5
+2002,Whanganui,May,10
+2002,Whanganui,June,4
+2002,Whanganui,July,12
+2002,Whanganui,August,17
+2002,Whanganui,September,13
+2002,Whanganui,October,14
+2002,Whanganui,November,16
+2002,Whanganui,December,17
+2003,Whanganui,January,29
+2003,Whanganui,February,17
+2003,Whanganui,March,9
+2003,Whanganui,April,4
+2003,Whanganui,May,10
+2003,Whanganui,June,5
+2003,Whanganui,July,14
+2003,Whanganui,August,22
+2003,Whanganui,September,23
+2003,Whanganui,October,25
+2003,Whanganui,November,20
+2003,Whanganui,December,21
+2004,Whanganui,January,37
+2004,Whanganui,February,21
+2004,Whanganui,March,20
+2004,Whanganui,April,6
+2004,Whanganui,May,8
+2004,Whanganui,June,7
+2004,Whanganui,July,8
+2004,Whanganui,August,12
+2004,Whanganui,September,9
+2004,Whanganui,October,10
+2004,Whanganui,November,14
+2004,Whanganui,December,13
+2005,Whanganui,January,11
+2005,Whanganui,February,9
+2005,Whanganui,March,9
+2005,Whanganui,April,11
+2005,Whanganui,May,6
+2005,Whanganui,June,10
+2005,Whanganui,July,8
+2005,Whanganui,August,15
+2005,Whanganui,September,15
+2005,Whanganui,October,12
+2005,Whanganui,November,30
+2005,Whanganui,December,15
+2006,Whanganui,January,27
+2006,Whanganui,February,17
+2006,Whanganui,March,14
+2006,Whanganui,April,13
+2006,Whanganui,May,19
+2006,Whanganui,June,17
+2006,Whanganui,July,16
+2006,Whanganui,August,20
+2006,Whanganui,September,15
+2006,Whanganui,October,18
+2006,Whanganui,November,33
+2006,Whanganui,December,22
+2007,Whanganui,January,28
+2007,Whanganui,February,23
+2007,Whanganui,March,10
+2007,Whanganui,April,9
+2007,Whanganui,May,17
+2007,Whanganui,June,18
+2007,Whanganui,July,10
+2007,Whanganui,August,13
+2007,Whanganui,September,11
+2007,Whanganui,October,9
+2007,Whanganui,November,16
+2007,Whanganui,December,26
+2008,Whanganui,January,7
+2008,Whanganui,February,11
+2008,Whanganui,March,7
+2008,Whanganui,April,0
+2008,Whanganui,May,5
+2008,Whanganui,June,4
+2008,Whanganui,July,5
+2008,Whanganui,August,7
+2008,Whanganui,September,5
+2008,Whanganui,October,6
+2008,Whanganui,November,16
+2008,Whanganui,December,16
+2009,Whanganui,January,15
+2009,Whanganui,February,7
+2009,Whanganui,March,8
+2009,Whanganui,April,8
+2009,Whanganui,May,13
+2009,Whanganui,June,9
+2009,Whanganui,July,14
+2009,Whanganui,August,11
+2009,Whanganui,September,10
+2009,Whanganui,October,8
+2009,Whanganui,November,19
+2009,Whanganui,December,17
+2010,Whanganui,January,17
+2010,Whanganui,February,13
+2010,Whanganui,March,12
+2010,Whanganui,April,7
+2010,Whanganui,May,3
+2010,Whanganui,June,5
+2010,Whanganui,July,10
+2010,Whanganui,August,6
+2010,Whanganui,September,11
+2010,Whanganui,October,5
+2010,Whanganui,November,7
+2010,Whanganui,December,2
+2011,Whanganui,January,6
+2011,Whanganui,February,3
+2011,Whanganui,March,3
+2011,Whanganui,April,7
+2011,Whanganui,May,3
+2011,Whanganui,June,4
+2011,Whanganui,July,6
+2011,Whanganui,August,7
+2011,Whanganui,September,8
+2011,Whanganui,October,10
+2011,Whanganui,November,6
+2011,Whanganui,December,12
+2012,Whanganui,January,12
+2012,Whanganui,February,16
+2012,Whanganui,March,7
+2012,Whanganui,April,3
+2012,Whanganui,May,1
+2012,Whanganui,June,4
+2012,Whanganui,July,1
+2012,Whanganui,August,4
+2012,Whanganui,September,13
+2012,Whanganui,October,11
+2012,Whanganui,November,14
+2012,Whanganui,December,5
+2013,Whanganui,January,10
+2013,Whanganui,February,7
+2013,Whanganui,March,7
+2013,Whanganui,April,3
+2013,Whanganui,May,10
+2013,Whanganui,June,6
+2013,Whanganui,July,13
+2013,Whanganui,August,12
+2013,Whanganui,September,4
+2013,Whanganui,October,11
+2013,Whanganui,November,7
+2013,Whanganui,December,18
+2014,Whanganui,January,13
+2014,Whanganui,February,4
+2014,Whanganui,March,3
+2014,Whanganui,April,9
+2014,Whanganui,May,10
+2014,Whanganui,June,5
+2014,Whanganui,July,6
+2014,Whanganui,August,9
+2014,Whanganui,September,7
+2014,Whanganui,October,9
+2014,Whanganui,November,6
+2014,Whanganui,December,7
+1997,MidCentral,January,30
+1997,MidCentral,February,26
+1997,MidCentral,March,23
+1997,MidCentral,April,16
+1997,MidCentral,May,8
+1997,MidCentral,June,16
+1997,MidCentral,July,17
+1997,MidCentral,August,11
+1997,MidCentral,September,33
+1997,MidCentral,October,32
+1997,MidCentral,November,32
+1997,MidCentral,December,22
+1998,MidCentral,January,34
+1998,MidCentral,February,12
+1998,MidCentral,March,29
+1998,MidCentral,April,30
+1998,MidCentral,May,24
+1998,MidCentral,June,18
+1998,MidCentral,July,15
+1998,MidCentral,August,28
+1998,MidCentral,September,21
+1998,MidCentral,October,24
+1998,MidCentral,November,36
+1998,MidCentral,December,40
+1999,MidCentral,January,27
+1999,MidCentral,February,15
+1999,MidCentral,March,19
+1999,MidCentral,April,11
+1999,MidCentral,May,8
+1999,MidCentral,June,17
+1999,MidCentral,July,17
+1999,MidCentral,August,21
+1999,MidCentral,September,12
+1999,MidCentral,October,15
+1999,MidCentral,November,14
+1999,MidCentral,December,24
+2000,MidCentral,January,29
+2000,MidCentral,February,25
+2000,MidCentral,March,19
+2000,MidCentral,April,10
+2000,MidCentral,May,13
+2000,MidCentral,June,11
+2000,MidCentral,July,3
+2000,MidCentral,August,12
+2000,MidCentral,September,9
+2000,MidCentral,October,24
+2000,MidCentral,November,16
+2000,MidCentral,December,18
+2001,MidCentral,January,28
+2001,MidCentral,February,14
+2001,MidCentral,March,17
+2001,MidCentral,April,3
+2001,MidCentral,May,11
+2001,MidCentral,June,12
+2001,MidCentral,July,13
+2001,MidCentral,August,16
+2001,MidCentral,September,29
+2001,MidCentral,October,37
+2001,MidCentral,November,54
+2001,MidCentral,December,54
+2002,MidCentral,January,44
+2002,MidCentral,February,32
+2002,MidCentral,March,27
+2002,MidCentral,April,15
+2002,MidCentral,May,15
+2002,MidCentral,June,9
+2002,MidCentral,July,19
+2002,MidCentral,August,21
+2002,MidCentral,September,18
+2002,MidCentral,October,26
+2002,MidCentral,November,23
+2002,MidCentral,December,37
+2003,MidCentral,January,54
+2003,MidCentral,February,27
+2003,MidCentral,March,16
+2003,MidCentral,April,12
+2003,MidCentral,May,15
+2003,MidCentral,June,14
+2003,MidCentral,July,20
+2003,MidCentral,August,28
+2003,MidCentral,September,38
+2003,MidCentral,October,57
+2003,MidCentral,November,33
+2003,MidCentral,December,48
+2004,MidCentral,January,35
+2004,MidCentral,February,28
+2004,MidCentral,March,22
+2004,MidCentral,April,20
+2004,MidCentral,May,12
+2004,MidCentral,June,15
+2004,MidCentral,July,21
+2004,MidCentral,August,20
+2004,MidCentral,September,13
+2004,MidCentral,October,22
+2004,MidCentral,November,22
+2004,MidCentral,December,34
+2005,MidCentral,January,48
+2005,MidCentral,February,30
+2005,MidCentral,March,10
+2005,MidCentral,April,18
+2005,MidCentral,May,24
+2005,MidCentral,June,20
+2005,MidCentral,July,19
+2005,MidCentral,August,30
+2005,MidCentral,September,20
+2005,MidCentral,October,27
+2005,MidCentral,November,43
+2005,MidCentral,December,33
+2006,MidCentral,January,45
+2006,MidCentral,February,30
+2006,MidCentral,March,20
+2006,MidCentral,April,17
+2006,MidCentral,May,32
+2006,MidCentral,June,34
+2006,MidCentral,July,13
+2006,MidCentral,August,30
+2006,MidCentral,September,13
+2006,MidCentral,October,17
+2006,MidCentral,November,76
+2006,MidCentral,December,37
+2007,MidCentral,January,45
+2007,MidCentral,February,26
+2007,MidCentral,March,29
+2007,MidCentral,April,14
+2007,MidCentral,May,24
+2007,MidCentral,June,24
+2007,MidCentral,July,26
+2007,MidCentral,August,19
+2007,MidCentral,September,17
+2007,MidCentral,October,28
+2007,MidCentral,November,52
+2007,MidCentral,December,28
+2008,MidCentral,January,17
+2008,MidCentral,February,14
+2008,MidCentral,March,6
+2008,MidCentral,April,9
+2008,MidCentral,May,9
+2008,MidCentral,June,5
+2008,MidCentral,July,16
+2008,MidCentral,August,44
+2008,MidCentral,September,15
+2008,MidCentral,October,15
+2008,MidCentral,November,25
+2008,MidCentral,December,21
+2009,MidCentral,January,29
+2009,MidCentral,February,17
+2009,MidCentral,March,14
+2009,MidCentral,April,15
+2009,MidCentral,May,18
+2009,MidCentral,June,12
+2009,MidCentral,July,8
+2009,MidCentral,August,20
+2009,MidCentral,September,25
+2009,MidCentral,October,20
+2009,MidCentral,November,25
+2009,MidCentral,December,33
+2010,MidCentral,January,28
+2010,MidCentral,February,32
+2010,MidCentral,March,12
+2010,MidCentral,April,13
+2010,MidCentral,May,27
+2010,MidCentral,June,19
+2010,MidCentral,July,13
+2010,MidCentral,August,20
+2010,MidCentral,September,18
+2010,MidCentral,October,21
+2010,MidCentral,November,27
+2010,MidCentral,December,18
+2011,MidCentral,January,18
+2011,MidCentral,February,13
+2011,MidCentral,March,17
+2011,MidCentral,April,8
+2011,MidCentral,May,24
+2011,MidCentral,June,23
+2011,MidCentral,July,25
+2011,MidCentral,August,26
+2011,MidCentral,September,13
+2011,MidCentral,October,23
+2011,MidCentral,November,25
+2011,MidCentral,December,24
+2012,MidCentral,January,23
+2012,MidCentral,February,22
+2012,MidCentral,March,13
+2012,MidCentral,April,12
+2012,MidCentral,May,11
+2012,MidCentral,June,9
+2012,MidCentral,July,9
+2012,MidCentral,August,14
+2012,MidCentral,September,22
+2012,MidCentral,October,25
+2012,MidCentral,November,20
+2012,MidCentral,December,19
+2013,MidCentral,January,28
+2013,MidCentral,February,13
+2013,MidCentral,March,14
+2013,MidCentral,April,10
+2013,MidCentral,May,27
+2013,MidCentral,June,17
+2013,MidCentral,July,31
+2013,MidCentral,August,19
+2013,MidCentral,September,27
+2013,MidCentral,October,25
+2013,MidCentral,November,26
+2013,MidCentral,December,48
+2014,MidCentral,January,22
+2014,MidCentral,February,25
+2014,MidCentral,March,26
+2014,MidCentral,April,11
+2014,MidCentral,May,24
+2014,MidCentral,June,18
+2014,MidCentral,July,20
+2014,MidCentral,August,28
+2014,MidCentral,September,15
+2014,MidCentral,October,22
+2014,MidCentral,November,27
+2014,MidCentral,December,21
+1997,Hutt Valley,January,15
+1997,Hutt Valley,February,28
+1997,Hutt Valley,March,28
+1997,Hutt Valley,April,23
+1997,Hutt Valley,May,28
+1997,Hutt Valley,June,21
+1997,Hutt Valley,July,36
+1997,Hutt Valley,August,24
+1997,Hutt Valley,September,39
+1997,Hutt Valley,October,39
+1997,Hutt Valley,November,57
+1997,Hutt Valley,December,55
+1998,Hutt Valley,January,50
+1998,Hutt Valley,February,41
+1998,Hutt Valley,March,48
+1998,Hutt Valley,April,43
+1998,Hutt Valley,May,76
+1998,Hutt Valley,June,56
+1998,Hutt Valley,July,38
+1998,Hutt Valley,August,42
+1998,Hutt Valley,September,47
+1998,Hutt Valley,October,44
+1998,Hutt Valley,November,65
+1998,Hutt Valley,December,84
+1999,Hutt Valley,January,45
+1999,Hutt Valley,February,40
+1999,Hutt Valley,March,33
+1999,Hutt Valley,April,21
+1999,Hutt Valley,May,13
+1999,Hutt Valley,June,26
+1999,Hutt Valley,July,25
+1999,Hutt Valley,August,34
+1999,Hutt Valley,September,20
+1999,Hutt Valley,October,19
+1999,Hutt Valley,November,29
+1999,Hutt Valley,December,32
+2000,Hutt Valley,January,33
+2000,Hutt Valley,February,34
+2000,Hutt Valley,March,41
+2000,Hutt Valley,April,7
+2000,Hutt Valley,May,19
+2000,Hutt Valley,June,23
+2000,Hutt Valley,July,12
+2000,Hutt Valley,August,11
+2000,Hutt Valley,September,11
+2000,Hutt Valley,October,23
+2000,Hutt Valley,November,30
+2000,Hutt Valley,December,45
+2001,Hutt Valley,January,40
+2001,Hutt Valley,February,23
+2001,Hutt Valley,March,21
+2001,Hutt Valley,April,13
+2001,Hutt Valley,May,26
+2001,Hutt Valley,June,27
+2001,Hutt Valley,July,28
+2001,Hutt Valley,August,31
+2001,Hutt Valley,September,42
+2001,Hutt Valley,October,53
+2001,Hutt Valley,November,71
+2001,Hutt Valley,December,71
+2002,Hutt Valley,January,64
+2002,Hutt Valley,February,52
+2002,Hutt Valley,March,32
+2002,Hutt Valley,April,15
+2002,Hutt Valley,May,23
+2002,Hutt Valley,June,26
+2002,Hutt Valley,July,39
+2002,Hutt Valley,August,27
+2002,Hutt Valley,September,40
+2002,Hutt Valley,October,33
+2002,Hutt Valley,November,30
+2002,Hutt Valley,December,61
+2003,Hutt Valley,January,88
+2003,Hutt Valley,February,54
+2003,Hutt Valley,March,46
+2003,Hutt Valley,April,36
+2003,Hutt Valley,May,19
+2003,Hutt Valley,June,23
+2003,Hutt Valley,July,48
+2003,Hutt Valley,August,73
+2003,Hutt Valley,September,105
+2003,Hutt Valley,October,52
+2003,Hutt Valley,November,58
+2003,Hutt Valley,December,61
+2004,Hutt Valley,January,65
+2004,Hutt Valley,February,38
+2004,Hutt Valley,March,75
+2004,Hutt Valley,April,23
+2004,Hutt Valley,May,21
+2004,Hutt Valley,June,33
+2004,Hutt Valley,July,37
+2004,Hutt Valley,August,24
+2004,Hutt Valley,September,33
+2004,Hutt Valley,October,39
+2004,Hutt Valley,November,30
+2004,Hutt Valley,December,47
+2005,Hutt Valley,January,36
+2005,Hutt Valley,February,35
+2005,Hutt Valley,March,30
+2005,Hutt Valley,April,19
+2005,Hutt Valley,May,28
+2005,Hutt Valley,June,28
+2005,Hutt Valley,July,46
+2005,Hutt Valley,August,58
+2005,Hutt Valley,September,55
+2005,Hutt Valley,October,42
+2005,Hutt Valley,November,54
+2005,Hutt Valley,December,62
+2006,Hutt Valley,January,56
+2006,Hutt Valley,February,46
+2006,Hutt Valley,March,48
+2006,Hutt Valley,April,25
+2006,Hutt Valley,May,73
+2006,Hutt Valley,June,55
+2006,Hutt Valley,July,44
+2006,Hutt Valley,August,52
+2006,Hutt Valley,September,53
+2006,Hutt Valley,October,42
+2006,Hutt Valley,November,67
+2006,Hutt Valley,December,46
+2007,Hutt Valley,January,69
+2007,Hutt Valley,February,39
+2007,Hutt Valley,March,30
+2007,Hutt Valley,April,25
+2007,Hutt Valley,May,37
+2007,Hutt Valley,June,33
+2007,Hutt Valley,July,32
+2007,Hutt Valley,August,33
+2007,Hutt Valley,September,34
+2007,Hutt Valley,October,35
+2007,Hutt Valley,November,45
+2007,Hutt Valley,December,23
+2008,Hutt Valley,January,30
+2008,Hutt Valley,February,33
+2008,Hutt Valley,March,21
+2008,Hutt Valley,April,13
+2008,Hutt Valley,May,16
+2008,Hutt Valley,June,10
+2008,Hutt Valley,July,16
+2008,Hutt Valley,August,25
+2008,Hutt Valley,September,30
+2008,Hutt Valley,October,32
+2008,Hutt Valley,November,41
+2008,Hutt Valley,December,31
+2009,Hutt Valley,January,38
+2009,Hutt Valley,February,24
+2009,Hutt Valley,March,24
+2009,Hutt Valley,April,26
+2009,Hutt Valley,May,22
+2009,Hutt Valley,June,23
+2009,Hutt Valley,July,21
+2009,Hutt Valley,August,35
+2009,Hutt Valley,September,28
+2009,Hutt Valley,October,35
+2009,Hutt Valley,November,48
+2009,Hutt Valley,December,31
+2010,Hutt Valley,January,49
+2010,Hutt Valley,February,46
+2010,Hutt Valley,March,25
+2010,Hutt Valley,April,24
+2010,Hutt Valley,May,33
+2010,Hutt Valley,June,24
+2010,Hutt Valley,July,20
+2010,Hutt Valley,August,16
+2010,Hutt Valley,September,19
+2010,Hutt Valley,October,29
+2010,Hutt Valley,November,32
+2010,Hutt Valley,December,26
+2011,Hutt Valley,January,19
+2011,Hutt Valley,February,5
+2011,Hutt Valley,March,13
+2011,Hutt Valley,April,14
+2011,Hutt Valley,May,18
+2011,Hutt Valley,June,17
+2011,Hutt Valley,July,30
+2011,Hutt Valley,August,26
+2011,Hutt Valley,September,17
+2011,Hutt Valley,October,13
+2011,Hutt Valley,November,21
+2011,Hutt Valley,December,30
+2012,Hutt Valley,January,25
+2012,Hutt Valley,February,16
+2012,Hutt Valley,March,11
+2012,Hutt Valley,April,14
+2012,Hutt Valley,May,11
+2012,Hutt Valley,June,12
+2012,Hutt Valley,July,8
+2012,Hutt Valley,August,2
+2012,Hutt Valley,September,16
+2012,Hutt Valley,October,18
+2012,Hutt Valley,November,19
+2012,Hutt Valley,December,19
+2013,Hutt Valley,January,17
+2013,Hutt Valley,February,18
+2013,Hutt Valley,March,5
+2013,Hutt Valley,April,4
+2013,Hutt Valley,May,11
+2013,Hutt Valley,June,9
+2013,Hutt Valley,July,14
+2013,Hutt Valley,August,12
+2013,Hutt Valley,September,12
+2013,Hutt Valley,October,10
+2013,Hutt Valley,November,23
+2013,Hutt Valley,December,17
+2014,Hutt Valley,January,23
+2014,Hutt Valley,February,13
+2014,Hutt Valley,March,12
+2014,Hutt Valley,April,10
+2014,Hutt Valley,May,9
+2014,Hutt Valley,June,11
+2014,Hutt Valley,July,14
+2014,Hutt Valley,August,12
+2014,Hutt Valley,September,10
+2014,Hutt Valley,October,15
+2014,Hutt Valley,November,18
+2014,Hutt Valley,December,64
+1997,Capital and Coast,January,103
+1997,Capital and Coast,February,98
+1997,Capital and Coast,March,74
+1997,Capital and Coast,April,53
+1997,Capital and Coast,May,49
+1997,Capital and Coast,June,82
+1997,Capital and Coast,July,98
+1997,Capital and Coast,August,63
+1997,Capital and Coast,September,111
+1997,Capital and Coast,October,109
+1997,Capital and Coast,November,133
+1997,Capital and Coast,December,127
+1998,Capital and Coast,January,115
+1998,Capital and Coast,February,95
+1998,Capital and Coast,March,124
+1998,Capital and Coast,April,110
+1998,Capital and Coast,May,163
+1998,Capital and Coast,June,115
+1998,Capital and Coast,July,111
+1998,Capital and Coast,August,78
+1998,Capital and Coast,September,117
+1998,Capital and Coast,October,103
+1998,Capital and Coast,November,149
+1998,Capital and Coast,December,148
+1999,Capital and Coast,January,87
+1999,Capital and Coast,February,62
+1999,Capital and Coast,March,67
+1999,Capital and Coast,April,48
+1999,Capital and Coast,May,43
+1999,Capital and Coast,June,52
+1999,Capital and Coast,July,74
+1999,Capital and Coast,August,92
+1999,Capital and Coast,September,50
+1999,Capital and Coast,October,57
+1999,Capital and Coast,November,70
+1999,Capital and Coast,December,82
+2000,Capital and Coast,January,71
+2000,Capital and Coast,February,88
+2000,Capital and Coast,March,81
+2000,Capital and Coast,April,55
+2000,Capital and Coast,May,68
+2000,Capital and Coast,June,61
+2000,Capital and Coast,July,41
+2000,Capital and Coast,August,38
+2000,Capital and Coast,September,36
+2000,Capital and Coast,October,51
+2000,Capital and Coast,November,70
+2000,Capital and Coast,December,69
+2001,Capital and Coast,January,92
+2001,Capital and Coast,February,83
+2001,Capital and Coast,March,55
+2001,Capital and Coast,April,62
+2001,Capital and Coast,May,70
+2001,Capital and Coast,June,56
+2001,Capital and Coast,July,85
+2001,Capital and Coast,August,65
+2001,Capital and Coast,September,96
+2001,Capital and Coast,October,119
+2001,Capital and Coast,November,157
+2001,Capital and Coast,December,158
+2002,Capital and Coast,January,135
+2002,Capital and Coast,February,93
+2002,Capital and Coast,March,76
+2002,Capital and Coast,April,44
+2002,Capital and Coast,May,55
+2002,Capital and Coast,June,54
+2002,Capital and Coast,July,101
+2002,Capital and Coast,August,91
+2002,Capital and Coast,September,114
+2002,Capital and Coast,October,111
+2002,Capital and Coast,November,75
+2002,Capital and Coast,December,137
+2003,Capital and Coast,January,259
+2003,Capital and Coast,February,117
+2003,Capital and Coast,March,127
+2003,Capital and Coast,April,84
+2003,Capital and Coast,May,60
+2003,Capital and Coast,June,63
+2003,Capital and Coast,July,94
+2003,Capital and Coast,August,138
+2003,Capital and Coast,September,167
+2003,Capital and Coast,October,149
+2003,Capital and Coast,November,144
+2003,Capital and Coast,December,114
+2004,Capital and Coast,January,131
+2004,Capital and Coast,February,96
+2004,Capital and Coast,March,140
+2004,Capital and Coast,April,77
+2004,Capital and Coast,May,53
+2004,Capital and Coast,June,68
+2004,Capital and Coast,July,70
+2004,Capital and Coast,August,53
+2004,Capital and Coast,September,60
+2004,Capital and Coast,October,47
+2004,Capital and Coast,November,66
+2004,Capital and Coast,December,71
+2005,Capital and Coast,January,105
+2005,Capital and Coast,February,89
+2005,Capital and Coast,March,65
+2005,Capital and Coast,April,67
+2005,Capital and Coast,May,62
+2005,Capital and Coast,June,60
+2005,Capital and Coast,July,102
+2005,Capital and Coast,August,121
+2005,Capital and Coast,September,123
+2005,Capital and Coast,October,101
+2005,Capital and Coast,November,130
+2005,Capital and Coast,December,149
+2006,Capital and Coast,January,119
+2006,Capital and Coast,February,115
+2006,Capital and Coast,March,113
+2006,Capital and Coast,April,87
+2006,Capital and Coast,May,138
+2006,Capital and Coast,June,139
+2006,Capital and Coast,July,125
+2006,Capital and Coast,August,108
+2006,Capital and Coast,September,89
+2006,Capital and Coast,October,129
+2006,Capital and Coast,November,129
+2006,Capital and Coast,December,128
+2007,Capital and Coast,January,131
+2007,Capital and Coast,February,106
+2007,Capital and Coast,March,90
+2007,Capital and Coast,April,61
+2007,Capital and Coast,May,91
+2007,Capital and Coast,June,69
+2007,Capital and Coast,July,82
+2007,Capital and Coast,August,83
+2007,Capital and Coast,September,53
+2007,Capital and Coast,October,62
+2007,Capital and Coast,November,102
+2007,Capital and Coast,December,60
+2008,Capital and Coast,January,43
+2008,Capital and Coast,February,43
+2008,Capital and Coast,March,31
+2008,Capital and Coast,April,40
+2008,Capital and Coast,May,41
+2008,Capital and Coast,June,20
+2008,Capital and Coast,July,47
+2008,Capital and Coast,August,43
+2008,Capital and Coast,September,40
+2008,Capital and Coast,October,59
+2008,Capital and Coast,November,67
+2008,Capital and Coast,December,106
+2009,Capital and Coast,January,58
+2009,Capital and Coast,February,53
+2009,Capital and Coast,March,53
+2009,Capital and Coast,April,48
+2009,Capital and Coast,May,41
+2009,Capital and Coast,June,45
+2009,Capital and Coast,July,44
+2009,Capital and Coast,August,61
+2009,Capital and Coast,September,69
+2009,Capital and Coast,October,50
+2009,Capital and Coast,November,84
+2009,Capital and Coast,December,86
+2010,Capital and Coast,January,82
+2010,Capital and Coast,February,68
+2010,Capital and Coast,March,40
+2010,Capital and Coast,April,42
+2010,Capital and Coast,May,42
+2010,Capital and Coast,June,41
+2010,Capital and Coast,July,48
+2010,Capital and Coast,August,45
+2010,Capital and Coast,September,41
+2010,Capital and Coast,October,42
+2010,Capital and Coast,November,55
+2010,Capital and Coast,December,46
+2011,Capital and Coast,January,40
+2011,Capital and Coast,February,31
+2011,Capital and Coast,March,31
+2011,Capital and Coast,April,39
+2011,Capital and Coast,May,46
+2011,Capital and Coast,June,46
+2011,Capital and Coast,July,47
+2011,Capital and Coast,August,75
+2011,Capital and Coast,September,37
+2011,Capital and Coast,October,39
+2011,Capital and Coast,November,53
+2011,Capital and Coast,December,45
+2012,Capital and Coast,January,63
+2012,Capital and Coast,February,48
+2012,Capital and Coast,March,29
+2012,Capital and Coast,April,43
+2012,Capital and Coast,May,33
+2012,Capital and Coast,June,25
+2012,Capital and Coast,July,26
+2012,Capital and Coast,August,20
+2012,Capital and Coast,September,30
+2012,Capital and Coast,October,33
+2012,Capital and Coast,November,43
+2012,Capital and Coast,December,37
+2013,Capital and Coast,January,36
+2013,Capital and Coast,February,44
+2013,Capital and Coast,March,24
+2013,Capital and Coast,April,25
+2013,Capital and Coast,May,32
+2013,Capital and Coast,June,27
+2013,Capital and Coast,July,36
+2013,Capital and Coast,August,42
+2013,Capital and Coast,September,27
+2013,Capital and Coast,October,31
+2013,Capital and Coast,November,56
+2013,Capital and Coast,December,60
+2014,Capital and Coast,January,49
+2014,Capital and Coast,February,28
+2014,Capital and Coast,March,47
+2014,Capital and Coast,April,24
+2014,Capital and Coast,May,33
+2014,Capital and Coast,June,41
+2014,Capital and Coast,July,26
+2014,Capital and Coast,August,48
+2014,Capital and Coast,September,39
+2014,Capital and Coast,October,53
+2014,Capital and Coast,November,58
+2014,Capital and Coast,December,97
+1997,Wairarapa,January,3
+1997,Wairarapa,February,5
+1997,Wairarapa,March,2
+1997,Wairarapa,April,7
+1997,Wairarapa,May,3
+1997,Wairarapa,June,2
+1997,Wairarapa,July,6
+1997,Wairarapa,August,4
+1997,Wairarapa,September,4
+1997,Wairarapa,October,5
+1997,Wairarapa,November,8
+1997,Wairarapa,December,2
+1998,Wairarapa,January,1
+1998,Wairarapa,February,1
+1998,Wairarapa,March,7
+1998,Wairarapa,April,3
+1998,Wairarapa,May,3
+1998,Wairarapa,June,4
+1998,Wairarapa,July,0
+1998,Wairarapa,August,6
+1998,Wairarapa,September,4
+1998,Wairarapa,October,12
+1998,Wairarapa,November,6
+1998,Wairarapa,December,6
+1999,Wairarapa,January,4
+1999,Wairarapa,February,3
+1999,Wairarapa,March,5
+1999,Wairarapa,April,5
+1999,Wairarapa,May,3
+1999,Wairarapa,June,5
+1999,Wairarapa,July,0
+1999,Wairarapa,August,7
+1999,Wairarapa,September,3
+1999,Wairarapa,October,8
+1999,Wairarapa,November,12
+1999,Wairarapa,December,13
+2000,Wairarapa,January,11
+2000,Wairarapa,February,9
+2000,Wairarapa,March,3
+2000,Wairarapa,April,7
+2000,Wairarapa,May,8
+2000,Wairarapa,June,5
+2000,Wairarapa,July,6
+2000,Wairarapa,August,9
+2000,Wairarapa,September,6
+2000,Wairarapa,October,4
+2000,Wairarapa,November,2
+2000,Wairarapa,December,7
+2001,Wairarapa,January,13
+2001,Wairarapa,February,8
+2001,Wairarapa,March,2
+2001,Wairarapa,April,1
+2001,Wairarapa,May,2
+2001,Wairarapa,June,4
+2001,Wairarapa,July,5
+2001,Wairarapa,August,7
+2001,Wairarapa,September,9
+2001,Wairarapa,October,19
+2001,Wairarapa,November,20
+2001,Wairarapa,December,11
+2002,Wairarapa,January,5
+2002,Wairarapa,February,7
+2002,Wairarapa,March,8
+2002,Wairarapa,April,3
+2002,Wairarapa,May,8
+2002,Wairarapa,June,0
+2002,Wairarapa,July,6
+2002,Wairarapa,August,9
+2002,Wairarapa,September,5
+2002,Wairarapa,October,9
+2002,Wairarapa,November,6
+2002,Wairarapa,December,9
+2003,Wairarapa,January,17
+2003,Wairarapa,February,11
+2003,Wairarapa,March,12
+2003,Wairarapa,April,6
+2003,Wairarapa,May,5
+2003,Wairarapa,June,7
+2003,Wairarapa,July,15
+2003,Wairarapa,August,15
+2003,Wairarapa,September,18
+2003,Wairarapa,October,20
+2003,Wairarapa,November,17
+2003,Wairarapa,December,12
+2004,Wairarapa,January,12
+2004,Wairarapa,February,11
+2004,Wairarapa,March,6
+2004,Wairarapa,April,4
+2004,Wairarapa,May,2
+2004,Wairarapa,June,5
+2004,Wairarapa,July,5
+2004,Wairarapa,August,8
+2004,Wairarapa,September,1
+2004,Wairarapa,October,7
+2004,Wairarapa,November,4
+2004,Wairarapa,December,12
+2005,Wairarapa,January,11
+2005,Wairarapa,February,7
+2005,Wairarapa,March,4
+2005,Wairarapa,April,6
+2005,Wairarapa,May,5
+2005,Wairarapa,June,3
+2005,Wairarapa,July,3
+2005,Wairarapa,August,7
+2005,Wairarapa,September,8
+2005,Wairarapa,October,10
+2005,Wairarapa,November,11
+2005,Wairarapa,December,15
+2006,Wairarapa,January,9
+2006,Wairarapa,February,3
+2006,Wairarapa,March,4
+2006,Wairarapa,April,2
+2006,Wairarapa,May,8
+2006,Wairarapa,June,14
+2006,Wairarapa,July,9
+2006,Wairarapa,August,9
+2006,Wairarapa,September,3
+2006,Wairarapa,October,7
+2006,Wairarapa,November,14
+2006,Wairarapa,December,7
+2007,Wairarapa,January,10
+2007,Wairarapa,February,11
+2007,Wairarapa,March,5
+2007,Wairarapa,April,2
+2007,Wairarapa,May,2
+2007,Wairarapa,June,5
+2007,Wairarapa,July,6
+2007,Wairarapa,August,6
+2007,Wairarapa,September,4
+2007,Wairarapa,October,3
+2007,Wairarapa,November,6
+2007,Wairarapa,December,9
+2008,Wairarapa,January,3
+2008,Wairarapa,February,2
+2008,Wairarapa,March,3
+2008,Wairarapa,April,2
+2008,Wairarapa,May,1
+2008,Wairarapa,June,1
+2008,Wairarapa,July,4
+2008,Wairarapa,August,4
+2008,Wairarapa,September,10
+2008,Wairarapa,October,9
+2008,Wairarapa,November,6
+2008,Wairarapa,December,4
+2009,Wairarapa,January,6
+2009,Wairarapa,February,10
+2009,Wairarapa,March,3
+2009,Wairarapa,April,2
+2009,Wairarapa,May,4
+2009,Wairarapa,June,0
+2009,Wairarapa,July,5
+2009,Wairarapa,August,1
+2009,Wairarapa,September,6
+2009,Wairarapa,October,8
+2009,Wairarapa,November,9
+2009,Wairarapa,December,15
+2010,Wairarapa,January,8
+2010,Wairarapa,February,12
+2010,Wairarapa,March,9
+2010,Wairarapa,April,6
+2010,Wairarapa,May,4
+2010,Wairarapa,June,4
+2010,Wairarapa,July,8
+2010,Wairarapa,August,5
+2010,Wairarapa,September,4
+2010,Wairarapa,October,5
+2010,Wairarapa,November,2
+2010,Wairarapa,December,6
+2011,Wairarapa,January,7
+2011,Wairarapa,February,5
+2011,Wairarapa,March,9
+2011,Wairarapa,April,3
+2011,Wairarapa,May,9
+2011,Wairarapa,June,4
+2011,Wairarapa,July,3
+2011,Wairarapa,August,9
+2011,Wairarapa,September,6
+2011,Wairarapa,October,2
+2011,Wairarapa,November,17
+2011,Wairarapa,December,15
+2012,Wairarapa,January,15
+2012,Wairarapa,February,9
+2012,Wairarapa,March,5
+2012,Wairarapa,April,7
+2012,Wairarapa,May,3
+2012,Wairarapa,June,2
+2012,Wairarapa,July,2
+2012,Wairarapa,August,2
+2012,Wairarapa,September,5
+2012,Wairarapa,October,6
+2012,Wairarapa,November,8
+2012,Wairarapa,December,9
+2013,Wairarapa,January,1
+2013,Wairarapa,February,3
+2013,Wairarapa,March,3
+2013,Wairarapa,April,5
+2013,Wairarapa,May,7
+2013,Wairarapa,June,3
+2013,Wairarapa,July,7
+2013,Wairarapa,August,6
+2013,Wairarapa,September,5
+2013,Wairarapa,October,10
+2013,Wairarapa,November,7
+2013,Wairarapa,December,11
+2014,Wairarapa,January,10
+2014,Wairarapa,February,6
+2014,Wairarapa,March,3
+2014,Wairarapa,April,1
+2014,Wairarapa,May,2
+2014,Wairarapa,June,6
+2014,Wairarapa,July,3
+2014,Wairarapa,August,5
+2014,Wairarapa,September,4
+2014,Wairarapa,October,9
+2014,Wairarapa,November,4
+2014,Wairarapa,December,8
+1997,Nelson Marlborough,January,18
+1997,Nelson Marlborough,February,20
+1997,Nelson Marlborough,March,15
+1997,Nelson Marlborough,April,13
+1997,Nelson Marlborough,May,10
+1997,Nelson Marlborough,June,8
+1997,Nelson Marlborough,July,6
+1997,Nelson Marlborough,August,4
+1997,Nelson Marlborough,September,5
+1997,Nelson Marlborough,October,7
+1997,Nelson Marlborough,November,10
+1997,Nelson Marlborough,December,16
+1998,Nelson Marlborough,January,14
+1998,Nelson Marlborough,February,11
+1998,Nelson Marlborough,March,12
+1998,Nelson Marlborough,April,8
+1998,Nelson Marlborough,May,16
+1998,Nelson Marlborough,June,9
+1998,Nelson Marlborough,July,14
+1998,Nelson Marlborough,August,6
+1998,Nelson Marlborough,September,5
+1998,Nelson Marlborough,October,5
+1998,Nelson Marlborough,November,15
+1998,Nelson Marlborough,December,20
+1999,Nelson Marlborough,January,26
+1999,Nelson Marlborough,February,16
+1999,Nelson Marlborough,March,12
+1999,Nelson Marlborough,April,9
+1999,Nelson Marlborough,May,5
+1999,Nelson Marlborough,June,13
+1999,Nelson Marlborough,July,7
+1999,Nelson Marlborough,August,14
+1999,Nelson Marlborough,September,14
+1999,Nelson Marlborough,October,15
+1999,Nelson Marlborough,November,19
+1999,Nelson Marlborough,December,27
+2000,Nelson Marlborough,January,30
+2000,Nelson Marlborough,February,24
+2000,Nelson Marlborough,March,24
+2000,Nelson Marlborough,April,10
+2000,Nelson Marlborough,May,9
+2000,Nelson Marlborough,June,7
+2000,Nelson Marlborough,July,8
+2000,Nelson Marlborough,August,3
+2000,Nelson Marlborough,September,6
+2000,Nelson Marlborough,October,10
+2000,Nelson Marlborough,November,13
+2000,Nelson Marlborough,December,17
+2001,Nelson Marlborough,January,22
+2001,Nelson Marlborough,February,17
+2001,Nelson Marlborough,March,11
+2001,Nelson Marlborough,April,5
+2001,Nelson Marlborough,May,3
+2001,Nelson Marlborough,June,8
+2001,Nelson Marlborough,July,10
+2001,Nelson Marlborough,August,13
+2001,Nelson Marlborough,September,9
+2001,Nelson Marlborough,October,12
+2001,Nelson Marlborough,November,28
+2001,Nelson Marlborough,December,15
+2002,Nelson Marlborough,January,30
+2002,Nelson Marlborough,February,26
+2002,Nelson Marlborough,March,12
+2002,Nelson Marlborough,April,9
+2002,Nelson Marlborough,May,6
+2002,Nelson Marlborough,June,8
+2002,Nelson Marlborough,July,15
+2002,Nelson Marlborough,August,15
+2002,Nelson Marlborough,September,18
+2002,Nelson Marlborough,October,25
+2002,Nelson Marlborough,November,23
+2002,Nelson Marlborough,December,26
+2003,Nelson Marlborough,January,33
+2003,Nelson Marlborough,February,20
+2003,Nelson Marlborough,March,22
+2003,Nelson Marlborough,April,18
+2003,Nelson Marlborough,May,27
+2003,Nelson Marlborough,June,19
+2003,Nelson Marlborough,July,27
+2003,Nelson Marlborough,August,23
+2003,Nelson Marlborough,September,26
+2003,Nelson Marlborough,October,37
+2003,Nelson Marlborough,November,40
+2003,Nelson Marlborough,December,30
+2004,Nelson Marlborough,January,39
+2004,Nelson Marlborough,February,14
+2004,Nelson Marlborough,March,18
+2004,Nelson Marlborough,April,16
+2004,Nelson Marlborough,May,15
+2004,Nelson Marlborough,June,20
+2004,Nelson Marlborough,July,16
+2004,Nelson Marlborough,August,16
+2004,Nelson Marlborough,September,12
+2004,Nelson Marlborough,October,16
+2004,Nelson Marlborough,November,34
+2004,Nelson Marlborough,December,37
+2005,Nelson Marlborough,January,52
+2005,Nelson Marlborough,February,41
+2005,Nelson Marlborough,March,19
+2005,Nelson Marlborough,April,15
+2005,Nelson Marlborough,May,24
+2005,Nelson Marlborough,June,21
+2005,Nelson Marlborough,July,26
+2005,Nelson Marlborough,August,40
+2005,Nelson Marlborough,September,37
+2005,Nelson Marlborough,October,38
+2005,Nelson Marlborough,November,55
+2005,Nelson Marlborough,December,30
+2006,Nelson Marlborough,January,57
+2006,Nelson Marlborough,February,30
+2006,Nelson Marlborough,March,33
+2006,Nelson Marlborough,April,21
+2006,Nelson Marlborough,May,28
+2006,Nelson Marlborough,June,26
+2006,Nelson Marlborough,July,13
+2006,Nelson Marlborough,August,20
+2006,Nelson Marlborough,September,16
+2006,Nelson Marlborough,October,28
+2006,Nelson Marlborough,November,45
+2006,Nelson Marlborough,December,42
+2007,Nelson Marlborough,January,78
+2007,Nelson Marlborough,February,67
+2007,Nelson Marlborough,March,46
+2007,Nelson Marlborough,April,17
+2007,Nelson Marlborough,May,17
+2007,Nelson Marlborough,June,32
+2007,Nelson Marlborough,July,28
+2007,Nelson Marlborough,August,25
+2007,Nelson Marlborough,September,20
+2007,Nelson Marlborough,October,23
+2007,Nelson Marlborough,November,31
+2007,Nelson Marlborough,December,25
+2008,Nelson Marlborough,January,15
+2008,Nelson Marlborough,February,14
+2008,Nelson Marlborough,March,11
+2008,Nelson Marlborough,April,14
+2008,Nelson Marlborough,May,15
+2008,Nelson Marlborough,June,4
+2008,Nelson Marlborough,July,8
+2008,Nelson Marlborough,August,17
+2008,Nelson Marlborough,September,29
+2008,Nelson Marlborough,October,14
+2008,Nelson Marlborough,November,27
+2008,Nelson Marlborough,December,30
+2009,Nelson Marlborough,January,43
+2009,Nelson Marlborough,February,13
+2009,Nelson Marlborough,March,7
+2009,Nelson Marlborough,April,10
+2009,Nelson Marlborough,May,12
+2009,Nelson Marlborough,June,11
+2009,Nelson Marlborough,July,8
+2009,Nelson Marlborough,August,7
+2009,Nelson Marlborough,September,15
+2009,Nelson Marlborough,October,10
+2009,Nelson Marlborough,November,22
+2009,Nelson Marlborough,December,15
+2010,Nelson Marlborough,January,24
+2010,Nelson Marlborough,February,20
+2010,Nelson Marlborough,March,23
+2010,Nelson Marlborough,April,16
+2010,Nelson Marlborough,May,9
+2010,Nelson Marlborough,June,15
+2010,Nelson Marlborough,July,13
+2010,Nelson Marlborough,August,24
+2010,Nelson Marlborough,September,17
+2010,Nelson Marlborough,October,17
+2010,Nelson Marlborough,November,23
+2010,Nelson Marlborough,December,34
+2011,Nelson Marlborough,January,25
+2011,Nelson Marlborough,February,20
+2011,Nelson Marlborough,March,11
+2011,Nelson Marlborough,April,15
+2011,Nelson Marlborough,May,11
+2011,Nelson Marlborough,June,15
+2011,Nelson Marlborough,July,15
+2011,Nelson Marlborough,August,11
+2011,Nelson Marlborough,September,8
+2011,Nelson Marlborough,October,9
+2011,Nelson Marlborough,November,22
+2011,Nelson Marlborough,December,37
+2012,Nelson Marlborough,January,46
+2012,Nelson Marlborough,February,27
+2012,Nelson Marlborough,March,26
+2012,Nelson Marlborough,April,16
+2012,Nelson Marlborough,May,35
+2012,Nelson Marlborough,June,13
+2012,Nelson Marlborough,July,15
+2012,Nelson Marlborough,August,10
+2012,Nelson Marlborough,September,31
+2012,Nelson Marlborough,October,18
+2012,Nelson Marlborough,November,36
+2012,Nelson Marlborough,December,30
+2013,Nelson Marlborough,January,22
+2013,Nelson Marlborough,February,14
+2013,Nelson Marlborough,March,16
+2013,Nelson Marlborough,April,8
+2013,Nelson Marlborough,May,6
+2013,Nelson Marlborough,June,12
+2013,Nelson Marlborough,July,16
+2013,Nelson Marlborough,August,7
+2013,Nelson Marlborough,September,24
+2013,Nelson Marlborough,October,16
+2013,Nelson Marlborough,November,16
+2013,Nelson Marlborough,December,31
+2014,Nelson Marlborough,January,28
+2014,Nelson Marlborough,February,18
+2014,Nelson Marlborough,March,16
+2014,Nelson Marlborough,April,18
+2014,Nelson Marlborough,May,18
+2014,Nelson Marlborough,June,14
+2014,Nelson Marlborough,July,9
+2014,Nelson Marlborough,August,13
+2014,Nelson Marlborough,September,7
+2014,Nelson Marlborough,October,16
+2014,Nelson Marlborough,November,17
+2014,Nelson Marlborough,December,20
+1997,West Coast,January,13
+1997,West Coast,February,6
+1997,West Coast,March,4
+1997,West Coast,April,7
+1997,West Coast,May,5
+1997,West Coast,June,4
+1997,West Coast,July,1
+1997,West Coast,August,1
+1997,West Coast,September,7
+1997,West Coast,October,6
+1997,West Coast,November,7
+1997,West Coast,December,7
+1998,West Coast,January,11
+1998,West Coast,February,6
+1998,West Coast,March,3
+1998,West Coast,April,4
+1998,West Coast,May,8
+1998,West Coast,June,3
+1998,West Coast,July,3
+1998,West Coast,August,4
+1998,West Coast,September,6
+1998,West Coast,October,5
+1998,West Coast,November,12
+1998,West Coast,December,9
+1999,West Coast,January,7
+1999,West Coast,February,4
+1999,West Coast,March,3
+1999,West Coast,April,3
+1999,West Coast,May,4
+1999,West Coast,June,4
+1999,West Coast,July,5
+1999,West Coast,August,1
+1999,West Coast,September,3
+1999,West Coast,October,9
+1999,West Coast,November,4
+1999,West Coast,December,5
+2000,West Coast,January,5
+2000,West Coast,February,5
+2000,West Coast,March,2
+2000,West Coast,April,6
+2000,West Coast,May,2
+2000,West Coast,June,1
+2000,West Coast,July,4
+2000,West Coast,August,1
+2000,West Coast,September,6
+2000,West Coast,October,9
+2000,West Coast,November,12
+2000,West Coast,December,5
+2001,West Coast,January,7
+2001,West Coast,February,10
+2001,West Coast,March,1
+2001,West Coast,April,3
+2001,West Coast,May,3
+2001,West Coast,June,3
+2001,West Coast,July,3
+2001,West Coast,August,6
+2001,West Coast,September,7
+2001,West Coast,October,16
+2001,West Coast,November,11
+2001,West Coast,December,6
+2002,West Coast,January,5
+2002,West Coast,February,5
+2002,West Coast,March,5
+2002,West Coast,April,2
+2002,West Coast,May,5
+2002,West Coast,June,7
+2002,West Coast,July,7
+2002,West Coast,August,13
+2002,West Coast,September,9
+2002,West Coast,October,7
+2002,West Coast,November,10
+2002,West Coast,December,9
+2003,West Coast,January,6
+2003,West Coast,February,10
+2003,West Coast,March,4
+2003,West Coast,April,4
+2003,West Coast,May,8
+2003,West Coast,June,10
+2003,West Coast,July,8
+2003,West Coast,August,7
+2003,West Coast,September,9
+2003,West Coast,October,12
+2003,West Coast,November,10
+2003,West Coast,December,12
+2004,West Coast,January,9
+2004,West Coast,February,9
+2004,West Coast,March,7
+2004,West Coast,April,4
+2004,West Coast,May,4
+2004,West Coast,June,8
+2004,West Coast,July,7
+2004,West Coast,August,0
+2004,West Coast,September,6
+2004,West Coast,October,7
+2004,West Coast,November,7
+2004,West Coast,December,14
+2005,West Coast,January,11
+2005,West Coast,February,9
+2005,West Coast,March,3
+2005,West Coast,April,0
+2005,West Coast,May,2
+2005,West Coast,June,4
+2005,West Coast,July,8
+2005,West Coast,August,8
+2005,West Coast,September,4
+2005,West Coast,October,6
+2005,West Coast,November,16
+2005,West Coast,December,14
+2006,West Coast,January,11
+2006,West Coast,February,9
+2006,West Coast,March,5
+2006,West Coast,April,6
+2006,West Coast,May,0
+2006,West Coast,June,5
+2006,West Coast,July,2
+2006,West Coast,August,3
+2006,West Coast,September,5
+2006,West Coast,October,12
+2006,West Coast,November,9
+2006,West Coast,December,7
+2007,West Coast,January,18
+2007,West Coast,February,12
+2007,West Coast,March,4
+2007,West Coast,April,4
+2007,West Coast,May,3
+2007,West Coast,June,4
+2007,West Coast,July,8
+2007,West Coast,August,6
+2007,West Coast,September,6
+2007,West Coast,October,7
+2007,West Coast,November,4
+2007,West Coast,December,5
+2008,West Coast,January,8
+2008,West Coast,February,3
+2008,West Coast,March,5
+2008,West Coast,April,6
+2008,West Coast,May,4
+2008,West Coast,June,0
+2008,West Coast,July,2
+2008,West Coast,August,4
+2008,West Coast,September,5
+2008,West Coast,October,7
+2008,West Coast,November,6
+2008,West Coast,December,4
+2009,West Coast,January,4
+2009,West Coast,February,0
+2009,West Coast,March,4
+2009,West Coast,April,3
+2009,West Coast,May,1
+2009,West Coast,June,4
+2009,West Coast,July,2
+2009,West Coast,August,3
+2009,West Coast,September,5
+2009,West Coast,October,3
+2009,West Coast,November,5
+2009,West Coast,December,8
+2010,West Coast,January,6
+2010,West Coast,February,5
+2010,West Coast,March,11
+2010,West Coast,April,3
+2010,West Coast,May,3
+2010,West Coast,June,2
+2010,West Coast,July,2
+2010,West Coast,August,4
+2010,West Coast,September,9
+2010,West Coast,October,9
+2010,West Coast,November,8
+2010,West Coast,December,4
+2011,West Coast,January,3
+2011,West Coast,February,0
+2011,West Coast,March,3
+2011,West Coast,April,2
+2011,West Coast,May,3
+2011,West Coast,June,1
+2011,West Coast,July,6
+2011,West Coast,August,4
+2011,West Coast,September,5
+2011,West Coast,October,3
+2011,West Coast,November,9
+2011,West Coast,December,15
+2012,West Coast,January,6
+2012,West Coast,February,4
+2012,West Coast,March,4
+2012,West Coast,April,2
+2012,West Coast,May,8
+2012,West Coast,June,4
+2012,West Coast,July,2
+2012,West Coast,August,7
+2012,West Coast,September,10
+2012,West Coast,October,10
+2012,West Coast,November,8
+2012,West Coast,December,7
+2013,West Coast,January,5
+2013,West Coast,February,4
+2013,West Coast,March,4
+2013,West Coast,April,4
+2013,West Coast,May,2
+2013,West Coast,June,3
+2013,West Coast,July,5
+2013,West Coast,August,2
+2013,West Coast,September,9
+2013,West Coast,October,16
+2013,West Coast,November,9
+2013,West Coast,December,6
+2014,West Coast,January,9
+2014,West Coast,February,5
+2014,West Coast,March,1
+2014,West Coast,April,6
+2014,West Coast,May,1
+2014,West Coast,June,1
+2014,West Coast,July,2
+2014,West Coast,August,4
+2014,West Coast,September,8
+2014,West Coast,October,12
+2014,West Coast,November,5
+2014,West Coast,December,7
+1997,Canterbury,January,226
+1997,Canterbury,February,123
+1997,Canterbury,March,117
+1997,Canterbury,April,114
+1997,Canterbury,May,69
+1997,Canterbury,June,28
+1997,Canterbury,July,37
+1997,Canterbury,August,30
+1997,Canterbury,September,36
+1997,Canterbury,October,49
+1997,Canterbury,November,54
+1997,Canterbury,December,116
+1998,Canterbury,January,182
+1998,Canterbury,February,145
+1998,Canterbury,March,219
+1998,Canterbury,April,116
+1998,Canterbury,May,125
+1998,Canterbury,June,92
+1998,Canterbury,July,47
+1998,Canterbury,August,86
+1998,Canterbury,September,134
+1998,Canterbury,October,128
+1998,Canterbury,November,187
+1998,Canterbury,December,151
+1999,Canterbury,January,148
+1999,Canterbury,February,195
+1999,Canterbury,March,143
+1999,Canterbury,April,91
+1999,Canterbury,May,57
+1999,Canterbury,June,71
+1999,Canterbury,July,119
+1999,Canterbury,August,90
+1999,Canterbury,September,68
+1999,Canterbury,October,55
+1999,Canterbury,November,95
+1999,Canterbury,December,131
+2000,Canterbury,January,241
+2000,Canterbury,February,120
+2000,Canterbury,March,171
+2000,Canterbury,April,152
+2000,Canterbury,May,110
+2000,Canterbury,June,50
+2000,Canterbury,July,25
+2000,Canterbury,August,61
+2000,Canterbury,September,66
+2000,Canterbury,October,131
+2000,Canterbury,November,111
+2000,Canterbury,December,238
+2001,Canterbury,January,237
+2001,Canterbury,February,180
+2001,Canterbury,March,70
+2001,Canterbury,April,37
+2001,Canterbury,May,39
+2001,Canterbury,June,26
+2001,Canterbury,July,37
+2001,Canterbury,August,53
+2001,Canterbury,September,65
+2001,Canterbury,October,72
+2001,Canterbury,November,116
+2001,Canterbury,December,191
+2002,Canterbury,January,243
+2002,Canterbury,February,229
+2002,Canterbury,March,188
+2002,Canterbury,April,83
+2002,Canterbury,May,47
+2002,Canterbury,June,51
+2002,Canterbury,July,65
+2002,Canterbury,August,85
+2002,Canterbury,September,137
+2002,Canterbury,October,138
+2002,Canterbury,November,109
+2002,Canterbury,December,137
+2003,Canterbury,January,158
+2003,Canterbury,February,222
+2003,Canterbury,March,205
+2003,Canterbury,April,81
+2003,Canterbury,May,116
+2003,Canterbury,June,91
+2003,Canterbury,July,132
+2003,Canterbury,August,200
+2003,Canterbury,September,171
+2003,Canterbury,October,187
+2003,Canterbury,November,153
+2003,Canterbury,December,199
+2004,Canterbury,January,189
+2004,Canterbury,February,83
+2004,Canterbury,March,143
+2004,Canterbury,April,102
+2004,Canterbury,May,81
+2004,Canterbury,June,92
+2004,Canterbury,July,64
+2004,Canterbury,August,73
+2004,Canterbury,September,95
+2004,Canterbury,October,89
+2004,Canterbury,November,159
+2004,Canterbury,December,138
+2005,Canterbury,January,201
+2005,Canterbury,February,196
+2005,Canterbury,March,103
+2005,Canterbury,April,103
+2005,Canterbury,May,82
+2005,Canterbury,June,152
+2005,Canterbury,July,112
+2005,Canterbury,August,178
+2005,Canterbury,September,254
+2005,Canterbury,October,220
+2005,Canterbury,November,229
+2005,Canterbury,December,181
+2006,Canterbury,January,242
+2006,Canterbury,February,199
+2006,Canterbury,March,202
+2006,Canterbury,April,99
+2006,Canterbury,May,182
+2006,Canterbury,June,122
+2006,Canterbury,July,104
+2006,Canterbury,August,99
+2006,Canterbury,September,117
+2006,Canterbury,October,135
+2006,Canterbury,November,201
+2006,Canterbury,December,202
+2007,Canterbury,January,380
+2007,Canterbury,February,272
+2007,Canterbury,March,206
+2007,Canterbury,April,110
+2007,Canterbury,May,90
+2007,Canterbury,June,109
+2007,Canterbury,July,98
+2007,Canterbury,August,70
+2007,Canterbury,September,105
+2007,Canterbury,October,120
+2007,Canterbury,November,107
+2007,Canterbury,December,87
+2008,Canterbury,January,65
+2008,Canterbury,February,83
+2008,Canterbury,March,55
+2008,Canterbury,April,68
+2008,Canterbury,May,34
+2008,Canterbury,June,27
+2008,Canterbury,July,27
+2008,Canterbury,August,49
+2008,Canterbury,September,58
+2008,Canterbury,October,62
+2008,Canterbury,November,59
+2008,Canterbury,December,74
+2009,Canterbury,January,57
+2009,Canterbury,February,42
+2009,Canterbury,March,46
+2009,Canterbury,April,40
+2009,Canterbury,May,44
+2009,Canterbury,June,35
+2009,Canterbury,July,23
+2009,Canterbury,August,27
+2009,Canterbury,September,38
+2009,Canterbury,October,42
+2009,Canterbury,November,67
+2009,Canterbury,December,84
+2010,Canterbury,January,95
+2010,Canterbury,February,89
+2010,Canterbury,March,75
+2010,Canterbury,April,67
+2010,Canterbury,May,59
+2010,Canterbury,June,42
+2010,Canterbury,July,40
+2010,Canterbury,August,71
+2010,Canterbury,September,93
+2010,Canterbury,October,84
+2010,Canterbury,November,110
+2010,Canterbury,December,106
+2011,Canterbury,January,83
+2011,Canterbury,February,54
+2011,Canterbury,March,80
+2011,Canterbury,April,57
+2011,Canterbury,May,61
+2011,Canterbury,June,57
+2011,Canterbury,July,57
+2011,Canterbury,August,77
+2011,Canterbury,September,66
+2011,Canterbury,October,59
+2011,Canterbury,November,83
+2011,Canterbury,December,144
+2012,Canterbury,January,159
+2012,Canterbury,February,128
+2012,Canterbury,March,82
+2012,Canterbury,April,62
+2012,Canterbury,May,112
+2012,Canterbury,June,62
+2012,Canterbury,July,34
+2012,Canterbury,August,95
+2012,Canterbury,September,73
+2012,Canterbury,October,111
+2012,Canterbury,November,108
+2012,Canterbury,December,93
+2013,Canterbury,January,90
+2013,Canterbury,February,67
+2013,Canterbury,March,61
+2013,Canterbury,April,36
+2013,Canterbury,May,49
+2013,Canterbury,June,41
+2013,Canterbury,July,67
+2013,Canterbury,August,51
+2013,Canterbury,September,68
+2013,Canterbury,October,73
+2013,Canterbury,November,80
+2013,Canterbury,December,119
+2014,Canterbury,January,128
+2014,Canterbury,February,66
+2014,Canterbury,March,52
+2014,Canterbury,April,54
+2014,Canterbury,May,51
+2014,Canterbury,June,59
+2014,Canterbury,July,28
+2014,Canterbury,August,39
+2014,Canterbury,September,70
+2014,Canterbury,October,68
+2014,Canterbury,November,51
+2014,Canterbury,December,74
+1997,South Canterbury,January,24
+1997,South Canterbury,February,25
+1997,South Canterbury,March,16
+1997,South Canterbury,April,14
+1997,South Canterbury,May,13
+1997,South Canterbury,June,10
+1997,South Canterbury,July,6
+1997,South Canterbury,August,6
+1997,South Canterbury,September,6
+1997,South Canterbury,October,8
+1997,South Canterbury,November,12
+1997,South Canterbury,December,13
+1998,South Canterbury,January,24
+1998,South Canterbury,February,14
+1998,South Canterbury,March,16
+1998,South Canterbury,April,6
+1998,South Canterbury,May,17
+1998,South Canterbury,June,5
+1998,South Canterbury,July,9
+1998,South Canterbury,August,7
+1998,South Canterbury,September,9
+1998,South Canterbury,October,15
+1998,South Canterbury,November,17
+1998,South Canterbury,December,14
+1999,South Canterbury,January,19
+1999,South Canterbury,February,19
+1999,South Canterbury,March,13
+1999,South Canterbury,April,7
+1999,South Canterbury,May,7
+1999,South Canterbury,June,7
+1999,South Canterbury,July,6
+1999,South Canterbury,August,16
+1999,South Canterbury,September,7
+1999,South Canterbury,October,15
+1999,South Canterbury,November,31
+1999,South Canterbury,December,25
+2000,South Canterbury,January,42
+2000,South Canterbury,February,32
+2000,South Canterbury,March,25
+2000,South Canterbury,April,11
+2000,South Canterbury,May,14
+2000,South Canterbury,June,7
+2000,South Canterbury,July,9
+2000,South Canterbury,August,12
+2000,South Canterbury,September,19
+2000,South Canterbury,October,16
+2000,South Canterbury,November,12
+2000,South Canterbury,December,11
+2001,South Canterbury,January,27
+2001,South Canterbury,February,28
+2001,South Canterbury,March,16
+2001,South Canterbury,April,12
+2001,South Canterbury,May,10
+2001,South Canterbury,June,9
+2001,South Canterbury,July,3
+2001,South Canterbury,August,13
+2001,South Canterbury,September,14
+2001,South Canterbury,October,15
+2001,South Canterbury,November,23
+2001,South Canterbury,December,26
+2002,South Canterbury,January,29
+2002,South Canterbury,February,20
+2002,South Canterbury,March,21
+2002,South Canterbury,April,10
+2002,South Canterbury,May,17
+2002,South Canterbury,June,17
+2002,South Canterbury,July,25
+2002,South Canterbury,August,16
+2002,South Canterbury,September,24
+2002,South Canterbury,October,13
+2002,South Canterbury,November,15
+2002,South Canterbury,December,16
+2003,South Canterbury,January,35
+2003,South Canterbury,February,26
+2003,South Canterbury,March,14
+2003,South Canterbury,April,15
+2003,South Canterbury,May,15
+2003,South Canterbury,June,9
+2003,South Canterbury,July,12
+2003,South Canterbury,August,13
+2003,South Canterbury,September,18
+2003,South Canterbury,October,19
+2003,South Canterbury,November,15
+2003,South Canterbury,December,26
+2004,South Canterbury,January,30
+2004,South Canterbury,February,24
+2004,South Canterbury,March,19
+2004,South Canterbury,April,19
+2004,South Canterbury,May,11
+2004,South Canterbury,June,22
+2004,South Canterbury,July,17
+2004,South Canterbury,August,15
+2004,South Canterbury,September,12
+2004,South Canterbury,October,22
+2004,South Canterbury,November,51
+2004,South Canterbury,December,47
+2005,South Canterbury,January,30
+2005,South Canterbury,February,55
+2005,South Canterbury,March,27
+2005,South Canterbury,April,21
+2005,South Canterbury,May,33
+2005,South Canterbury,June,19
+2005,South Canterbury,July,24
+2005,South Canterbury,August,23
+2005,South Canterbury,September,32
+2005,South Canterbury,October,29
+2005,South Canterbury,November,37
+2005,South Canterbury,December,34
+2006,South Canterbury,January,29
+2006,South Canterbury,February,34
+2006,South Canterbury,March,35
+2006,South Canterbury,April,16
+2006,South Canterbury,May,33
+2006,South Canterbury,June,19
+2006,South Canterbury,July,16
+2006,South Canterbury,August,19
+2006,South Canterbury,September,21
+2006,South Canterbury,October,24
+2006,South Canterbury,November,20
+2006,South Canterbury,December,19
+2007,South Canterbury,January,44
+2007,South Canterbury,February,35
+2007,South Canterbury,March,19
+2007,South Canterbury,April,16
+2007,South Canterbury,May,12
+2007,South Canterbury,June,9
+2007,South Canterbury,July,12
+2007,South Canterbury,August,12
+2007,South Canterbury,September,18
+2007,South Canterbury,October,14
+2007,South Canterbury,November,17
+2007,South Canterbury,December,12
+2008,South Canterbury,January,13
+2008,South Canterbury,February,16
+2008,South Canterbury,March,9
+2008,South Canterbury,April,13
+2008,South Canterbury,May,8
+2008,South Canterbury,June,9
+2008,South Canterbury,July,4
+2008,South Canterbury,August,16
+2008,South Canterbury,September,12
+2008,South Canterbury,October,18
+2008,South Canterbury,November,8
+2008,South Canterbury,December,19
+2009,South Canterbury,January,14
+2009,South Canterbury,February,7
+2009,South Canterbury,March,12
+2009,South Canterbury,April,7
+2009,South Canterbury,May,6
+2009,South Canterbury,June,10
+2009,South Canterbury,July,6
+2009,South Canterbury,August,4
+2009,South Canterbury,September,7
+2009,South Canterbury,October,10
+2009,South Canterbury,November,12
+2009,South Canterbury,December,8
+2010,South Canterbury,January,10
+2010,South Canterbury,February,12
+2010,South Canterbury,March,9
+2010,South Canterbury,April,13
+2010,South Canterbury,May,7
+2010,South Canterbury,June,12
+2010,South Canterbury,July,8
+2010,South Canterbury,August,7
+2010,South Canterbury,September,11
+2010,South Canterbury,October,9
+2010,South Canterbury,November,15
+2010,South Canterbury,December,9
+2011,South Canterbury,January,9
+2011,South Canterbury,February,8
+2011,South Canterbury,March,12
+2011,South Canterbury,April,9
+2011,South Canterbury,May,12
+2011,South Canterbury,June,13
+2011,South Canterbury,July,5
+2011,South Canterbury,August,8
+2011,South Canterbury,September,9
+2011,South Canterbury,October,10
+2011,South Canterbury,November,15
+2011,South Canterbury,December,16
+2012,South Canterbury,January,18
+2012,South Canterbury,February,20
+2012,South Canterbury,March,20
+2012,South Canterbury,April,12
+2012,South Canterbury,May,11
+2012,South Canterbury,June,9
+2012,South Canterbury,July,4
+2012,South Canterbury,August,18
+2012,South Canterbury,September,22
+2012,South Canterbury,October,21
+2012,South Canterbury,November,13
+2012,South Canterbury,December,10
+2013,South Canterbury,January,16
+2013,South Canterbury,February,18
+2013,South Canterbury,March,11
+2013,South Canterbury,April,6
+2013,South Canterbury,May,13
+2013,South Canterbury,June,9
+2013,South Canterbury,July,13
+2013,South Canterbury,August,14
+2013,South Canterbury,September,13
+2013,South Canterbury,October,23
+2013,South Canterbury,November,9
+2013,South Canterbury,December,22
+2014,South Canterbury,January,25
+2014,South Canterbury,February,9
+2014,South Canterbury,March,32
+2014,South Canterbury,April,11
+2014,South Canterbury,May,19
+2014,South Canterbury,June,13
+2014,South Canterbury,July,3
+2014,South Canterbury,August,1
+2014,South Canterbury,September,9
+2014,South Canterbury,October,11
+2014,South Canterbury,November,12
+2014,South Canterbury,December,10
+1997,Northland,January,22
+1997,Northland,February,12
+1997,Northland,March,20
+1997,Northland,April,11
+1997,Northland,May,9
+1997,Northland,June,7
+1997,Northland,July,5
+1997,Northland,August,9
+1997,Northland,September,18
+1997,Northland,October,17
+1997,Northland,November,14
+1997,Northland,December,14
+1998,Northland,January,25
+1998,Northland,February,17
+1998,Northland,March,26
+1998,Northland,April,16
+1998,Northland,May,15
+1998,Northland,June,13
+1998,Northland,July,22
+1998,Northland,August,18
+1998,Northland,September,19
+1998,Northland,October,15
+1998,Northland,November,18
+1998,Northland,December,20
+1999,Northland,January,16
+1999,Northland,February,10
+1999,Northland,March,13
+1999,Northland,April,9
+1999,Northland,May,7
+1999,Northland,June,5
+1999,Northland,July,6
+1999,Northland,August,20
+1999,Northland,September,21
+1999,Northland,October,17
+1999,Northland,November,20
+1999,Northland,December,22
+2000,Northland,January,24
+2000,Northland,February,14
+2000,Northland,March,14
+2000,Northland,April,10
+2000,Northland,May,8
+2000,Northland,June,10
+2000,Northland,July,20
+2000,Northland,August,14
+2000,Northland,September,24
+2000,Northland,October,34
+2000,Northland,November,19
+2000,Northland,December,16
+2001,Northland,January,21
+2001,Northland,February,22
+2001,Northland,March,14
+2001,Northland,April,9
+2001,Northland,May,8
+2001,Northland,June,9
+2001,Northland,July,17
+2001,Northland,August,33
+2001,Northland,September,23
+2001,Northland,October,18
+2001,Northland,November,26
+2001,Northland,December,34
+2002,Northland,January,36
+2002,Northland,February,23
+2002,Northland,March,15
+2002,Northland,April,19
+2002,Northland,May,15
+2002,Northland,June,31
+2002,Northland,July,21
+2002,Northland,August,31
+2002,Northland,September,38
+2002,Northland,October,24
+2002,Northland,November,17
+2002,Northland,December,24
+2003,Northland,January,35
+2003,Northland,February,19
+2003,Northland,March,19
+2003,Northland,April,20
+2003,Northland,May,15
+2003,Northland,June,16
+2003,Northland,July,16
+2003,Northland,August,34
+2003,Northland,September,31
+2003,Northland,October,28
+2003,Northland,November,26
+2003,Northland,December,37
+2004,Northland,January,32
+2004,Northland,February,22
+2004,Northland,March,25
+2004,Northland,April,12
+2004,Northland,May,18
+2004,Northland,June,24
+2004,Northland,July,27
+2004,Northland,August,28
+2004,Northland,September,29
+2004,Northland,October,30
+2004,Northland,November,39
+2004,Northland,December,40
+2005,Northland,January,42
+2005,Northland,February,22
+2005,Northland,March,16
+2005,Northland,April,18
+2005,Northland,May,10
+2005,Northland,June,14
+2005,Northland,July,14
+2005,Northland,August,19
+2005,Northland,September,26
+2005,Northland,October,44
+2005,Northland,November,40
+2005,Northland,December,39
+2006,Northland,January,35
+2006,Northland,February,36
+2006,Northland,March,24
+2006,Northland,April,21
+2006,Northland,May,29
+2006,Northland,June,26
+2006,Northland,July,31
+2006,Northland,August,36
+2006,Northland,September,27
+2006,Northland,October,38
+2006,Northland,November,42
+2006,Northland,December,29
+2007,Northland,January,52
+2007,Northland,February,28
+2007,Northland,March,22
+2007,Northland,April,6
+2007,Northland,May,26
+2007,Northland,June,20
+2007,Northland,July,34
+2007,Northland,August,34
+2007,Northland,September,41
+2007,Northland,October,48
+2007,Northland,November,28
+2007,Northland,December,30
+2008,Northland,January,25
+2008,Northland,February,23
+2008,Northland,March,15
+2008,Northland,April,14
+2008,Northland,May,16
+2008,Northland,June,12
+2008,Northland,July,12
+2008,Northland,August,26
+2008,Northland,September,35
+2008,Northland,October,15
+2008,Northland,November,24
+2008,Northland,December,32
+2009,Northland,January,29
+2009,Northland,February,14
+2009,Northland,March,12
+2009,Northland,April,13
+2009,Northland,May,6
+2009,Northland,June,10
+2009,Northland,July,13
+2009,Northland,August,38
+2009,Northland,September,19
+2009,Northland,October,21
+2009,Northland,November,14
+2009,Northland,December,19
+2010,Northland,January,14
+2010,Northland,February,12
+2010,Northland,March,12
+2010,Northland,April,14
+2010,Northland,May,8
+2010,Northland,June,12
+2010,Northland,July,13
+2010,Northland,August,24
+2010,Northland,September,19
+2010,Northland,October,11
+2010,Northland,November,24
+2010,Northland,December,20
+2011,Northland,January,20
+2011,Northland,February,8
+2011,Northland,March,12
+2011,Northland,April,7
+2011,Northland,May,25
+2011,Northland,June,11
+2011,Northland,July,15
+2011,Northland,August,19
+2011,Northland,September,21
+2011,Northland,October,19
+2011,Northland,November,20
+2011,Northland,December,48
+2012,Northland,January,25
+2012,Northland,February,24
+2012,Northland,March,20
+2012,Northland,April,14
+2012,Northland,May,11
+2012,Northland,June,12
+2012,Northland,July,15
+2012,Northland,August,27
+2012,Northland,September,6
+2012,Northland,October,26
+2012,Northland,November,30
+2012,Northland,December,19
+2013,Northland,January,34
+2013,Northland,February,12
+2013,Northland,March,11
+2013,Northland,April,9
+2013,Northland,May,7
+2013,Northland,June,10
+2013,Northland,July,12
+2013,Northland,August,35
+2013,Northland,September,24
+2013,Northland,October,18
+2013,Northland,November,19
+2013,Northland,December,30
+2014,Northland,January,33
+2014,Northland,February,12
+2014,Northland,March,8
+2014,Northland,April,10
+2014,Northland,May,10
+2014,Northland,June,12
+2014,Northland,July,18
+2014,Northland,August,21
+2014,Northland,September,22
+2014,Northland,October,28
+2014,Northland,November,25
+2014,Northland,December,49
+1997,Auckland,January,140
+1997,Auckland,February,98
+1997,Auckland,March,141
+1997,Auckland,April,66
+1997,Auckland,May,63
+1997,Auckland,June,41
+1997,Auckland,July,52
+1997,Auckland,August,52
+1997,Auckland,September,66
+1997,Auckland,October,80
+1997,Auckland,November,110
+1997,Auckland,December,116
+1998,Auckland,January,108
+1998,Auckland,February,109
+1998,Auckland,March,137
+1998,Auckland,April,100
+1998,Auckland,May,113
+1998,Auckland,June,101
+1998,Auckland,July,91
+1998,Auckland,August,88
+1998,Auckland,September,74
+1998,Auckland,October,83
+1998,Auckland,November,159
+1998,Auckland,December,152
+1999,Auckland,January,57
+1999,Auckland,February,53
+1999,Auckland,March,49
+1999,Auckland,April,84
+1999,Auckland,May,70
+1999,Auckland,June,83
+1999,Auckland,July,98
+1999,Auckland,August,77
+1999,Auckland,September,56
+1999,Auckland,October,55
+1999,Auckland,November,84
+1999,Auckland,December,91
+2000,Auckland,January,69
+2000,Auckland,February,79
+2000,Auckland,March,61
+2000,Auckland,April,52
+2000,Auckland,May,51
+2000,Auckland,June,37
+2000,Auckland,July,61
+2000,Auckland,August,63
+2000,Auckland,September,56
+2000,Auckland,October,67
+2000,Auckland,November,67
+2000,Auckland,December,82
+2001,Auckland,January,79
+2001,Auckland,February,56
+2001,Auckland,March,64
+2001,Auckland,April,59
+2001,Auckland,May,71
+2001,Auckland,June,49
+2001,Auckland,July,62
+2001,Auckland,August,95
+2001,Auckland,September,87
+2001,Auckland,October,102
+2001,Auckland,November,157
+2001,Auckland,December,162
+2002,Auckland,January,132
+2002,Auckland,February,104
+2002,Auckland,March,118
+2002,Auckland,April,77
+2002,Auckland,May,105
+2002,Auckland,June,149
+2002,Auckland,July,151
+2002,Auckland,August,167
+2002,Auckland,September,148
+2002,Auckland,October,146
+2002,Auckland,November,137
+2002,Auckland,December,129
+2003,Auckland,January,152
+2003,Auckland,February,120
+2003,Auckland,March,126
+2003,Auckland,April,95
+2003,Auckland,May,81
+2003,Auckland,June,108
+2003,Auckland,July,145
+2003,Auckland,August,137
+2003,Auckland,September,100
+2003,Auckland,October,121
+2003,Auckland,November,140
+2003,Auckland,December,130
+2004,Auckland,January,143
+2004,Auckland,February,127
+2004,Auckland,March,134
+2004,Auckland,April,69
+2004,Auckland,May,97
+2004,Auckland,June,110
+2004,Auckland,July,123
+2004,Auckland,August,111
+2004,Auckland,September,123
+2004,Auckland,October,114
+2004,Auckland,November,159
+2004,Auckland,December,136
+2005,Auckland,January,113
+2005,Auckland,February,122
+2005,Auckland,March,78
+2005,Auckland,April,79
+2005,Auckland,May,85
+2005,Auckland,June,95
+2005,Auckland,July,99
+2005,Auckland,August,126
+2005,Auckland,September,123
+2005,Auckland,October,120
+2005,Auckland,November,177
+2005,Auckland,December,146
+2006,Auckland,January,126
+2006,Auckland,February,166
+2006,Auckland,March,138
+2006,Auckland,April,98
+2006,Auckland,May,184
+2006,Auckland,June,158
+2006,Auckland,July,148
+2006,Auckland,August,134
+2006,Auckland,September,162
+2006,Auckland,October,150
+2006,Auckland,November,193
+2006,Auckland,December,156
+2007,Auckland,January,182
+2007,Auckland,February,135
+2007,Auckland,March,124
+2007,Auckland,April,71
+2007,Auckland,May,103
+2007,Auckland,June,89
+2007,Auckland,July,93
+2007,Auckland,August,113
+2007,Auckland,September,112
+2007,Auckland,October,139
+2007,Auckland,November,123
+2007,Auckland,December,97
+2008,Auckland,January,80
+2008,Auckland,February,71
+2008,Auckland,March,58
+2008,Auckland,April,36
+2008,Auckland,May,35
+2008,Auckland,June,37
+2008,Auckland,July,42
+2008,Auckland,August,45
+2008,Auckland,September,46
+2008,Auckland,October,53
+2008,Auckland,November,94
+2008,Auckland,December,102
+2009,Auckland,January,93
+2009,Auckland,February,75
+2009,Auckland,March,48
+2009,Auckland,April,67
+2009,Auckland,May,44
+2009,Auckland,June,43
+2009,Auckland,July,61
+2009,Auckland,August,64
+2009,Auckland,September,52
+2009,Auckland,October,64
+2009,Auckland,November,127
+2009,Auckland,December,73
+2010,Auckland,January,74
+2010,Auckland,February,57
+2010,Auckland,March,56
+2010,Auckland,April,55
+2010,Auckland,May,41
+2010,Auckland,June,46
+2010,Auckland,July,49
+2010,Auckland,August,61
+2010,Auckland,September,52
+2010,Auckland,October,60
+2010,Auckland,November,60
+2010,Auckland,December,44
+2011,Auckland,January,41
+2011,Auckland,February,49
+2011,Auckland,March,40
+2011,Auckland,April,32
+2011,Auckland,May,36
+2011,Auckland,June,38
+2011,Auckland,July,38
+2011,Auckland,August,43
+2011,Auckland,September,49
+2011,Auckland,October,43
+2011,Auckland,November,64
+2011,Auckland,December,70
+2012,Auckland,January,81
+2012,Auckland,February,35
+2012,Auckland,March,50
+2012,Auckland,April,42
+2012,Auckland,May,33
+2012,Auckland,June,19
+2012,Auckland,July,32
+2012,Auckland,August,35
+2012,Auckland,September,33
+2012,Auckland,October,48
+2012,Auckland,November,64
+2012,Auckland,December,49
+2013,Auckland,January,72
+2013,Auckland,February,45
+2013,Auckland,March,24
+2013,Auckland,April,42
+2013,Auckland,May,28
+2013,Auckland,June,36
+2013,Auckland,July,50
+2013,Auckland,August,69
+2013,Auckland,September,53
+2013,Auckland,October,52
+2013,Auckland,November,63
+2013,Auckland,December,64
+2014,Auckland,January,62
+2014,Auckland,February,56
+2014,Auckland,March,35
+2014,Auckland,April,37
+2014,Auckland,May,30
+2014,Auckland,June,28
+2014,Auckland,July,45
+2014,Auckland,August,39
+2014,Auckland,September,46
+2014,Auckland,October,49
+2014,Auckland,November,73
+2014,Auckland,December,87
+1997,Southern,January,75
+1997,Southern,February,68
+1997,Southern,March,70
+1997,Southern,April,73
+1997,Southern,May,48
+1997,Southern,June,29
+1997,Southern,July,27
+1997,Southern,August,25
+1997,Southern,September,40
+1997,Southern,October,46
+1997,Southern,November,45
+1997,Southern,December,61
+1998,Southern,January,92
+1998,Southern,February,83
+1998,Southern,March,94
+1998,Southern,April,59
+1998,Southern,May,72
+1998,Southern,June,49
+1998,Southern,July,33
+1998,Southern,August,43
+1998,Southern,September,40
+1998,Southern,October,61
+1998,Southern,November,90
+1998,Southern,December,64
+1999,Southern,January,93
+1999,Southern,February,88
+1999,Southern,March,53
+1999,Southern,April,32
+1999,Southern,May,27
+1999,Southern,June,37
+1999,Southern,July,24
+1999,Southern,August,26
+1999,Southern,September,33
+1999,Southern,October,57
+1999,Southern,November,66
+1999,Southern,December,106
+2000,Southern,January,119
+2000,Southern,February,124
+2000,Southern,March,112
+2000,Southern,April,83
+2000,Southern,May,61
+2000,Southern,June,54
+2000,Southern,July,34
+2000,Southern,August,37
+2000,Southern,September,71
+2000,Southern,October,83
+2000,Southern,November,59
+2000,Southern,December,74
+2001,Southern,January,82
+2001,Southern,February,114
+2001,Southern,March,79
+2001,Southern,April,28
+2001,Southern,May,38
+2001,Southern,June,28
+2001,Southern,July,12
+2001,Southern,August,28
+2001,Southern,September,31
+2001,Southern,October,84
+2001,Southern,November,76
+2001,Southern,December,93
+2002,Southern,January,119
+2002,Southern,February,114
+2002,Southern,March,68
+2002,Southern,April,53
+2002,Southern,May,65
+2002,Southern,June,56
+2002,Southern,July,88
+2002,Southern,August,70
+2002,Southern,September,75
+2002,Southern,October,87
+2002,Southern,November,76
+2002,Southern,December,90
+2003,Southern,January,106
+2003,Southern,February,103
+2003,Southern,March,95
+2003,Southern,April,48
+2003,Southern,May,52
+2003,Southern,June,42
+2003,Southern,July,41
+2003,Southern,August,46
+2003,Southern,September,56
+2003,Southern,October,87
+2003,Southern,November,87
+2003,Southern,December,114
+2004,Southern,January,107
+2004,Southern,February,88
+2004,Southern,March,82
+2004,Southern,April,63
+2004,Southern,May,56
+2004,Southern,June,79
+2004,Southern,July,72
+2004,Southern,August,78
+2004,Southern,September,55
+2004,Southern,October,91
+2004,Southern,November,152
+2004,Southern,December,164
+2005,Southern,January,143
+2005,Southern,February,161
+2005,Southern,March,123
+2005,Southern,April,101
+2005,Southern,May,87
+2005,Southern,June,58
+2005,Southern,July,63
+2005,Southern,August,77
+2005,Southern,September,94
+2005,Southern,October,132
+2005,Southern,November,162
+2005,Southern,December,139
+2006,Southern,January,169
+2006,Southern,February,138
+2006,Southern,March,149
+2006,Southern,April,71
+2006,Southern,May,100
+2006,Southern,June,94
+2006,Southern,July,65
+2006,Southern,August,69
+2006,Southern,September,72
+2006,Southern,October,81
+2006,Southern,November,70
+2006,Southern,December,79
+2007,Southern,January,175
+2007,Southern,February,156
+2007,Southern,March,104
+2007,Southern,April,65
+2007,Southern,May,66
+2007,Southern,June,53
+2007,Southern,July,61
+2007,Southern,August,29
+2007,Southern,September,43
+2007,Southern,October,68
+2007,Southern,November,79
+2007,Southern,December,46
+2008,Southern,January,37
+2008,Southern,February,63
+2008,Southern,March,42
+2008,Southern,April,36
+2008,Southern,May,39
+2008,Southern,June,26
+2008,Southern,July,24
+2008,Southern,August,16
+2008,Southern,September,38
+2008,Southern,October,33
+2008,Southern,November,42
+2008,Southern,December,40
+2009,Southern,January,50
+2009,Southern,February,37
+2009,Southern,March,67
+2009,Southern,April,29
+2009,Southern,May,42
+2009,Southern,June,16
+2009,Southern,July,6
+2009,Southern,August,15
+2009,Southern,September,27
+2009,Southern,October,37
+2009,Southern,November,36
+2009,Southern,December,56
+2010,Southern,January,49
+2010,Southern,February,51
+2010,Southern,March,69
+2010,Southern,April,45
+2010,Southern,May,32
+2010,Southern,June,29
+2010,Southern,July,27
+2010,Southern,August,37
+2010,Southern,September,45
+2010,Southern,October,77
+2010,Southern,November,91
+2010,Southern,December,67
+2011,Southern,January,50
+2011,Southern,February,60
+2011,Southern,March,62
+2011,Southern,April,37
+2011,Southern,May,35
+2011,Southern,June,21
+2011,Southern,July,33
+2011,Southern,August,37
+2011,Southern,September,49
+2011,Southern,October,48
+2011,Southern,November,57
+2011,Southern,December,72
+2012,Southern,January,96
+2012,Southern,February,56
+2012,Southern,March,69
+2012,Southern,April,44
+2012,Southern,May,64
+2012,Southern,June,35
+2012,Southern,July,27
+2012,Southern,August,40
+2012,Southern,September,43
+2012,Southern,October,75
+2012,Southern,November,59
+2012,Southern,December,70
+2013,Southern,January,73
+2013,Southern,February,60
+2013,Southern,March,38
+2013,Southern,April,30
+2013,Southern,May,28
+2013,Southern,June,20
+2013,Southern,July,25
+2013,Southern,August,35
+2013,Southern,September,47
+2013,Southern,October,61
+2013,Southern,November,61
+2013,Southern,December,84
+2014,Southern,January,77
+2014,Southern,February,63
+2014,Southern,March,58
+2014,Southern,April,43
+2014,Southern,May,34
+2014,Southern,June,18
+2014,Southern,July,24
+2014,Southern,August,40
+2014,Southern,September,40
+2014,Southern,October,64
+2014,Southern,November,46
+2014,Southern,December,52
+1997,Counties Manukau,January,96
+1997,Counties Manukau,February,66
+1997,Counties Manukau,March,81
+1997,Counties Manukau,April,52
+1997,Counties Manukau,May,49
+1997,Counties Manukau,June,27
+1997,Counties Manukau,July,46
+1997,Counties Manukau,August,44
+1997,Counties Manukau,September,61
+1997,Counties Manukau,October,61
+1997,Counties Manukau,November,77
+1997,Counties Manukau,December,95
+1998,Counties Manukau,January,77
+1998,Counties Manukau,February,60
+1998,Counties Manukau,March,78
+1998,Counties Manukau,April,67
+1998,Counties Manukau,May,65
+1998,Counties Manukau,June,51
+1998,Counties Manukau,July,76
+1998,Counties Manukau,August,61
+1998,Counties Manukau,September,50
+1998,Counties Manukau,October,59
+1998,Counties Manukau,November,92
+1998,Counties Manukau,December,119
+1999,Counties Manukau,January,56
+1999,Counties Manukau,February,47
+1999,Counties Manukau,March,29
+1999,Counties Manukau,April,32
+1999,Counties Manukau,May,42
+1999,Counties Manukau,June,61
+1999,Counties Manukau,July,70
+1999,Counties Manukau,August,33
+1999,Counties Manukau,September,45
+1999,Counties Manukau,October,50
+1999,Counties Manukau,November,71
+1999,Counties Manukau,December,77
+2000,Counties Manukau,January,58
+2000,Counties Manukau,February,71
+2000,Counties Manukau,March,55
+2000,Counties Manukau,April,46
+2000,Counties Manukau,May,44
+2000,Counties Manukau,June,43
+2000,Counties Manukau,July,34
+2000,Counties Manukau,August,50
+2000,Counties Manukau,September,56
+2000,Counties Manukau,October,59
+2000,Counties Manukau,November,60
+2000,Counties Manukau,December,50
+2001,Counties Manukau,January,72
+2001,Counties Manukau,February,49
+2001,Counties Manukau,March,41
+2001,Counties Manukau,April,54
+2001,Counties Manukau,May,53
+2001,Counties Manukau,June,44
+2001,Counties Manukau,July,44
+2001,Counties Manukau,August,71
+2001,Counties Manukau,September,57
+2001,Counties Manukau,October,80
+2001,Counties Manukau,November,131
+2001,Counties Manukau,December,132
+2002,Counties Manukau,January,105
+2002,Counties Manukau,February,91
+2002,Counties Manukau,March,71
+2002,Counties Manukau,April,46
+2002,Counties Manukau,May,71
+2002,Counties Manukau,June,108
+2002,Counties Manukau,July,105
+2002,Counties Manukau,August,109
+2002,Counties Manukau,September,116
+2002,Counties Manukau,October,119
+2002,Counties Manukau,November,122
+2002,Counties Manukau,December,133
+2003,Counties Manukau,January,132
+2003,Counties Manukau,February,109
+2003,Counties Manukau,March,129
+2003,Counties Manukau,April,77
+2003,Counties Manukau,May,53
+2003,Counties Manukau,June,85
+2003,Counties Manukau,July,102
+2003,Counties Manukau,August,106
+2003,Counties Manukau,September,86
+2003,Counties Manukau,October,97
+2003,Counties Manukau,November,131
+2003,Counties Manukau,December,123
+2004,Counties Manukau,January,122
+2004,Counties Manukau,February,97
+2004,Counties Manukau,March,92
+2004,Counties Manukau,April,48
+2004,Counties Manukau,May,61
+2004,Counties Manukau,June,90
+2004,Counties Manukau,July,68
+2004,Counties Manukau,August,113
+2004,Counties Manukau,September,88
+2004,Counties Manukau,October,92
+2004,Counties Manukau,November,109
+2004,Counties Manukau,December,154
+2005,Counties Manukau,January,103
+2005,Counties Manukau,February,110
+2005,Counties Manukau,March,51
+2005,Counties Manukau,April,51
+2005,Counties Manukau,May,57
+2005,Counties Manukau,June,57
+2005,Counties Manukau,July,77
+2005,Counties Manukau,August,101
+2005,Counties Manukau,September,93
+2005,Counties Manukau,October,107
+2005,Counties Manukau,November,131
+2005,Counties Manukau,December,139
+2006,Counties Manukau,January,134
+2006,Counties Manukau,February,146
+2006,Counties Manukau,March,106
+2006,Counties Manukau,April,66
+2006,Counties Manukau,May,157
+2006,Counties Manukau,June,135
+2006,Counties Manukau,July,118
+2006,Counties Manukau,August,136
+2006,Counties Manukau,September,146
+2006,Counties Manukau,October,111
+2006,Counties Manukau,November,153
+2006,Counties Manukau,December,140
+2007,Counties Manukau,January,161
+2007,Counties Manukau,February,104
+2007,Counties Manukau,March,87
+2007,Counties Manukau,April,75
+2007,Counties Manukau,May,94
+2007,Counties Manukau,June,67
+2007,Counties Manukau,July,82
+2007,Counties Manukau,August,88
+2007,Counties Manukau,September,92
+2007,Counties Manukau,October,72
+2007,Counties Manukau,November,113
+2007,Counties Manukau,December,84
+2008,Counties Manukau,January,73
+2008,Counties Manukau,February,49
+2008,Counties Manukau,March,36
+2008,Counties Manukau,April,22
+2008,Counties Manukau,May,29
+2008,Counties Manukau,June,24
+2008,Counties Manukau,July,32
+2008,Counties Manukau,August,58
+2008,Counties Manukau,September,46
+2008,Counties Manukau,October,56
+2008,Counties Manukau,November,94
+2008,Counties Manukau,December,106
+2009,Counties Manukau,January,64
+2009,Counties Manukau,February,56
+2009,Counties Manukau,March,44
+2009,Counties Manukau,April,29
+2009,Counties Manukau,May,43
+2009,Counties Manukau,June,44
+2009,Counties Manukau,July,42
+2009,Counties Manukau,August,40
+2009,Counties Manukau,September,43
+2009,Counties Manukau,October,84
+2009,Counties Manukau,November,106
+2009,Counties Manukau,December,90
+2010,Counties Manukau,January,61
+2010,Counties Manukau,February,42
+2010,Counties Manukau,March,38
+2010,Counties Manukau,April,44
+2010,Counties Manukau,May,31
+2010,Counties Manukau,June,37
+2010,Counties Manukau,July,35
+2010,Counties Manukau,August,62
+2010,Counties Manukau,September,38
+2010,Counties Manukau,October,43
+2010,Counties Manukau,November,54
+2010,Counties Manukau,December,49
+2011,Counties Manukau,January,33
+2011,Counties Manukau,February,25
+2011,Counties Manukau,March,29
+2011,Counties Manukau,April,38
+2011,Counties Manukau,May,40
+2011,Counties Manukau,June,32
+2011,Counties Manukau,July,46
+2011,Counties Manukau,August,30
+2011,Counties Manukau,September,39
+2011,Counties Manukau,October,47
+2011,Counties Manukau,November,69
+2011,Counties Manukau,December,74
+2012,Counties Manukau,January,61
+2012,Counties Manukau,February,46
+2012,Counties Manukau,March,37
+2012,Counties Manukau,April,25
+2012,Counties Manukau,May,32
+2012,Counties Manukau,June,30
+2012,Counties Manukau,July,30
+2012,Counties Manukau,August,33
+2012,Counties Manukau,September,32
+2012,Counties Manukau,October,38
+2012,Counties Manukau,November,55
+2012,Counties Manukau,December,61
+2013,Counties Manukau,January,51
+2013,Counties Manukau,February,39
+2013,Counties Manukau,March,24
+2013,Counties Manukau,April,24
+2013,Counties Manukau,May,30
+2013,Counties Manukau,June,39
+2013,Counties Manukau,July,41
+2013,Counties Manukau,August,48
+2013,Counties Manukau,September,60
+2013,Counties Manukau,October,52
+2013,Counties Manukau,November,56
+2013,Counties Manukau,December,72
+2014,Counties Manukau,January,62
+2014,Counties Manukau,February,43
+2014,Counties Manukau,March,31
+2014,Counties Manukau,April,35
+2014,Counties Manukau,May,23
+2014,Counties Manukau,June,37
+2014,Counties Manukau,July,16
+2014,Counties Manukau,August,32
+2014,Counties Manukau,September,48
+2014,Counties Manukau,October,52
+2014,Counties Manukau,November,86
+2014,Counties Manukau,December,52
+1997,Waikato,January,110
+1997,Waikato,February,83
+1997,Waikato,March,61
+1997,Waikato,April,63
+1997,Waikato,May,51
+1997,Waikato,June,51
+1997,Waikato,July,68
+1997,Waikato,August,89
+1997,Waikato,September,122
+1997,Waikato,October,142
+1997,Waikato,November,140
+1997,Waikato,December,133
+1998,Waikato,January,98
+1998,Waikato,February,68
+1998,Waikato,March,75
+1998,Waikato,April,90
+1998,Waikato,May,97
+1998,Waikato,June,62
+1998,Waikato,July,85
+1998,Waikato,August,120
+1998,Waikato,September,142
+1998,Waikato,October,110
+1998,Waikato,November,114
+1998,Waikato,December,133
+1999,Waikato,January,84
+1999,Waikato,February,57
+1999,Waikato,March,50
+1999,Waikato,April,41
+1999,Waikato,May,29
+1999,Waikato,June,47
+1999,Waikato,July,54
+1999,Waikato,August,103
+1999,Waikato,September,80
+1999,Waikato,October,89
+1999,Waikato,November,85
+1999,Waikato,December,103
+2000,Waikato,January,65
+2000,Waikato,February,76
+2000,Waikato,March,58
+2000,Waikato,April,33
+2000,Waikato,May,43
+2000,Waikato,June,46
+2000,Waikato,July,53
+2000,Waikato,August,88
+2000,Waikato,September,90
+2000,Waikato,October,104
+2000,Waikato,November,95
+2000,Waikato,December,69
+2001,Waikato,January,95
+2001,Waikato,February,62
+2001,Waikato,March,52
+2001,Waikato,April,50
+2001,Waikato,May,38
+2001,Waikato,June,45
+2001,Waikato,July,42
+2001,Waikato,August,98
+2001,Waikato,September,111
+2001,Waikato,October,157
+2001,Waikato,November,157
+2001,Waikato,December,141
+2002,Waikato,January,145
+2002,Waikato,February,94
+2002,Waikato,March,54
+2002,Waikato,April,30
+2002,Waikato,May,36
+2002,Waikato,June,71
+2002,Waikato,July,86
+2002,Waikato,August,116
+2002,Waikato,September,107
+2002,Waikato,October,113
+2002,Waikato,November,118
+2002,Waikato,December,138
+2003,Waikato,January,174
+2003,Waikato,February,104
+2003,Waikato,March,101
+2003,Waikato,April,67
+2003,Waikato,May,42
+2003,Waikato,June,61
+2003,Waikato,July,108
+2003,Waikato,August,160
+2003,Waikato,September,180
+2003,Waikato,October,169
+2003,Waikato,November,160
+2003,Waikato,December,195
+2004,Waikato,January,126
+2004,Waikato,February,123
+2004,Waikato,March,117
+2004,Waikato,April,61
+2004,Waikato,May,57
+2004,Waikato,June,68
+2004,Waikato,July,79
+2004,Waikato,August,102
+2004,Waikato,September,103
+2004,Waikato,October,114
+2004,Waikato,November,135
+2004,Waikato,December,119
+2005,Waikato,January,114
+2005,Waikato,February,100
+2005,Waikato,March,57
+2005,Waikato,April,44
+2005,Waikato,May,51
+2005,Waikato,June,43
+2005,Waikato,July,57
+2005,Waikato,August,107
+2005,Waikato,September,161
+2005,Waikato,October,132
+2005,Waikato,November,139
+2005,Waikato,December,147
+2006,Waikato,January,131
+2006,Waikato,February,120
+2006,Waikato,March,70
+2006,Waikato,April,59
+2006,Waikato,May,98
+2006,Waikato,June,88
+2006,Waikato,July,75
+2006,Waikato,August,119
+2006,Waikato,September,104
+2006,Waikato,October,104
+2006,Waikato,November,125
+2006,Waikato,December,129
+2007,Waikato,January,167
+2007,Waikato,February,96
+2007,Waikato,March,67
+2007,Waikato,April,49
+2007,Waikato,May,85
+2007,Waikato,June,70
+2007,Waikato,July,71
+2007,Waikato,August,108
+2007,Waikato,September,94
+2007,Waikato,October,82
+2007,Waikato,November,108
+2007,Waikato,December,83
+2008,Waikato,January,59
+2008,Waikato,February,44
+2008,Waikato,March,34
+2008,Waikato,April,30
+2008,Waikato,May,26
+2008,Waikato,June,12
+2008,Waikato,July,38
+2008,Waikato,August,60
+2008,Waikato,September,64
+2008,Waikato,October,65
+2008,Waikato,November,55
+2008,Waikato,December,87
+2009,Waikato,January,64
+2009,Waikato,February,64
+2009,Waikato,March,47
+2009,Waikato,April,29
+2009,Waikato,May,31
+2009,Waikato,June,26
+2009,Waikato,July,31
+2009,Waikato,August,74
+2009,Waikato,September,57
+2009,Waikato,October,63
+2009,Waikato,November,82
+2009,Waikato,December,92
+2010,Waikato,January,72
+2010,Waikato,February,56
+2010,Waikato,March,46
+2010,Waikato,April,41
+2010,Waikato,May,29
+2010,Waikato,June,38
+2010,Waikato,July,34
+2010,Waikato,August,72
+2010,Waikato,September,98
+2010,Waikato,October,76
+2010,Waikato,November,57
+2010,Waikato,December,61
+2011,Waikato,January,50
+2011,Waikato,February,61
+2011,Waikato,March,40
+2011,Waikato,April,42
+2011,Waikato,May,45
+2011,Waikato,June,25
+2011,Waikato,July,44
+2011,Waikato,August,55
+2011,Waikato,September,81
+2011,Waikato,October,61
+2011,Waikato,November,78
+2011,Waikato,December,105
+2012,Waikato,January,104
+2012,Waikato,February,54
+2012,Waikato,March,48
+2012,Waikato,April,42
+2012,Waikato,May,41
+2012,Waikato,June,18
+2012,Waikato,July,37
+2012,Waikato,August,84
+2012,Waikato,September,66
+2012,Waikato,October,58
+2012,Waikato,November,55
+2012,Waikato,December,88
+2013,Waikato,January,84
+2013,Waikato,February,47
+2013,Waikato,March,41
+2013,Waikato,April,32
+2013,Waikato,May,44
+2013,Waikato,June,41
+2013,Waikato,July,47
+2013,Waikato,August,94
+2013,Waikato,September,84
+2013,Waikato,October,80
+2013,Waikato,November,84
+2013,Waikato,December,96
+2014,Waikato,January,54
+2014,Waikato,February,54
+2014,Waikato,March,56
+2014,Waikato,April,43
+2014,Waikato,May,41
+2014,Waikato,June,24
+2014,Waikato,July,49
+2014,Waikato,August,90
+2014,Waikato,September,67
+2014,Waikato,October,76
+2014,Waikato,November,123
+2014,Waikato,December,87
+1997,Lakes,January,13
+1997,Lakes,February,6
+1997,Lakes,March,10
+1997,Lakes,April,7
+1997,Lakes,May,5
+1997,Lakes,June,8
+1997,Lakes,July,6
+1997,Lakes,August,13
+1997,Lakes,September,13
+1997,Lakes,October,19
+1997,Lakes,November,17
+1997,Lakes,December,22
+1998,Lakes,January,9
+1998,Lakes,February,10
+1998,Lakes,March,17
+1998,Lakes,April,17
+1998,Lakes,May,16
+1998,Lakes,June,16
+1998,Lakes,July,15
+1998,Lakes,August,19
+1998,Lakes,September,25
+1998,Lakes,October,22
+1998,Lakes,November,20
+1998,Lakes,December,18
+1999,Lakes,January,15
+1999,Lakes,February,10
+1999,Lakes,March,4
+1999,Lakes,April,13
+1999,Lakes,May,9
+1999,Lakes,June,13
+1999,Lakes,July,7
+1999,Lakes,August,4
+1999,Lakes,September,20
+1999,Lakes,October,15
+1999,Lakes,November,14
+1999,Lakes,December,21
+2000,Lakes,January,18
+2000,Lakes,February,12
+2000,Lakes,March,16
+2000,Lakes,April,8
+2000,Lakes,May,13
+2000,Lakes,June,3
+2000,Lakes,July,6
+2000,Lakes,August,8
+2000,Lakes,September,11
+2000,Lakes,October,19
+2000,Lakes,November,17
+2000,Lakes,December,13
+2001,Lakes,January,15
+2001,Lakes,February,17
+2001,Lakes,March,13
+2001,Lakes,April,15
+2001,Lakes,May,9
+2001,Lakes,June,13
+2001,Lakes,July,12
+2001,Lakes,August,25
+2001,Lakes,September,32
+2001,Lakes,October,33
+2001,Lakes,November,34
+2001,Lakes,December,30
+2002,Lakes,January,47
+2002,Lakes,February,17
+2002,Lakes,March,26
+2002,Lakes,April,12
+2002,Lakes,May,9
+2002,Lakes,June,13
+2002,Lakes,July,16
+2002,Lakes,August,26
+2002,Lakes,September,22
+2002,Lakes,October,27
+2002,Lakes,November,31
+2002,Lakes,December,25
+2003,Lakes,January,64
+2003,Lakes,February,43
+2003,Lakes,March,18
+2003,Lakes,April,15
+2003,Lakes,May,11
+2003,Lakes,June,17
+2003,Lakes,July,28
+2003,Lakes,August,39
+2003,Lakes,September,46
+2003,Lakes,October,57
+2003,Lakes,November,46
+2003,Lakes,December,43
+2004,Lakes,January,54
+2004,Lakes,February,24
+2004,Lakes,March,30
+2004,Lakes,April,18
+2004,Lakes,May,18
+2004,Lakes,June,16
+2004,Lakes,July,19
+2004,Lakes,August,19
+2004,Lakes,September,23
+2004,Lakes,October,22
+2004,Lakes,November,13
+2004,Lakes,December,26
+2005,Lakes,January,19
+2005,Lakes,February,22
+2005,Lakes,March,14
+2005,Lakes,April,12
+2005,Lakes,May,9
+2005,Lakes,June,14
+2005,Lakes,July,26
+2005,Lakes,August,33
+2005,Lakes,September,37
+2005,Lakes,October,39
+2005,Lakes,November,39
+2005,Lakes,December,25
+2006,Lakes,January,47
+2006,Lakes,February,34
+2006,Lakes,March,47
+2006,Lakes,April,25
+2006,Lakes,May,38
+2006,Lakes,June,41
+2006,Lakes,July,23
+2006,Lakes,August,31
+2006,Lakes,September,27
+2006,Lakes,October,20
+2006,Lakes,November,38
+2006,Lakes,December,39
+2007,Lakes,January,40
+2007,Lakes,February,25
+2007,Lakes,March,24
+2007,Lakes,April,14
+2007,Lakes,May,29
+2007,Lakes,June,17
+2007,Lakes,July,22
+2007,Lakes,August,25
+2007,Lakes,September,20
+2007,Lakes,October,27
+2007,Lakes,November,27
+2007,Lakes,December,18
+2008,Lakes,January,18
+2008,Lakes,February,15
+2008,Lakes,March,9
+2008,Lakes,April,8
+2008,Lakes,May,10
+2008,Lakes,June,5
+2008,Lakes,July,9
+2008,Lakes,August,13
+2008,Lakes,September,11
+2008,Lakes,October,27
+2008,Lakes,November,17
+2008,Lakes,December,12
+2009,Lakes,January,23
+2009,Lakes,February,22
+2009,Lakes,March,9
+2009,Lakes,April,8
+2009,Lakes,May,6
+2009,Lakes,June,8
+2009,Lakes,July,12
+2009,Lakes,August,17
+2009,Lakes,September,24
+2009,Lakes,October,15
+2009,Lakes,November,29
+2009,Lakes,December,32
+2010,Lakes,January,21
+2010,Lakes,February,11
+2010,Lakes,March,9
+2010,Lakes,April,8
+2010,Lakes,May,16
+2010,Lakes,June,14
+2010,Lakes,July,6
+2010,Lakes,August,15
+2010,Lakes,September,26
+2010,Lakes,October,23
+2010,Lakes,November,19
+2010,Lakes,December,15
+2011,Lakes,January,11
+2011,Lakes,February,18
+2011,Lakes,March,8
+2011,Lakes,April,11
+2011,Lakes,May,7
+2011,Lakes,June,9
+2011,Lakes,July,8
+2011,Lakes,August,7
+2011,Lakes,September,17
+2011,Lakes,October,12
+2011,Lakes,November,15
+2011,Lakes,December,17
+2012,Lakes,January,28
+2012,Lakes,February,11
+2012,Lakes,March,16
+2012,Lakes,April,8
+2012,Lakes,May,12
+2012,Lakes,June,9
+2012,Lakes,July,3
+2012,Lakes,August,16
+2012,Lakes,September,14
+2012,Lakes,October,19
+2012,Lakes,November,14
+2012,Lakes,December,16
+2013,Lakes,January,17
+2013,Lakes,February,12
+2013,Lakes,March,13
+2013,Lakes,April,10
+2013,Lakes,May,14
+2013,Lakes,June,5
+2013,Lakes,July,8
+2013,Lakes,August,21
+2013,Lakes,September,25
+2013,Lakes,October,20
+2013,Lakes,November,18
+2013,Lakes,December,17
+2014,Lakes,January,18
+2014,Lakes,February,9
+2014,Lakes,March,10
+2014,Lakes,April,8
+2014,Lakes,May,5
+2014,Lakes,June,7
+2014,Lakes,July,19
+2014,Lakes,August,19
+2014,Lakes,September,16
+2014,Lakes,October,19
+2014,Lakes,November,19
+2014,Lakes,December,24
+1997,Bay of Plenty,January,26
+1997,Bay of Plenty,February,21
+1997,Bay of Plenty,March,15
+1997,Bay of Plenty,April,8
+1997,Bay of Plenty,May,12
+1997,Bay of Plenty,June,7
+1997,Bay of Plenty,July,7
+1997,Bay of Plenty,August,5
+1997,Bay of Plenty,September,19
+1997,Bay of Plenty,October,30
+1997,Bay of Plenty,November,27
+1997,Bay of Plenty,December,27
+1998,Bay of Plenty,January,36
+1998,Bay of Plenty,February,26
+1998,Bay of Plenty,March,20
+1998,Bay of Plenty,April,22
+1998,Bay of Plenty,May,34
+1998,Bay of Plenty,June,22
+1998,Bay of Plenty,July,28
+1998,Bay of Plenty,August,20
+1998,Bay of Plenty,September,35
+1998,Bay of Plenty,October,30
+1998,Bay of Plenty,November,40
+1998,Bay of Plenty,December,30
+1999,Bay of Plenty,January,30
+1999,Bay of Plenty,February,24
+1999,Bay of Plenty,March,18
+1999,Bay of Plenty,April,15
+1999,Bay of Plenty,May,13
+1999,Bay of Plenty,June,8
+1999,Bay of Plenty,July,17
+1999,Bay of Plenty,August,26
+1999,Bay of Plenty,September,15
+1999,Bay of Plenty,October,11
+1999,Bay of Plenty,November,16
+1999,Bay of Plenty,December,19
+2000,Bay of Plenty,January,21
+2000,Bay of Plenty,February,16
+2000,Bay of Plenty,March,30
+2000,Bay of Plenty,April,12
+2000,Bay of Plenty,May,20
+2000,Bay of Plenty,June,20
+2000,Bay of Plenty,July,11
+2000,Bay of Plenty,August,5
+2000,Bay of Plenty,September,18
+2000,Bay of Plenty,October,32
+2000,Bay of Plenty,November,18
+2000,Bay of Plenty,December,23
+2001,Bay of Plenty,January,39
+2001,Bay of Plenty,February,29
+2001,Bay of Plenty,March,14
+2001,Bay of Plenty,April,18
+2001,Bay of Plenty,May,30
+2001,Bay of Plenty,June,19
+2001,Bay of Plenty,July,33
+2001,Bay of Plenty,August,30
+2001,Bay of Plenty,September,41
+2001,Bay of Plenty,October,52
+2001,Bay of Plenty,November,46
+2001,Bay of Plenty,December,52
+2002,Bay of Plenty,January,68
+2002,Bay of Plenty,February,36
+2002,Bay of Plenty,March,27
+2002,Bay of Plenty,April,13
+2002,Bay of Plenty,May,23
+2002,Bay of Plenty,June,27
+2002,Bay of Plenty,July,31
+2002,Bay of Plenty,August,36
+2002,Bay of Plenty,September,31
+2002,Bay of Plenty,October,31
+2002,Bay of Plenty,November,28
+2002,Bay of Plenty,December,31
+2003,Bay of Plenty,January,102
+2003,Bay of Plenty,February,42
+2003,Bay of Plenty,March,36
+2003,Bay of Plenty,April,31
+2003,Bay of Plenty,May,21
+2003,Bay of Plenty,June,18
+2003,Bay of Plenty,July,36
+2003,Bay of Plenty,August,64
+2003,Bay of Plenty,September,41
+2003,Bay of Plenty,October,58
+2003,Bay of Plenty,November,65
+2003,Bay of Plenty,December,55
+2004,Bay of Plenty,January,59
+2004,Bay of Plenty,February,56
+2004,Bay of Plenty,March,60
+2004,Bay of Plenty,April,16
+2004,Bay of Plenty,May,23
+2004,Bay of Plenty,June,22
+2004,Bay of Plenty,July,30
+2004,Bay of Plenty,August,39
+2004,Bay of Plenty,September,35
+2004,Bay of Plenty,October,38
+2004,Bay of Plenty,November,27
+2004,Bay of Plenty,December,42
+2005,Bay of Plenty,January,53
+2005,Bay of Plenty,February,31
+2005,Bay of Plenty,March,27
+2005,Bay of Plenty,April,31
+2005,Bay of Plenty,May,28
+2005,Bay of Plenty,June,21
+2005,Bay of Plenty,July,33
+2005,Bay of Plenty,August,62
+2005,Bay of Plenty,September,48
+2005,Bay of Plenty,October,50
+2005,Bay of Plenty,November,62
+2005,Bay of Plenty,December,62
+2006,Bay of Plenty,January,61
+2006,Bay of Plenty,February,62
+2006,Bay of Plenty,March,40
+2006,Bay of Plenty,April,35
+2006,Bay of Plenty,May,64
+2006,Bay of Plenty,June,46
+2006,Bay of Plenty,July,35
+2006,Bay of Plenty,August,67
+2006,Bay of Plenty,September,48
+2006,Bay of Plenty,October,67
+2006,Bay of Plenty,November,55
+2006,Bay of Plenty,December,70
+2007,Bay of Plenty,January,97
+2007,Bay of Plenty,February,57
+2007,Bay of Plenty,March,49
+2007,Bay of Plenty,April,21
+2007,Bay of Plenty,May,33
+2007,Bay of Plenty,June,28
+2007,Bay of Plenty,July,34
+2007,Bay of Plenty,August,23
+2007,Bay of Plenty,September,35
+2007,Bay of Plenty,October,48
+2007,Bay of Plenty,November,37
+2007,Bay of Plenty,December,36
+2008,Bay of Plenty,January,35
+2008,Bay of Plenty,February,23
+2008,Bay of Plenty,March,16
+2008,Bay of Plenty,April,12
+2008,Bay of Plenty,May,12
+2008,Bay of Plenty,June,13
+2008,Bay of Plenty,July,16
+2008,Bay of Plenty,August,30
+2008,Bay of Plenty,September,21
+2008,Bay of Plenty,October,15
+2008,Bay of Plenty,November,30
+2008,Bay of Plenty,December,34
+2009,Bay of Plenty,January,35
+2009,Bay of Plenty,February,30
+2009,Bay of Plenty,March,33
+2009,Bay of Plenty,April,11
+2009,Bay of Plenty,May,17
+2009,Bay of Plenty,June,10
+2009,Bay of Plenty,July,18
+2009,Bay of Plenty,August,13
+2009,Bay of Plenty,September,33
+2009,Bay of Plenty,October,42
+2009,Bay of Plenty,November,49
+2009,Bay of Plenty,December,26
+2010,Bay of Plenty,January,50
+2010,Bay of Plenty,February,30
+2010,Bay of Plenty,March,22
+2010,Bay of Plenty,April,18
+2010,Bay of Plenty,May,20
+2010,Bay of Plenty,June,23
+2010,Bay of Plenty,July,16
+2010,Bay of Plenty,August,16
+2010,Bay of Plenty,September,30
+2010,Bay of Plenty,October,27
+2010,Bay of Plenty,November,38
+2010,Bay of Plenty,December,32
+2011,Bay of Plenty,January,26
+2011,Bay of Plenty,February,18
+2011,Bay of Plenty,March,27
+2011,Bay of Plenty,April,18
+2011,Bay of Plenty,May,18
+2011,Bay of Plenty,June,19
+2011,Bay of Plenty,July,14
+2011,Bay of Plenty,August,24
+2011,Bay of Plenty,September,24
+2011,Bay of Plenty,October,31
+2011,Bay of Plenty,November,35
+2011,Bay of Plenty,December,38
+2012,Bay of Plenty,January,35
+2012,Bay of Plenty,February,19
+2012,Bay of Plenty,March,25
+2012,Bay of Plenty,April,14
+2012,Bay of Plenty,May,18
+2012,Bay of Plenty,June,8
+2012,Bay of Plenty,July,12
+2012,Bay of Plenty,August,13
+2012,Bay of Plenty,September,32
+2012,Bay of Plenty,October,33
+2012,Bay of Plenty,November,22
+2012,Bay of Plenty,December,36
+2013,Bay of Plenty,January,23
+2013,Bay of Plenty,February,17
+2013,Bay of Plenty,March,10
+2013,Bay of Plenty,April,8
+2013,Bay of Plenty,May,13
+2013,Bay of Plenty,June,14
+2013,Bay of Plenty,July,23
+2013,Bay of Plenty,August,30
+2013,Bay of Plenty,September,43
+2013,Bay of Plenty,October,30
+2013,Bay of Plenty,November,24
+2013,Bay of Plenty,December,27
+2014,Bay of Plenty,January,35
+2014,Bay of Plenty,February,30
+2014,Bay of Plenty,March,22
+2014,Bay of Plenty,April,19
+2014,Bay of Plenty,May,16
+2014,Bay of Plenty,June,17
+2014,Bay of Plenty,July,15
+2014,Bay of Plenty,August,18
+2014,Bay of Plenty,September,32
+2014,Bay of Plenty,October,49
+2014,Bay of Plenty,November,39
+2014,Bay of Plenty,December,35
+1997,Tairawhiti,January,8
+1997,Tairawhiti,February,4
+1997,Tairawhiti,March,0
+1997,Tairawhiti,April,6
+1997,Tairawhiti,May,3
+1997,Tairawhiti,June,6
+1997,Tairawhiti,July,2
+1997,Tairawhiti,August,7
+1997,Tairawhiti,September,5
+1997,Tairawhiti,October,6
+1997,Tairawhiti,November,8
+1997,Tairawhiti,December,3
+1998,Tairawhiti,January,9
+1998,Tairawhiti,February,3
+1998,Tairawhiti,March,9
+1998,Tairawhiti,April,6
+1998,Tairawhiti,May,5
+1998,Tairawhiti,June,5
+1998,Tairawhiti,July,6
+1998,Tairawhiti,August,5
+1998,Tairawhiti,September,7
+1998,Tairawhiti,October,5
+1998,Tairawhiti,November,9
+1998,Tairawhiti,December,12
+1999,Tairawhiti,January,6
+1999,Tairawhiti,February,4
+1999,Tairawhiti,March,2
+1999,Tairawhiti,April,0
+1999,Tairawhiti,May,2
+1999,Tairawhiti,June,5
+1999,Tairawhiti,July,6
+1999,Tairawhiti,August,7
+1999,Tairawhiti,September,5
+1999,Tairawhiti,October,5
+1999,Tairawhiti,November,6
+1999,Tairawhiti,December,10
+2000,Tairawhiti,January,12
+2000,Tairawhiti,February,8
+2000,Tairawhiti,March,4
+2000,Tairawhiti,April,4
+2000,Tairawhiti,May,4
+2000,Tairawhiti,June,1
+2000,Tairawhiti,July,2
+2000,Tairawhiti,August,6
+2000,Tairawhiti,September,6
+2000,Tairawhiti,October,7
+2000,Tairawhiti,November,7
+2000,Tairawhiti,December,10
+2001,Tairawhiti,January,9
+2001,Tairawhiti,February,4
+2001,Tairawhiti,March,4
+2001,Tairawhiti,April,8
+2001,Tairawhiti,May,3
+2001,Tairawhiti,June,7
+2001,Tairawhiti,July,3
+2001,Tairawhiti,August,3
+2001,Tairawhiti,September,1
+2001,Tairawhiti,October,5
+2001,Tairawhiti,November,18
+2001,Tairawhiti,December,18
+2002,Tairawhiti,January,12
+2002,Tairawhiti,February,8
+2002,Tairawhiti,March,2
+2002,Tairawhiti,April,6
+2002,Tairawhiti,May,4
+2002,Tairawhiti,June,4
+2002,Tairawhiti,July,6
+2002,Tairawhiti,August,10
+2002,Tairawhiti,September,10
+2002,Tairawhiti,October,9
+2002,Tairawhiti,November,6
+2002,Tairawhiti,December,12
+2003,Tairawhiti,January,22
+2003,Tairawhiti,February,13
+2003,Tairawhiti,March,8
+2003,Tairawhiti,April,6
+2003,Tairawhiti,May,8
+2003,Tairawhiti,June,3
+2003,Tairawhiti,July,16
+2003,Tairawhiti,August,10
+2003,Tairawhiti,September,14
+2003,Tairawhiti,October,13
+2003,Tairawhiti,November,15
+2003,Tairawhiti,December,20
+2004,Tairawhiti,January,10
+2004,Tairawhiti,February,8
+2004,Tairawhiti,March,12
+2004,Tairawhiti,April,3
+2004,Tairawhiti,May,5
+2004,Tairawhiti,June,6
+2004,Tairawhiti,July,6
+2004,Tairawhiti,August,7
+2004,Tairawhiti,September,9
+2004,Tairawhiti,October,12
+2004,Tairawhiti,November,2
+2004,Tairawhiti,December,6
+2005,Tairawhiti,January,15
+2005,Tairawhiti,February,17
+2005,Tairawhiti,March,3
+2005,Tairawhiti,April,10
+2005,Tairawhiti,May,6
+2005,Tairawhiti,June,4
+2005,Tairawhiti,July,4
+2005,Tairawhiti,August,20
+2005,Tairawhiti,September,5
+2005,Tairawhiti,October,6
+2005,Tairawhiti,November,9
+2005,Tairawhiti,December,26
+2006,Tairawhiti,January,4
+2006,Tairawhiti,February,1
+2006,Tairawhiti,March,4
+2006,Tairawhiti,April,2
+2006,Tairawhiti,May,6
+2006,Tairawhiti,June,8
+2006,Tairawhiti,July,9
+2006,Tairawhiti,August,1
+2006,Tairawhiti,September,2
+2006,Tairawhiti,October,4
+2006,Tairawhiti,November,10
+2006,Tairawhiti,December,7
+2007,Tairawhiti,January,12
+2007,Tairawhiti,February,8
+2007,Tairawhiti,March,5
+2007,Tairawhiti,April,5
+2007,Tairawhiti,May,3
+2007,Tairawhiti,June,0
+2007,Tairawhiti,July,0
+2007,Tairawhiti,August,0
+2007,Tairawhiti,September,1
+2007,Tairawhiti,October,2
+2007,Tairawhiti,November,8
+2007,Tairawhiti,December,5
+2008,Tairawhiti,January,3
+2008,Tairawhiti,February,3
+2008,Tairawhiti,March,3
+2008,Tairawhiti,April,3
+2008,Tairawhiti,May,7
+2008,Tairawhiti,June,4
+2008,Tairawhiti,July,5
+2008,Tairawhiti,August,5
+2008,Tairawhiti,September,0
+2008,Tairawhiti,October,4
+2008,Tairawhiti,November,3
+2008,Tairawhiti,December,1
+2009,Tairawhiti,January,6
+2009,Tairawhiti,February,1
+2009,Tairawhiti,March,1
+2009,Tairawhiti,April,0
+2009,Tairawhiti,May,0
+2009,Tairawhiti,June,2
+2009,Tairawhiti,July,0
+2009,Tairawhiti,August,3
+2009,Tairawhiti,September,5
+2009,Tairawhiti,October,2
+2009,Tairawhiti,November,8
+2009,Tairawhiti,December,8
+2010,Tairawhiti,January,4
+2010,Tairawhiti,February,5
+2010,Tairawhiti,March,5
+2010,Tairawhiti,April,1
+2010,Tairawhiti,May,2
+2010,Tairawhiti,June,5
+2010,Tairawhiti,July,5
+2010,Tairawhiti,August,2
+2010,Tairawhiti,September,3
+2010,Tairawhiti,October,2
+2010,Tairawhiti,November,2
+2010,Tairawhiti,December,1
+2011,Tairawhiti,January,4
+2011,Tairawhiti,February,3
+2011,Tairawhiti,March,1
+2011,Tairawhiti,April,2
+2011,Tairawhiti,May,7
+2011,Tairawhiti,June,4
+2011,Tairawhiti,July,6
+2011,Tairawhiti,August,5
+2011,Tairawhiti,September,7
+2011,Tairawhiti,October,1
+2011,Tairawhiti,November,7
+2011,Tairawhiti,December,9
+2012,Tairawhiti,January,13
+2012,Tairawhiti,February,7
+2012,Tairawhiti,March,4
+2012,Tairawhiti,April,2
+2012,Tairawhiti,May,0
+2012,Tairawhiti,June,0
+2012,Tairawhiti,July,0
+2012,Tairawhiti,August,3
+2012,Tairawhiti,September,6
+2012,Tairawhiti,October,7
+2012,Tairawhiti,November,7
+2012,Tairawhiti,December,5
+2013,Tairawhiti,January,7
+2013,Tairawhiti,February,4
+2013,Tairawhiti,March,3
+2013,Tairawhiti,April,4
+2013,Tairawhiti,May,1
+2013,Tairawhiti,June,8
+2013,Tairawhiti,July,8
+2013,Tairawhiti,August,11
+2013,Tairawhiti,September,8
+2013,Tairawhiti,October,7
+2013,Tairawhiti,November,6
+2013,Tairawhiti,December,15
+2014,Tairawhiti,January,9
+2014,Tairawhiti,February,4
+2014,Tairawhiti,March,4
+2014,Tairawhiti,April,3
+2014,Tairawhiti,May,4
+2014,Tairawhiti,June,6
+2014,Tairawhiti,July,8
+2014,Tairawhiti,August,3
+2014,Tairawhiti,September,4
+2014,Tairawhiti,October,7
+2014,Tairawhiti,November,8
+2014,Tairawhiti,December,13
+1997,Taranaki,January,21
+1997,Taranaki,February,16
+1997,Taranaki,March,10
+1997,Taranaki,April,8
+1997,Taranaki,May,4
+1997,Taranaki,June,6
+1997,Taranaki,July,14
+1997,Taranaki,August,10
+1997,Taranaki,September,27
+1997,Taranaki,October,31
+1997,Taranaki,November,20
+1997,Taranaki,December,22
+1998,Taranaki,January,27
+1998,Taranaki,February,16
+1998,Taranaki,March,15
+1998,Taranaki,April,13
+1998,Taranaki,May,20
+1998,Taranaki,June,13
+1998,Taranaki,July,20
+1998,Taranaki,August,17
+1998,Taranaki,September,22
+1998,Taranaki,October,24
+1998,Taranaki,November,23
+1998,Taranaki,December,10
+1999,Taranaki,January,17
+1999,Taranaki,February,14
+1999,Taranaki,March,7
+1999,Taranaki,April,9
+1999,Taranaki,May,7
+1999,Taranaki,June,7
+1999,Taranaki,July,9
+1999,Taranaki,August,23
+1999,Taranaki,September,18
+1999,Taranaki,October,22
+1999,Taranaki,November,18
+1999,Taranaki,December,16
+2000,Taranaki,January,28
+2000,Taranaki,February,12
+2000,Taranaki,March,20
+2000,Taranaki,April,8
+2000,Taranaki,May,8
+2000,Taranaki,June,11
+2000,Taranaki,July,5
+2000,Taranaki,August,17
+2000,Taranaki,September,26
+2000,Taranaki,October,28
+2000,Taranaki,November,20
+2000,Taranaki,December,22
+2001,Taranaki,January,20
+2001,Taranaki,February,14
+2001,Taranaki,March,20
+2001,Taranaki,April,8
+2001,Taranaki,May,15
+2001,Taranaki,June,10
+2001,Taranaki,July,15
+2001,Taranaki,August,34
+2001,Taranaki,September,31
+2001,Taranaki,October,34
+2001,Taranaki,November,49
+2001,Taranaki,December,41
+2002,Taranaki,January,40
+2002,Taranaki,February,34
+2002,Taranaki,March,19
+2002,Taranaki,April,13
+2002,Taranaki,May,13
+2002,Taranaki,June,12
+2002,Taranaki,July,15
+2002,Taranaki,August,30
+2002,Taranaki,September,43
+2002,Taranaki,October,29
+2002,Taranaki,November,29
+2002,Taranaki,December,31
+2003,Taranaki,January,49
+2003,Taranaki,February,27
+2003,Taranaki,March,25
+2003,Taranaki,April,13
+2003,Taranaki,May,16
+2003,Taranaki,June,10
+2003,Taranaki,July,25
+2003,Taranaki,August,44
+2003,Taranaki,September,46
+2003,Taranaki,October,52
+2003,Taranaki,November,50
+2003,Taranaki,December,56
+2004,Taranaki,January,54
+2004,Taranaki,February,32
+2004,Taranaki,March,24
+2004,Taranaki,April,15
+2004,Taranaki,May,16
+2004,Taranaki,June,14
+2004,Taranaki,July,24
+2004,Taranaki,August,28
+2004,Taranaki,September,27
+2004,Taranaki,October,15
+2004,Taranaki,November,26
+2004,Taranaki,December,39
+2005,Taranaki,January,28
+2005,Taranaki,February,26
+2005,Taranaki,March,26
+2005,Taranaki,April,8
+2005,Taranaki,May,8
+2005,Taranaki,June,9
+2005,Taranaki,July,31
+2005,Taranaki,August,59
+2005,Taranaki,September,55
+2005,Taranaki,October,48
+2005,Taranaki,November,46
+2005,Taranaki,December,78
+2006,Taranaki,January,49
+2006,Taranaki,February,34
+2006,Taranaki,March,29
+2006,Taranaki,April,29
+2006,Taranaki,May,39
+2006,Taranaki,June,26
+2006,Taranaki,July,26
+2006,Taranaki,August,48
+2006,Taranaki,September,61
+2006,Taranaki,October,36
+2006,Taranaki,November,51
+2006,Taranaki,December,44
+2007,Taranaki,January,48
+2007,Taranaki,February,42
+2007,Taranaki,March,35
+2007,Taranaki,April,22
+2007,Taranaki,May,32
+2007,Taranaki,June,39
+2007,Taranaki,July,22
+2007,Taranaki,August,33
+2007,Taranaki,September,36
+2007,Taranaki,October,42
+2007,Taranaki,November,29
+2007,Taranaki,December,30
+2008,Taranaki,January,23
+2008,Taranaki,February,7
+2008,Taranaki,March,8
+2008,Taranaki,April,10
+2008,Taranaki,May,8
+2008,Taranaki,June,10
+2008,Taranaki,July,16
+2008,Taranaki,August,19
+2008,Taranaki,September,29
+2008,Taranaki,October,28
+2008,Taranaki,November,27
+2008,Taranaki,December,18
+2009,Taranaki,January,20
+2009,Taranaki,February,30
+2009,Taranaki,March,6
+2009,Taranaki,April,14
+2009,Taranaki,May,8
+2009,Taranaki,June,6
+2009,Taranaki,July,8
+2009,Taranaki,August,34
+2009,Taranaki,September,24
+2009,Taranaki,October,25
+2009,Taranaki,November,29
+2009,Taranaki,December,29
+2010,Taranaki,January,28
+2010,Taranaki,February,39
+2010,Taranaki,March,21
+2010,Taranaki,April,17
+2010,Taranaki,May,14
+2010,Taranaki,June,12
+2010,Taranaki,July,8
+2010,Taranaki,August,32
+2010,Taranaki,September,42
+2010,Taranaki,October,23
+2010,Taranaki,November,12
+2010,Taranaki,December,17
+2011,Taranaki,January,22
+2011,Taranaki,February,10
+2011,Taranaki,March,4
+2011,Taranaki,April,4
+2011,Taranaki,May,8
+2011,Taranaki,June,13
+2011,Taranaki,July,11
+2011,Taranaki,August,23
+2011,Taranaki,September,23
+2011,Taranaki,October,21
+2011,Taranaki,November,22
+2011,Taranaki,December,18
+2012,Taranaki,January,19
+2012,Taranaki,February,17
+2012,Taranaki,March,13
+2012,Taranaki,April,7
+2012,Taranaki,May,20
+2012,Taranaki,June,8
+2012,Taranaki,July,15
+2012,Taranaki,August,34
+2012,Taranaki,September,23
+2012,Taranaki,October,23
+2012,Taranaki,November,23
+2012,Taranaki,December,18
+2013,Taranaki,January,28
+2013,Taranaki,February,15
+2013,Taranaki,March,13
+2013,Taranaki,April,5
+2013,Taranaki,May,7
+2013,Taranaki,June,10
+2013,Taranaki,July,13
+2013,Taranaki,August,33
+2013,Taranaki,September,26
+2013,Taranaki,October,28
+2013,Taranaki,November,29
+2013,Taranaki,December,29
+2014,Taranaki,January,20
+2014,Taranaki,February,11
+2014,Taranaki,March,13
+2014,Taranaki,April,6
+2014,Taranaki,May,9
+2014,Taranaki,June,7
+2014,Taranaki,July,8
+2014,Taranaki,August,10
+2014,Taranaki,September,21
+2014,Taranaki,October,24
+2014,Taranaki,November,17
+2014,Taranaki,December,24
+1997,Hawke's Bay,January,36
+1997,Hawke's Bay,February,22
+1997,Hawke's Bay,March,21
+1997,Hawke's Bay,April,10
+1997,Hawke's Bay,May,25
+1997,Hawke's Bay,June,55
+1997,Hawke's Bay,July,24
+1997,Hawke's Bay,August,19
+1997,Hawke's Bay,September,20
+1997,Hawke's Bay,October,43
+1997,Hawke's Bay,November,40
+1997,Hawke's Bay,December,29
+1998,Hawke's Bay,January,46
+1998,Hawke's Bay,February,24
+1998,Hawke's Bay,March,26
+1998,Hawke's Bay,April,39
+1998,Hawke's Bay,May,41
+1998,Hawke's Bay,June,30
+1998,Hawke's Bay,July,52
+1998,Hawke's Bay,August,52
+1998,Hawke's Bay,September,33
+1998,Hawke's Bay,October,40
+1998,Hawke's Bay,November,34
+1998,Hawke's Bay,December,54
+1999,Hawke's Bay,January,43
+1999,Hawke's Bay,February,34
+1999,Hawke's Bay,March,28
+1999,Hawke's Bay,April,24
+1999,Hawke's Bay,May,34
+1999,Hawke's Bay,June,31
+1999,Hawke's Bay,July,22
+1999,Hawke's Bay,August,16
+1999,Hawke's Bay,September,26
+1999,Hawke's Bay,October,20
+1999,Hawke's Bay,November,33
+1999,Hawke's Bay,December,101
+2000,Hawke's Bay,January,37
+2000,Hawke's Bay,February,35
+2000,Hawke's Bay,March,20
+2000,Hawke's Bay,April,8
+2000,Hawke's Bay,May,24
+2000,Hawke's Bay,June,22
+2000,Hawke's Bay,July,37
+2000,Hawke's Bay,August,21
+2000,Hawke's Bay,September,19
+2000,Hawke's Bay,October,28
+2000,Hawke's Bay,November,24
+2000,Hawke's Bay,December,48
+2001,Hawke's Bay,January,48
+2001,Hawke's Bay,February,27
+2001,Hawke's Bay,March,25
+2001,Hawke's Bay,April,30
+2001,Hawke's Bay,May,24
+2001,Hawke's Bay,June,15
+2001,Hawke's Bay,July,31
+2001,Hawke's Bay,August,26
+2001,Hawke's Bay,September,33
+2001,Hawke's Bay,October,49
+2001,Hawke's Bay,November,57
+2001,Hawke's Bay,December,56
+2002,Hawke's Bay,January,66
+2002,Hawke's Bay,February,51
+2002,Hawke's Bay,March,21
+2002,Hawke's Bay,April,25
+2002,Hawke's Bay,May,23
+2002,Hawke's Bay,June,9
+2002,Hawke's Bay,July,38
+2002,Hawke's Bay,August,55
+2002,Hawke's Bay,September,50
+2002,Hawke's Bay,October,26
+2002,Hawke's Bay,November,35
+2002,Hawke's Bay,December,41
+2003,Hawke's Bay,January,82
+2003,Hawke's Bay,February,41
+2003,Hawke's Bay,March,32
+2003,Hawke's Bay,April,20
+2003,Hawke's Bay,May,33
+2003,Hawke's Bay,June,35
+2003,Hawke's Bay,July,35
+2003,Hawke's Bay,August,80
+2003,Hawke's Bay,September,84
+2003,Hawke's Bay,October,64
+2003,Hawke's Bay,November,57
+2003,Hawke's Bay,December,73
+2004,Hawke's Bay,January,73
+2004,Hawke's Bay,February,35
+2004,Hawke's Bay,March,47
+2004,Hawke's Bay,April,24
+2004,Hawke's Bay,May,29
+2004,Hawke's Bay,June,28
+2004,Hawke's Bay,July,38
+2004,Hawke's Bay,August,29
+2004,Hawke's Bay,September,21
+2004,Hawke's Bay,October,19
+2004,Hawke's Bay,November,31
+2004,Hawke's Bay,December,50
+2005,Hawke's Bay,January,58
+2005,Hawke's Bay,February,48
+2005,Hawke's Bay,March,23
+2005,Hawke's Bay,April,21
+2005,Hawke's Bay,May,40
+2005,Hawke's Bay,June,30
+2005,Hawke's Bay,July,41
+2005,Hawke's Bay,August,36
+2005,Hawke's Bay,September,38
+2005,Hawke's Bay,October,42
+2005,Hawke's Bay,November,59
+2005,Hawke's Bay,December,62
+2006,Hawke's Bay,January,82
+2006,Hawke's Bay,February,40
+2006,Hawke's Bay,March,32
+2006,Hawke's Bay,April,27
+2006,Hawke's Bay,May,40
+2006,Hawke's Bay,June,44
+2006,Hawke's Bay,July,43
+2006,Hawke's Bay,August,47
+2006,Hawke's Bay,September,36
+2006,Hawke's Bay,October,28
+2006,Hawke's Bay,November,48
+2006,Hawke's Bay,December,51
+2007,Hawke's Bay,January,73
+2007,Hawke's Bay,February,40
+2007,Hawke's Bay,March,28
+2007,Hawke's Bay,April,22
+2007,Hawke's Bay,May,37
+2007,Hawke's Bay,June,40
+2007,Hawke's Bay,July,50
+2007,Hawke's Bay,August,25
+2007,Hawke's Bay,September,39
+2007,Hawke's Bay,October,37
+2007,Hawke's Bay,November,38
+2007,Hawke's Bay,December,31
+2008,Hawke's Bay,January,41
+2008,Hawke's Bay,February,27
+2008,Hawke's Bay,March,16
+2008,Hawke's Bay,April,14
+2008,Hawke's Bay,May,18
+2008,Hawke's Bay,June,13
+2008,Hawke's Bay,July,25
+2008,Hawke's Bay,August,32
+2008,Hawke's Bay,September,22
+2008,Hawke's Bay,October,31
+2008,Hawke's Bay,November,24
+2008,Hawke's Bay,December,42
+2009,Hawke's Bay,January,43
+2009,Hawke's Bay,February,15
+2009,Hawke's Bay,March,13
+2009,Hawke's Bay,April,15
+2009,Hawke's Bay,May,18
+2009,Hawke's Bay,June,19
+2009,Hawke's Bay,July,42
+2009,Hawke's Bay,August,23
+2009,Hawke's Bay,September,28
+2009,Hawke's Bay,October,26
+2009,Hawke's Bay,November,48
+2009,Hawke's Bay,December,46
+2010,Hawke's Bay,January,48
+2010,Hawke's Bay,February,27
+2010,Hawke's Bay,March,23
+2010,Hawke's Bay,April,19
+2010,Hawke's Bay,May,10
+2010,Hawke's Bay,June,17
+2010,Hawke's Bay,July,28
+2010,Hawke's Bay,August,26
+2010,Hawke's Bay,September,34
+2010,Hawke's Bay,October,25
+2010,Hawke's Bay,November,28
+2010,Hawke's Bay,December,32
+2011,Hawke's Bay,January,26
+2011,Hawke's Bay,February,19
+2011,Hawke's Bay,March,16
+2011,Hawke's Bay,April,20
+2011,Hawke's Bay,May,31
+2011,Hawke's Bay,June,24
+2011,Hawke's Bay,July,30
+2011,Hawke's Bay,August,28
+2011,Hawke's Bay,September,30
+2011,Hawke's Bay,October,23
+2011,Hawke's Bay,November,37
+2011,Hawke's Bay,December,41
+2012,Hawke's Bay,January,41
+2012,Hawke's Bay,February,19
+2012,Hawke's Bay,March,32
+2012,Hawke's Bay,April,31
+2012,Hawke's Bay,May,23
+2012,Hawke's Bay,June,12
+2012,Hawke's Bay,July,12
+2012,Hawke's Bay,August,28
+2012,Hawke's Bay,September,26
+2012,Hawke's Bay,October,23
+2012,Hawke's Bay,November,21
+2012,Hawke's Bay,December,29
+2013,Hawke's Bay,January,31
+2013,Hawke's Bay,February,21
+2013,Hawke's Bay,March,25
+2013,Hawke's Bay,April,15
+2013,Hawke's Bay,May,16
+2013,Hawke's Bay,June,20
+2013,Hawke's Bay,July,23
+2013,Hawke's Bay,August,36
+2013,Hawke's Bay,September,20
+2013,Hawke's Bay,October,31
+2013,Hawke's Bay,November,46
+2013,Hawke's Bay,December,51
+2014,Hawke's Bay,January,24
+2014,Hawke's Bay,February,21
+2014,Hawke's Bay,March,28
+2014,Hawke's Bay,April,14
+2014,Hawke's Bay,May,15
+2014,Hawke's Bay,June,18
+2014,Hawke's Bay,July,18
+2014,Hawke's Bay,August,26
+2014,Hawke's Bay,September,29
+2014,Hawke's Bay,October,22
+2014,Hawke's Bay,November,27
+2014,Hawke's Bay,December,50
+2015,Northland,January,23
+2015,Northland,February,16
+2015,Northland,March,16
+2015,Northland,April,8
+2015,Northland,May,11
+2015,Northland,June,12
+2015,Northland,July,24
+2015,Northland,August,27
+2015,Northland,September,26
+2015,Northland,October,26
+2015,Northland,November,26
+2015,Northland,December,41
+2015,Waitemata,January,84
+2015,Waitemata,February,55
+2015,Waitemata,March,35
+2015,Waitemata,April,40
+2015,Waitemata,May,56
+2015,Waitemata,June,64
+2015,Waitemata,July,60
+2015,Waitemata,August,47
+2015,Waitemata,September,72
+2015,Waitemata,October,77
+2015,Waitemata,November,134
+2015,Waitemata,December,95
+2015,Auckland,January,63
+2015,Auckland,February,43
+2015,Auckland,March,38
+2015,Auckland,April,23
+2015,Auckland,May,31
+2015,Auckland,June,38
+2015,Auckland,July,39
+2015,Auckland,August,38
+2015,Auckland,September,53
+2015,Auckland,October,43
+2015,Auckland,November,68
+2015,Auckland,December,55
+2015,Counties Manukau,January,58
+2015,Counties Manukau,February,35
+2015,Counties Manukau,March,31
+2015,Counties Manukau,April,25
+2015,Counties Manukau,May,33
+2015,Counties Manukau,June,26
+2015,Counties Manukau,July,36
+2015,Counties Manukau,August,32
+2015,Counties Manukau,September,39
+2015,Counties Manukau,October,38
+2015,Counties Manukau,November,70
+2015,Counties Manukau,December,67
+2015,Waikato,January,59
+2015,Waikato,February,31
+2015,Waikato,March,33
+2015,Waikato,April,30
+2015,Waikato,May,25
+2015,Waikato,June,34
+2015,Waikato,July,42
+2015,Waikato,August,76
+2015,Waikato,September,73
+2015,Waikato,October,58
+2015,Waikato,November,74
+2015,Waikato,December,64
+2015,Lakes,January,15
+2015,Lakes,February,9
+2015,Lakes,March,15
+2015,Lakes,April,11
+2015,Lakes,May,8
+2015,Lakes,June,12
+2015,Lakes,July,5
+2015,Lakes,August,20
+2015,Lakes,September,11
+2015,Lakes,October,26
+2015,Lakes,November,17
+2015,Lakes,December,15
+2015,Bay of Plenty,January,30
+2015,Bay of Plenty,February,26
+2015,Bay of Plenty,March,25
+2015,Bay of Plenty,April,15
+2015,Bay of Plenty,May,10
+2015,Bay of Plenty,June,15
+2015,Bay of Plenty,July,12
+2015,Bay of Plenty,August,16
+2015,Bay of Plenty,September,21
+2015,Bay of Plenty,October,23
+2015,Bay of Plenty,November,21
+2015,Bay of Plenty,December,30
+2015,Tairawhiti,January,6
+2015,Tairawhiti,February,1
+2015,Tairawhiti,March,3
+2015,Tairawhiti,April,1
+2015,Tairawhiti,May,3
+2015,Tairawhiti,June,4
+2015,Tairawhiti,July,5
+2015,Tairawhiti,August,5
+2015,Tairawhiti,September,4
+2015,Tairawhiti,October,4
+2015,Tairawhiti,November,8
+2015,Tairawhiti,December,7
+2015,Taranaki,January,23
+2015,Taranaki,February,13
+2015,Taranaki,March,21
+2015,Taranaki,April,15
+2015,Taranaki,May,8
+2015,Taranaki,June,11
+2015,Taranaki,July,12
+2015,Taranaki,August,23
+2015,Taranaki,September,14
+2015,Taranaki,October,30
+2015,Taranaki,November,25
+2015,Taranaki,December,30
+2015,Hawke's Bay,January,27
+2015,Hawke's Bay,February,15
+2015,Hawke's Bay,March,15
+2015,Hawke's Bay,April,8
+2015,Hawke's Bay,May,18
+2015,Hawke's Bay,June,13
+2015,Hawke's Bay,July,16
+2015,Hawke's Bay,August,21
+2015,Hawke's Bay,September,21
+2015,Hawke's Bay,October,25
+2015,Hawke's Bay,November,35
+2015,Hawke's Bay,December,32
+2015,Whanganui,January,11
+2015,Whanganui,February,6
+2015,Whanganui,March,2
+2015,Whanganui,April,7
+2015,Whanganui,May,4
+2015,Whanganui,June,2
+2015,Whanganui,July,5
+2015,Whanganui,August,4
+2015,Whanganui,September,11
+2015,Whanganui,October,9
+2015,Whanganui,November,13
+2015,Whanganui,December,13
+2015,MidCentral,January,19
+2015,MidCentral,February,14
+2015,MidCentral,March,26
+2015,MidCentral,April,5
+2015,MidCentral,May,3
+2015,MidCentral,June,9
+2015,MidCentral,July,12
+2015,MidCentral,August,10
+2015,MidCentral,September,25
+2015,MidCentral,October,12
+2015,MidCentral,November,33
+2015,MidCentral,December,28
+2015,Hutt Valley,January,28
+2015,Hutt Valley,February,23
+2015,Hutt Valley,March,15
+2015,Hutt Valley,April,9
+2015,Hutt Valley,May,7
+2015,Hutt Valley,June,8
+2015,Hutt Valley,July,21
+2015,Hutt Valley,August,13
+2015,Hutt Valley,September,20
+2015,Hutt Valley,October,12
+2015,Hutt Valley,November,21
+2015,Hutt Valley,December,18
+2015,Capital and Coast,January,44
+2015,Capital and Coast,February,37
+2015,Capital and Coast,March,30
+2015,Capital and Coast,April,25
+2015,Capital and Coast,May,29
+2015,Capital and Coast,June,28
+2015,Capital and Coast,July,36
+2015,Capital and Coast,August,35
+2015,Capital and Coast,September,21
+2015,Capital and Coast,October,24
+2015,Capital and Coast,November,31
+2015,Capital and Coast,December,48
+2015,Wairarapa,January,6
+2015,Wairarapa,February,3
+2015,Wairarapa,March,4
+2015,Wairarapa,April,7
+2015,Wairarapa,May,5
+2015,Wairarapa,June,6
+2015,Wairarapa,July,5
+2015,Wairarapa,August,7
+2015,Wairarapa,September,4
+2015,Wairarapa,October,8
+2015,Wairarapa,November,8
+2015,Wairarapa,December,9
+2015,Nelson Marlborough,January,17
+2015,Nelson Marlborough,February,17
+2015,Nelson Marlborough,March,18
+2015,Nelson Marlborough,April,15
+2015,Nelson Marlborough,May,21
+2015,Nelson Marlborough,June,10
+2015,Nelson Marlborough,July,13
+2015,Nelson Marlborough,August,19
+2015,Nelson Marlborough,September,19
+2015,Nelson Marlborough,October,22
+2015,Nelson Marlborough,November,21
+2015,Nelson Marlborough,December,25
+2015,West Coast,January,6
+2015,West Coast,February,6
+2015,West Coast,March,4
+2015,West Coast,April,3
+2015,West Coast,May,6
+2015,West Coast,June,2
+2015,West Coast,July,5
+2015,West Coast,August,7
+2015,West Coast,September,7
+2015,West Coast,October,11
+2015,West Coast,November,14
+2015,West Coast,December,9
+2015,Canterbury,January,89
+2015,Canterbury,February,52
+2015,Canterbury,March,40
+2015,Canterbury,April,36
+2015,Canterbury,May,61
+2015,Canterbury,June,41
+2015,Canterbury,July,41
+2015,Canterbury,August,54
+2015,Canterbury,September,67
+2015,Canterbury,October,69
+2015,Canterbury,November,90
+2015,Canterbury,December,89
+2015,South Canterbury,January,19
+2015,South Canterbury,February,8
+2015,South Canterbury,March,9
+2015,South Canterbury,April,8
+2015,South Canterbury,May,8
+2015,South Canterbury,June,3
+2015,South Canterbury,July,6
+2015,South Canterbury,August,9
+2015,South Canterbury,September,11
+2015,South Canterbury,October,13
+2015,South Canterbury,November,17
+2015,South Canterbury,December,15
+2015,Southern,January,50
+2015,Southern,February,46
+2015,Southern,March,38
+2015,Southern,April,36
+2015,Southern,May,37
+2015,Southern,June,34
+2015,Southern,July,25
+2015,Southern,August,27
+2015,Southern,September,52
+2015,Southern,October,47
+2015,Southern,November,56
+2015,Southern,December,67
+2016,Northland,January,32
+2016,Waitemata,January,112
+2016,Auckland,January,56
+2016,Counties Manukau,January,61
+2016,Waikato,January,63
+2016,Lakes,January,18
+2016,Bay of Plenty,January,27
+2016,Tairawhiti,January,4
+2016,Taranaki,January,27
+2016,Hawke's Bay,January,36
+2016,Whanganui,January,12
+2016,MidCentral,January,24
+2016,Hutt Valley,January,19
+2016,Capital and Coast,January,42
+2016,Wairarapa,January,6
+2016,Nelson Marlborough,January,24
+2016,West Coast,January,5
+2016,Canterbury,January,67
+2016,South Canterbury,January,23
+2016,Southern,January,62
+2016,Northland,February,20
+2016,Waitemata,February,55
+2016,Auckland,February,39
+2016,Counties Manukau,February,39
+2016,Waikato,February,30
+2016,Lakes,February,8
+2016,Bay of Plenty,February,15
+2016,Tairawhiti,February,6
+2016,Taranaki,February,22
+2016,Hawke's Bay,February,16
+2016,Whanganui,February,2
+2016,MidCentral,February,18
+2016,Hutt Valley,February,13
+2016,Capital and Coast,February,24
+2016,Wairarapa,February,5
+2016,Nelson Marlborough,February,15
+2016,West Coast,February,2
+2016,Canterbury,February,64
+2016,South Canterbury,February,13
+2016,Southern,February,48
+2016,Northland,March,25
+2016,Waitemata,March,39
+2016,Auckland,March,43
+2016,Counties Manukau,March,28
+2016,Waikato,March,44
+2016,Lakes,March,7
+2016,Bay of Plenty,March,16
+2016,Tairawhiti,March,4
+2016,Taranaki,March,14
+2016,Hawke's Bay,March,8
+2016,Whanganui,March,3
+2016,MidCentral,March,16
+2016,Hutt Valley,March,12
+2016,Capital and Coast,March,27
+2016,Wairarapa,March,4
+2016,Nelson Marlborough,March,10
+2016,West Coast,March,5
+2016,Canterbury,March,58
+2016,South Canterbury,March,14
+2016,Southern,March,39
+2016,Northland,April,8
+2016,Waitemata,April,46
+2016,Auckland,April,31
+2016,Counties Manukau,April,32
+2016,Waikato,April,47
+2016,Lakes,April,7
+2016,Bay of Plenty,April,12
+2016,Tairawhiti,April,4
+2016,Taranaki,April,9
+2016,Hawke's Bay,April,28
+2016,Whanganui,April,4
+2016,MidCentral,April,10
+2016,Hutt Valley,April,14
+2016,Capital and Coast,April,22
+2016,Wairarapa,April,2
+2016,Nelson Marlborough,April,11
+2016,West Coast,April,2
+2016,Canterbury,April,35
+2016,South Canterbury,April,5
+2016,Southern,April,36
+2016,Northland,May,16
+2016,Waitemata,May,43
+2016,Auckland,May,30
+2016,Counties Manukau,May,31
+2016,Waikato,May,27
+2016,Lakes,May,7
+2016,Bay of Plenty,May,16
+2016,Tairawhiti,May,6
+2016,Taranaki,May,15
+2016,Hawke's Bay,May,28
+2016,Whanganui,May,4
+2016,MidCentral,May,16
+2016,Hutt Valley,May,11
+2016,Capital and Coast,May,21
+2016,Wairarapa,May,1
+2016,Nelson Marlborough,May,14
+2016,West Coast,May,3
+2016,Canterbury,May,54
+2016,South Canterbury,May,8
+2016,Southern,May,40
+2016,Northland,June,6
+2016,Waitemata,June,37
+2016,Auckland,June,32
+2016,Counties Manukau,June,26
+2016,Waikato,June,23
+2016,Lakes,June,9
+2016,Bay of Plenty,June,21
+2016,Tairawhiti,June,6
+2016,Taranaki,June,5
+2016,Hawke's Bay,June,16
+2016,Whanganui,June,8
+2016,MidCentral,June,20
+2016,Hutt Valley,June,7
+2016,Capital and Coast,June,33
+2016,Wairarapa,June,4
+2016,Nelson Marlborough,June,9
+2016,West Coast,June,5
+2016,Canterbury,June,34
+2016,South Canterbury,June,4
+2016,Southern,June,29
+2016,Northland,July,22
+2016,Waitemata,July,60
+2016,Auckland,July,35
+2016,Counties Manukau,July,27
+2016,Waikato,July,33
+2016,Lakes,July,3
+2016,Bay of Plenty,July,22
+2016,Tairawhiti,July,4
+2016,Taranaki,July,5
+2016,Hawke's Bay,July,14
+2016,Whanganui,July,5
+2016,MidCentral,July,19
+2016,Hutt Valley,July,9
+2016,Capital and Coast,July,31
+2016,Wairarapa,July,0
+2016,Nelson Marlborough,July,8
+2016,West Coast,July,0
+2016,Canterbury,July,23
+2016,South Canterbury,July,6
+2016,Southern,July,16
+2016,Northland,August,40
+2016,Waitemata,August,76
+2016,Auckland,August,34
+2016,Counties Manukau,August,35
+2016,Waikato,August,46
+2016,Lakes,August,11
+2016,Bay of Plenty,August,23
+2016,Tairawhiti,August,3
+2016,Taranaki,August,15
+2016,Hawke's Bay,August,627
+2016,Whanganui,August,12
+2016,MidCentral,August,22
+2016,Hutt Valley,August,12
+2016,Capital and Coast,August,40
+2016,Wairarapa,August,7
+2016,Nelson Marlborough,August,10
+2016,West Coast,August,1
+2016,Canterbury,August,62
+2016,South Canterbury,August,9
+2016,Southern,August,29
+2016,Northland,September,38
+2016,Waitemata,September,43
+2016,Auckland,September,32
+2016,Counties Manukau,September,38
+2016,Waikato,September,56
+2016,Lakes,September,19
+2016,Bay of Plenty,September,22
+2016,Tairawhiti,September,11
+2016,Taranaki,September,23
+2016,Hawke's Bay,September,58
+2016,Whanganui,September,9
+2016,MidCentral,September,23
+2016,Hutt Valley,September,12
+2016,Capital and Coast,September,28
+2016,Wairarapa,September,7
+2016,Nelson Marlborough,September,13
+2016,West Coast,September,8
+2016,Canterbury,September,72
+2016,South Canterbury,September,16
+2016,Southern,September,43
+2016,Northland,October,28
+2016,Waitemata,October,79
+2016,Auckland,October,53
+2016,Counties Manukau,October,58
+2016,Waikato,October,70
+2016,Lakes,October,10
+2016,Bay of Plenty,October,23
+2016,Tairawhiti,October,4
+2016,Taranaki,October,35
+2016,Hawke's Bay,October,172
+2016,Whanganui,October,15
+2016,MidCentral,October,32
+2016,Hutt Valley,October,20
+2016,Capital and Coast,October,40
+2016,Wairarapa,October,17
+2016,Nelson Marlborough,October,21
+2016,West Coast,October,7
+2016,Canterbury,October,100
+2016,South Canterbury,October,22
+2016,Southern,October,50
+2016,Northland,November,26
+2016,Waitemata,November,88
+2016,Auckland,November,66
+2016,Counties Manukau,November,80
+2016,Waikato,November,63
+2016,Lakes,November,19
+2016,Bay of Plenty,November,25
+2016,Tairawhiti,November,12
+2016,Taranaki,November,28
+2016,Hawke's Bay,November,296
+2016,Whanganui,November,18
+2016,MidCentral,November,54
+2016,Hutt Valley,November,34
+2016,Capital and Coast,November,52
+2016,Wairarapa,November,10
+2016,Nelson Marlborough,November,19
+2016,West Coast,November,12
+2016,Canterbury,November,96
+2016,South Canterbury,November,18
+2016,Southern,November,87
+2016,Northland,December,28
+2016,Waitemata,December,95
+2016,Auckland,December,69
+2016,Counties Manukau,December,51
+2016,Waikato,December,61
+2016,Lakes,December,12
+2016,Bay of Plenty,December,24
+2016,Tairawhiti,December,10
+2016,Taranaki,December,38
+2016,Hawke's Bay,December,37
+2016,Whanganui,December,10
+2016,MidCentral,December,42
+2016,Hutt Valley,December,32
+2016,Capital and Coast,December,53
+2016,Wairarapa,December,10
+2016,Nelson Marlborough,December,20
+2016,West Coast,December,10
+2016,Canterbury,December,97
+2016,South Canterbury,December,13
+2016,Southern,December,84
+2017,Northland,January,23
+2017,Waitemata,January,67
+2017,Auckland,January,47
+2017,Counties Manukau,January,49
+2017,Waikato,January,64
+2017,Lakes,January,14
+2017,Bay of Plenty,January,32
+2017,Tairawhiti,January,9
+2017,Taranaki,January,17
+2017,Hawke's Bay,January,22
+2017,Whanganui,January,8
+2017,MidCentral,January,24
+2017,Hutt Valley,January,15
+2017,Capital and Coast,January,47
+2017,Wairarapa,January,3
+2017,Nelson Marlborough,January,26
+2017,West Coast,January,3
+2017,Canterbury,January,109
+2017,South Canterbury,January,12
+2017,Southern,January,72
+2017,Northland,February,19
+2017,Waitemata,February,59
+2017,Auckland,February,38
+2017,Counties Manukau,February,43
+2017,Waikato,February,43
+2017,Lakes,February,17
+2017,Bay of Plenty,February,19
+2017,Tairawhiti,February,2
+2017,Taranaki,February,24
+2017,Hawke's Bay,February,24
+2017,Whanganui,February,8
+2017,MidCentral,February,24
+2017,Hutt Valley,February,15
+2017,Capital and Coast,February,34
+2017,Wairarapa,February,5
+2017,Nelson Marlborough,February,15
+2017,West Coast,February,3
+2017,Canterbury,February,59
+2017,South Canterbury,February,10
+2017,Southern,February,97
+2017,Northland,March,10
+2017,Waitemata,March,29
+2017,Auckland,March,48
+2017,Counties Manukau,March,35
+2017,Waikato,March,30
+2017,Lakes,March,15
+2017,Bay of Plenty,March,9
+2017,Tairawhiti,March,3
+2017,Taranaki,March,12
+2017,Hawke's Bay,March,13
+2017,Whanganui,March,6
+2017,MidCentral,March,22
+2017,Hutt Valley,March,17
+2017,Capital and Coast,March,26
+2017,Wairarapa,March,3
+2017,Nelson Marlborough,March,18
+2017,West Coast,March,4
+2017,Canterbury,March,54
+2017,South Canterbury,March,16
+2017,Southern,March,66
+2017,Northland,April,17
+2017,Waitemata,April,44
+2017,Auckland,April,29
+2017,Counties Manukau,April,26
+2017,Waikato,April,23
+2017,Lakes,April,8
+2017,Bay of Plenty,April,19
+2017,Tairawhiti,April,3
+2017,Taranaki,April,11
+2017,Hawke's Bay,April,16
+2017,Whanganui,April,7
+2017,MidCentral,April,16
+2017,Hutt Valley,April,9
+2017,Capital and Coast,April,22
+2017,Wairarapa,April,3
+2017,Nelson Marlborough,April,14
+2017,West Coast,April,2
+2017,Canterbury,April,38
+2017,South Canterbury,April,7
+2017,Southern,April,58
+2017,Northland,May,10
+2017,Waitemata,May,47
+2017,Auckland,May,44
+2017,Counties Manukau,May,35
+2017,Waikato,May,27
+2017,Lakes,May,12
+2017,Bay of Plenty,May,8
+2017,Tairawhiti,May,5
+2017,Taranaki,May,10
+2017,Hawke's Bay,May,22
+2017,Whanganui,May,8
+2017,MidCentral,May,23
+2017,Hutt Valley,May,10
+2017,Capital and Coast,May,30
+2017,Wairarapa,May,13
+2017,Nelson Marlborough,May,19
+2017,West Coast,May,2
+2017,Canterbury,May,50
+2017,South Canterbury,May,12
+2017,Southern,May,43
+2017,Northland,June,10
+2017,Waitemata,June,45
+2017,Auckland,June,40
+2017,Counties Manukau,June,23
+2017,Waikato,June,27
+2017,Lakes,June,9
+2017,Bay of Plenty,June,18
+2017,Tairawhiti,June,2
+2017,Taranaki,June,7
+2017,Hawke's Bay,June,20
+2017,Whanganui,June,7
+2017,MidCentral,June,14
+2017,Hutt Valley,June,16
+2017,Capital and Coast,June,29
+2017,Wairarapa,June,3
+2017,Nelson Marlborough,June,9
+2017,West Coast,June,1
+2017,Canterbury,June,49
+2017,South Canterbury,June,5
+2017,Southern,June,35
+2017,Northland,July,17
+2017,Waitemata,July,61
+2017,Auckland,July,43
+2017,Counties Manukau,July,29
+2017,Waikato,July,37
+2017,Lakes,July,9
+2017,Bay of Plenty,July,15
+2017,Tairawhiti,July,6
+2017,Taranaki,July,9
+2017,Hawke's Bay,July,28
+2017,Whanganui,July,4
+2017,MidCentral,July,15
+2017,Hutt Valley,July,13
+2017,Capital and Coast,July,15
+2017,Wairarapa,July,7
+2017,Nelson Marlborough,July,14
+2017,West Coast,July,3
+2017,Canterbury,July,64
+2017,South Canterbury,July,5
+2017,Southern,July,47
+2017,Northland,August,35
+2017,Waitemata,August,75
+2017,Auckland,August,50
+2017,Counties Manukau,August,41
+2017,Waikato,August,66
+2017,Lakes,August,16
+2017,Bay of Plenty,August,20
+2017,Tairawhiti,August,3
+2017,Taranaki,August,28
+2017,Hawke's Bay,August,13
+2017,Whanganui,August,7
+2017,MidCentral,August,19
+2017,Hutt Valley,August,3
+2017,Capital and Coast,August,26
+2017,Wairarapa,August,4
+2017,Nelson Marlborough,August,16
+2017,West Coast,August,7
+2017,Canterbury,August,74
+2017,South Canterbury,August,10
+2017,Southern,August,56
+2017,Northland,September,28
+2017,Waitemata,September,77
+2017,Auckland,September,35
+2017,Counties Manukau,September,31
+2017,Waikato,September,76
+2017,Lakes,September,14
+2017,Bay of Plenty,September,21
+2017,Tairawhiti,September,3
+2017,Taranaki,September,32
+2017,Hawke's Bay,September,18
+2017,Whanganui,September,12
+2017,MidCentral,September,25
+2017,Hutt Valley,September,6
+2017,Capital and Coast,September,16
+2017,Wairarapa,September,5
+2017,Nelson Marlborough,September,18
+2017,West Coast,September,10
+2017,Canterbury,September,82
+2017,South Canterbury,September,15
+2017,Southern,September,68
+2017,Northland,October,26
+2017,Waitemata,October,69
+2017,Auckland,October,46
+2017,Counties Manukau,October,44
+2017,Waikato,October,69
+2017,Lakes,October,22
+2017,Bay of Plenty,October,25
+2017,Tairawhiti,October,8
+2017,Taranaki,October,25
+2017,Hawke's Bay,October,27
+2017,Whanganui,October,9
+2017,MidCentral,October,34
+2017,Hutt Valley,October,10
+2017,Capital and Coast,October,27
+2017,Wairarapa,October,9
+2017,Nelson Marlborough,October,24
+2017,West Coast,October,12
+2017,Canterbury,October,102
+2017,South Canterbury,October,20
+2017,Southern,October,79
+2017,Northland,November,33
+2017,Waitemata,November,112
+2017,Auckland,November,59
+2017,Counties Manukau,November,62
+2017,Waikato,November,57
+2017,Lakes,November,13
+2017,Bay of Plenty,November,24
+2017,Tairawhiti,November,6
+2017,Taranaki,November,23
+2017,Hawke's Bay,November,39
+2017,Whanganui,November,7
+2017,MidCentral,November,32
+2017,Hutt Valley,November,18
+2017,Capital and Coast,November,38
+2017,Wairarapa,November,13
+2017,Nelson Marlborough,November,25
+2017,West Coast,November,8
+2017,Canterbury,November,100
+2017,South Canterbury,November,20
+2017,Southern,November,106
+2017,Northland,December,26
+2017,Waitemata,December,80
+2017,Auckland,December,54
+2017,Counties Manukau,December,49
+2017,Waikato,December,43
+2017,Lakes,December,10
+2017,Bay of Plenty,December,19
+2017,Tairawhiti,December,3
+2017,Taranaki,December,28
+2017,Hawke's Bay,December,28
+2017,Whanganui,December,9
+2017,MidCentral,December,23
+2017,Hutt Valley,December,20
+2017,Capital and Coast,December,36
+2017,Wairarapa,December,11
+2017,Nelson Marlborough,December,18
+2017,West Coast,December,6
+2017,Canterbury,December,85
+2017,South Canterbury,December,15
+2017,Southern,December,74
+2018,Northland,January,36
+2018,Waitemata,January,91
+2018,Auckland,January,61
+2018,Counties Manukau,January,55
+2018,Waikato,January,60
+2018,Lakes,January,15
+2018,Bay of Plenty,January,30
+2018,Tairawhiti,January,14
+2018,Taranaki,January,26
+2018,Hawke's Bay,January,35
+2018,Whanganui,January,13
+2018,MidCentral,January,19
+2018,Hutt Valley,January,34
+2018,Capital and Coast,January,47
+2018,Wairarapa,January,2
+2018,Nelson Marlborough,January,20
+2018,West Coast,January,5
+2018,Canterbury,January,78
+2018,South Canterbury,January,17
+2018,Southern,January,69
+2018,Northland,February,10
+2018,Waitemata,February,57
+2018,Auckland,February,49
+2018,Counties Manukau,February,40
+2018,Waikato,February,45
+2018,Lakes,February,13
+2018,Bay of Plenty,February,16
+2018,Tairawhiti,February,4
+2018,Taranaki,February,19
+2018,Hawke's Bay,February,28
+2018,Whanganui,February,6
+2018,MidCentral,February,19
+2018,Hutt Valley,February,12
+2018,Capital and Coast,February,32
+2018,Wairarapa,February,5
+2018,Nelson Marlborough,February,18
+2018,West Coast,February,4
+2018,Canterbury,February,59
+2018,South Canterbury,February,11
+2018,Southern,February,65
+2018,Northland,March,14
+2018,Waitemata,March,51
+2018,Auckland,March,60
+2018,Counties Manukau,March,43
+2018,Waikato,March,32
+2018,Lakes,March,10
+2018,Bay of Plenty,March,17
+2018,Tairawhiti,March,4
+2018,Taranaki,March,18
+2018,Hawke's Bay,March,19
+2018,Whanganui,March,5
+2018,MidCentral,March,22
+2018,Hutt Valley,March,13
+2018,Capital and Coast,March,42
+2018,Wairarapa,March,6
+2018,Nelson Marlborough,March,11
+2018,West Coast,March,4
+2018,Canterbury,March,52
+2018,South Canterbury,March,13
+2018,Southern,March,52
+2018,Northland,April,10
+2018,Waitemata,April,40
+2018,Auckland,April,35
+2018,Counties Manukau,April,41
+2018,Waikato,April,36
+2018,Lakes,April,9
+2018,Bay of Plenty,April,15
+2018,Tairawhiti,April,4
+2018,Taranaki,April,9
+2018,Hawke's Bay,April,13
+2018,Whanganui,April,2
+2018,MidCentral,April,18
+2018,Hutt Valley,April,11
+2018,Capital and Coast,April,31
+2018,Wairarapa,April,4
+2018,Nelson Marlborough,April,11
+2018,West Coast,April,6
+2018,Canterbury,April,45
+2018,South Canterbury,April,6
+2018,Southern,April,49
+2018,Northland,May,12
+2018,Waitemata,May,71
+2018,Auckland,May,40
+2018,Counties Manukau,May,30
+2018,Waikato,May,34
+2018,Lakes,May,7
+2018,Bay of Plenty,May,19
+2018,Tairawhiti,May,0
+2018,Taranaki,May,11
+2018,Hawke's Bay,May,22
+2018,Whanganui,May,8
+2018,MidCentral,May,20
+2018,Hutt Valley,May,11
+2018,Capital and Coast,May,38
+2018,Wairarapa,May,6
+2018,Nelson Marlborough,May,10
+2018,West Coast,May,0
+2018,Canterbury,May,42
+2018,South Canterbury,May,9
+2018,Southern,May,53
+2018,Northland,June,21
+2018,Waitemata,June,54
+2018,Auckland,June,21
+2018,Counties Manukau,June,38
+2018,Waikato,June,36
+2018,Lakes,June,11
+2018,Bay of Plenty,June,9
+2018,Tairawhiti,June,4
+2018,Taranaki,June,10
+2018,Hawke's Bay,June,30
+2018,Whanganui,June,11
+2018,MidCentral,June,18
+2018,Hutt Valley,June,12
+2018,Capital and Coast,June,28
+2018,Wairarapa,June,12
+2018,Nelson Marlborough,June,22
+2018,West Coast,June,4
+2018,Canterbury,June,34
+2018,South Canterbury,June,10
+2018,Southern,June,43
+2018,Northland,July,27
+2018,Waitemata,July,50
+2018,Auckland,July,41
+2018,Counties Manukau,July,43
+2018,Waikato,July,47
+2018,Lakes,July,9
+2018,Bay of Plenty,July,14
+2018,Tairawhiti,July,5
+2018,Taranaki,July,5
+2018,Hawke's Bay,July,23
+2018,Whanganui,July,6
+2018,MidCentral,July,13
+2018,Hutt Valley,July,11
+2018,Capital and Coast,July,24
+2018,Wairarapa,July,6
+2018,Nelson Marlborough,July,28
+2018,West Coast,July,4
+2018,Canterbury,July,49
+2018,South Canterbury,July,15
+2018,Southern,July,59
+2018,Northland,August,20
+2018,Waitemata,August,64
+2018,Auckland,August,31
+2018,Counties Manukau,August,38
+2018,Waikato,August,75
+2018,Lakes,August,14
+2018,Bay of Plenty,August,28
+2018,Tairawhiti,August,5
+2018,Taranaki,August,22
+2018,Hawke's Bay,August,26
+2018,Whanganui,August,5
+2018,MidCentral,August,20
+2018,Hutt Valley,August,14
+2018,Capital and Coast,August,42
+2018,Wairarapa,August,5
+2018,Nelson Marlborough,August,20
+2018,West Coast,August,3
+2018,Canterbury,August,74
+2018,South Canterbury,August,16
+2018,Southern,August,48
+2018,Northland,September,15
+2018,Waitemata,September,57
+2018,Auckland,September,52
+2018,Counties Manukau,September,39
+2018,Waikato,September,63
+2018,Lakes,September,14
+2018,Bay of Plenty,September,25
+2018,Tairawhiti,September,2
+2018,Taranaki,September,24
+2018,Hawke's Bay,September,27
+2018,Whanganui,September,3
+2018,MidCentral,September,20
+2018,Hutt Valley,September,9
+2018,Capital and Coast,September,29
+2018,Wairarapa,September,6
+2018,Nelson Marlborough,September,31
+2018,West Coast,September,7
+2018,Canterbury,September,61
+2018,South Canterbury,September,10
+2018,Southern,September,56
+2018,Northland,October,18
+2018,Waitemata,October,91
+2018,Auckland,October,51
+2018,Counties Manukau,October,53
+2018,Waikato,October,52
+2018,Lakes,October,17
+2018,Bay of Plenty,October,24
+2018,Tairawhiti,October,5
+2018,Taranaki,October,32
+2018,Hawke's Bay,October,22
+2018,Whanganui,October,5
+2018,MidCentral,October,34
+2018,Hutt Valley,October,12
+2018,Capital and Coast,October,30
+2018,Wairarapa,October,8
+2018,Nelson Marlborough,October,14
+2018,West Coast,October,1
+2018,Canterbury,October,77
+2018,South Canterbury,October,11
+2018,Southern,October,80
+2018,Northland,November,35
+2018,Waitemata,November,112
+2018,Auckland,November,66
+2018,Counties Manukau,November,72
+2018,Waikato,November,83
+2018,Lakes,November,16
+2018,Bay of Plenty,November,23
+2018,Tairawhiti,November,2
+2018,Taranaki,November,19
+2018,Hawke's Bay,November,27
+2018,Whanganui,November,8
+2018,MidCentral,November,48
+2018,Hutt Valley,November,35
+2018,Capital and Coast,November,33
+2018,Wairarapa,November,7
+2018,Nelson Marlborough,November,19
+2018,West Coast,November,7
+2018,Canterbury,November,102
+2018,South Canterbury,November,17
+2018,Southern,November,81
+2018,Northland,December,26
+2018,Waitemata,December,165
+2018,Auckland,December,79
+2018,Counties Manukau,December,85
+2018,Waikato,December,113
+2018,Lakes,December,19
+2018,Bay of Plenty,December,22
+2018,Tairawhiti,December,5
+2018,Taranaki,December,27
+2018,Hawke's Bay,December,22
+2018,Whanganui,December,9
+2018,MidCentral,December,46
+2018,Hutt Valley,December,22
+2018,Capital and Coast,December,56
+2018,Wairarapa,December,12
+2018,Nelson Marlborough,December,35
+2018,West Coast,December,5
+2018,Canterbury,December,88
+2018,South Canterbury,December,17
+2018,Southern,December,65
+2019,Northland,January,42
+2019,Waitemata,January,133
+2019,Auckland,January,74
+2019,Counties Manukau,January,96
+2019,Waikato,January,88
+2019,Lakes,January,15
+2019,Bay of Plenty,January,42
+2019,Tairawhiti,January,6
+2019,Taranaki,January,33
+2019,Hawke's Bay,January,49
+2019,Whanganui,January,9
+2019,MidCentral,January,39
+2019,Hutt Valley,January,14
+2019,Capital and Coast,January,45
+2019,Wairarapa,January,15
+2019,Nelson Marlborough,January,31
+2019,West Coast,January,7
+2019,Canterbury,January,124
+2019,South Canterbury,January,26
+2019,Southern,January,63
+2019,Northland,February,14
+2019,Waitemata,February,51
+2019,Auckland,February,50
+2019,Counties Manukau,February,32
+2019,Waikato,February,46
+2019,Lakes,February,10
+2019,Bay of Plenty,February,26
+2019,Tairawhiti,February,3
+2019,Taranaki,February,13
+2019,Hawke's Bay,February,15
+2019,Whanganui,February,7
+2019,MidCentral,February,19
+2019,Hutt Valley,February,14
+2019,Capital and Coast,February,25
+2019,Wairarapa,February,7
+2019,Nelson Marlborough,February,16
+2019,West Coast,February,1
+2019,Canterbury,February,66
+2019,South Canterbury,February,21
+2019,Southern,February,53
+2019,Northland,March,18
+2019,Waitemata,March,44
+2019,Auckland,March,41
+2019,Counties Manukau,March,39
+2019,Waikato,March,39
+2019,Lakes,March,15
+2019,Bay of Plenty,March,18
+2019,Tairawhiti,March,1
+2019,Taranaki,March,15
+2019,Hawke's Bay,March,22
+2019,Whanganui,March,3
+2019,MidCentral,March,15
+2019,Hutt Valley,March,11
+2019,Capital and Coast,March,17
+2019,Wairarapa,March,4
+2019,Nelson Marlborough,March,11
+2019,West Coast,March,2
+2019,Canterbury,March,30
+2019,South Canterbury,March,11
+2019,Southern,March,30
+2019,Northland,April,11
+2019,Waitemata,April,33
+2019,Auckland,April,28
+2019,Counties Manukau,April,21
+2019,Waikato,April,34
+2019,Lakes,April,8
+2019,Bay of Plenty,April,17
+2019,Tairawhiti,April,2
+2019,Taranaki,April,15
+2019,Hawke's Bay,April,7
+2019,Whanganui,April,4
+2019,MidCentral,April,5
+2019,Hutt Valley,April,8
+2019,Capital and Coast,April,12
+2019,Wairarapa,April,5
+2019,Nelson Marlborough,April,12
+2019,West Coast,April,3
+2019,Canterbury,April,49
+2019,South Canterbury,April,6
+2019,Southern,April,26
+2019,Northland,May,11
+2019,Waitemata,May,45
+2019,Auckland,May,22
+2019,Counties Manukau,May,29
+2019,Waikato,May,36
+2019,Lakes,May,9
+2019,Bay of Plenty,May,11
+2019,Tairawhiti,May,7
+2019,Taranaki,May,9
+2019,Hawke's Bay,May,18
+2019,Whanganui,May,4
+2019,MidCentral,May,8
+2019,Hutt Valley,May,14
+2019,Capital and Coast,May,21
+2019,Wairarapa,May,3
+2019,Nelson Marlborough,May,5
+2019,West Coast,May,3
+2019,Canterbury,May,39
+2019,South Canterbury,May,8
+2019,Southern,May,34
+2019,Northland,June,19
+2019,Waitemata,June,48
+2019,Auckland,June,22
+2019,Counties Manukau,June,24
+2019,Waikato,June,28
+2019,Lakes,June,9
+2019,Bay of Plenty,June,18
+2019,Tairawhiti,June,3
+2019,Taranaki,June,3
+2019,Hawke's Bay,June,8
+2019,Whanganui,June,2
+2019,MidCentral,June,14
+2019,Hutt Valley,June,9
+2019,Capital and Coast,June,12
+2019,Wairarapa,June,9
+2019,Nelson Marlborough,June,16
+2019,West Coast,June,5
+2019,Canterbury,June,37
+2019,South Canterbury,June,6
+2019,Southern,June,27
+2019,Northland,July,16
+2019,Waitemata,July,66
+2019,Auckland,July,35
+2019,Counties Manukau,July,25
+2019,Waikato,July,32
+2019,Lakes,July,14
+2019,Bay of Plenty,July,29
+2019,Tairawhiti,July,0
+2019,Taranaki,July,15
+2019,Hawke's Bay,July,18
+2019,Whanganui,July,8
+2019,MidCentral,July,16
+2019,Hutt Valley,July,11
+2019,Capital and Coast,July,22
+2019,Wairarapa,July,6
+2019,Nelson Marlborough,July,18
+2019,West Coast,July,1
+2019,Canterbury,July,46
+2019,South Canterbury,July,5
+2019,Southern,July,32
+2019,Northland,August,27
+2019,Waitemata,August,63
+2019,Auckland,August,37
+2019,Counties Manukau,August,36
+2019,Waikato,August,78
+2019,Lakes,August,14
+2019,Bay of Plenty,August,23
+2019,Tairawhiti,August,4
+2019,Taranaki,August,23
+2019,Hawke's Bay,August,16
+2019,Whanganui,August,9
+2019,MidCentral,August,23
+2019,Hutt Valley,August,9
+2019,Capital and Coast,August,37
+2019,Wairarapa,August,14
+2019,Nelson Marlborough,August,9
+2019,West Coast,August,6
+2019,Canterbury,August,56
+2019,South Canterbury,August,8
+2019,Southern,August,35
+2019,Northland,September,25
+2019,Waitemata,September,45
+2019,Auckland,September,44
+2019,Counties Manukau,September,30
+2019,Waikato,September,63
+2019,Lakes,September,8
+2019,Bay of Plenty,September,24
+2019,Tairawhiti,September,1
+2019,Taranaki,September,22
+2019,Hawke's Bay,September,21
+2019,Whanganui,September,8
+2019,MidCentral,September,28
+2019,Hutt Valley,September,4
+2019,Capital and Coast,September,34
+2019,Wairarapa,September,6
+2019,Nelson Marlborough,September,16
+2019,West Coast,September,6
+2019,Canterbury,September,55
+2019,South Canterbury,September,14
+2019,Southern,September,49
+2019,Northland,October,25
+2019,Waitemata,October,65
+2019,Auckland,October,46
+2019,Counties Manukau,October,56
+2019,Waikato,October,58
+2019,Lakes,October,18
+2019,Bay of Plenty,October,30
+2019,Tairawhiti,October,8
+2019,Taranaki,October,26
+2019,Hawke's Bay,October,21
+2019,Whanganui,October,5
+2019,MidCentral,October,26
+2019,Hutt Valley,October,15
+2019,Capital and Coast,October,25
+2019,Wairarapa,October,11
+2019,Nelson Marlborough,October,20
+2019,West Coast,October,0
+2019,Canterbury,October,72
+2019,South Canterbury,October,14
+2019,Southern,October,64
+2019,Northland,November,22
+2019,Waitemata,November,91
+2019,Auckland,November,52
+2019,Counties Manukau,November,56
+2019,Waikato,November,71
+2019,Lakes,November,10
+2019,Bay of Plenty,November,22
+2019,Tairawhiti,November,3
+2019,Taranaki,November,35
+2019,Hawke's Bay,November,27
+2019,Whanganui,November,11
+2019,MidCentral,November,41
+2019,Hutt Valley,November,23
+2019,Capital and Coast,November,45
+2019,Wairarapa,November,16
+2019,Nelson Marlborough,November,23
+2019,West Coast,November,4
+2019,Canterbury,November,87
+2019,South Canterbury,November,13
+2019,Southern,November,59
+2019,Northland,December,20
+2019,Waitemata,December,108
+2019,Auckland,December,64
+2019,Counties Manukau,December,43
+2019,Waikato,December,47
+2019,Lakes,December,21
+2019,Bay of Plenty,December,29
+2019,Tairawhiti,December,6
+2019,Taranaki,December,14
+2019,Hawke's Bay,December,38
+2019,Whanganui,December,10
+2019,MidCentral,December,27
+2019,Hutt Valley,December,20
+2019,Capital and Coast,December,35
+2019,Wairarapa,December,12
+2019,Nelson Marlborough,December,28
+2019,West Coast,December,8
+2019,Canterbury,December,51
+2019,South Canterbury,December,10
+2019,Southern,December,64
+2020,Northland,January,14
+2020,Waitemata,January,86
+2020,Auckland,January,73
+2020,Counties Manukau,January,57
+2020,Waikato,January,71
+2020,Lakes,January,15
+2020,Bay of Plenty,January,41
+2020,Tairawhiti,January,6
+2020,Taranaki,January,16
+2020,Hawke's Bay,January,26
+2020,Whanganui,January,16
+2020,MidCentral,January,22
+2020,Hutt Valley,January,13
+2020,Capital and Coast,January,35
+2020,Wairarapa,January,12
+2020,Nelson Marlborough,January,22
+2020,West Coast,January,6
+2020,Canterbury,January,65
+2020,South Canterbury,January,13
+2020,Southern,January,71
+2020,Northland,February,22
+2020,Waitemata,February,47
+2020,Auckland,February,25
+2020,Counties Manukau,February,41
+2020,Waikato,February,37
+2020,Lakes,February,10
+2020,Bay of Plenty,February,17
+2020,Tairawhiti,February,2
+2020,Taranaki,February,13
+2020,Hawke's Bay,February,17
+2020,Whanganui,February,4
+2020,MidCentral,February,11
+2020,Hutt Valley,February,11
+2020,Capital and Coast,February,16
+2020,Wairarapa,February,3
+2020,Nelson Marlborough,February,7
+2020,West Coast,February,5
+2020,Canterbury,February,32
+2020,South Canterbury,February,9
+2020,Southern,February,52
+2020,Northland,March,11
+2020,Waitemata,March,30
+2020,Auckland,March,21
+2020,Counties Manukau,March,23
+2020,Waikato,March,34
+2020,Lakes,March,3
+2020,Bay of Plenty,March,13
+2020,Tairawhiti,March,3
+2020,Taranaki,March,11
+2020,Hawke's Bay,March,11
+2020,Whanganui,March,2
+2020,MidCentral,March,7
+2020,Hutt Valley,March,5
+2020,Capital and Coast,March,19
+2020,Wairarapa,March,4
+2020,Nelson Marlborough,March,10
+2020,West Coast,March,4
+2020,Canterbury,March,23
+2020,South Canterbury,March,7
+2020,Southern,March,26
+2020,Northland,April,3
+2020,Waitemata,April,6
+2020,Auckland,April,5
+2020,Counties Manukau,April,4
+2020,Waikato,April,23
+2020,Lakes,April,5
+2020,Bay of Plenty,April,3
+2020,Tairawhiti,April,1
+2020,Taranaki,April,6
+2020,Hawke's Bay,April,2
+2020,Whanganui,April,1
+2020,MidCentral,April,4
+2020,Hutt Valley,April,3
+2020,Capital and Coast,April,0
+2020,Wairarapa,April,2
+2020,Nelson Marlborough,April,1
+2020,West Coast,April,3
+2020,Canterbury,April,9
+2020,South Canterbury,April,5
+2020,Southern,April,8
+2020,Northland,May,9
+2020,Waitemata,May,20
+2020,Auckland,May,11
+2020,Counties Manukau,May,15
+2020,Waikato,May,19
+2020,Lakes,May,8
+2020,Bay of Plenty,May,8
+2020,Tairawhiti,May,3
+2020,Taranaki,May,9
+2020,Hawke's Bay,May,5
+2020,Whanganui,May,1
+2020,MidCentral,May,10
+2020,Hutt Valley,May,9
+2020,Capital and Coast,May,1
+2020,Wairarapa,May,0
+2020,Nelson Marlborough,May,2
+2020,West Coast,May,4
+2020,Canterbury,May,18
+2020,South Canterbury,May,6
+2020,Southern,May,14
+2020,Northland,June,15
+2020,Waitemata,June,34
+2020,Auckland,June,22
+2020,Counties Manukau,June,21
+2020,Waikato,June,23
+2020,Lakes,June,4
+2020,Bay of Plenty,June,7
+2020,Tairawhiti,June,5
+2020,Taranaki,June,9
+2020,Hawke's Bay,June,13
+2020,Whanganui,June,4
+2020,MidCentral,June,11
+2020,Hutt Valley,June,6
+2020,Capital and Coast,June,17
+2020,Wairarapa,June,6
+2020,Nelson Marlborough,June,7
+2020,West Coast,June,1
+2020,Canterbury,June,26
+2020,South Canterbury,June,6
+2020,Southern,June,27
+2020,Northland,July,11
+2020,Waitemata,July,31
+2020,Auckland,July,33
+2020,Counties Manukau,July,30
+2020,Waikato,July,50
+2020,Lakes,July,10
+2020,Bay of Plenty,July,24
+2020,Tairawhiti,July,7
+2020,Taranaki,July,13
+2020,Hawke's Bay,July,26
+2020,Whanganui,July,4
+2020,MidCentral,July,15
+2020,Hutt Valley,July,9
+2020,Capital and Coast,July,24
+2020,Wairarapa,July,5
+2020,Nelson Marlborough,July,15
+2020,West Coast,July,5
+2020,Canterbury,July,35
+2020,South Canterbury,July,10
+2020,Southern,July,28
+2020,Northland,August,24
+2020,Waitemata,August,41
+2020,Auckland,August,17
+2020,Counties Manukau,August,30
+2020,Waikato,August,70
+2020,Lakes,August,19
+2020,Bay of Plenty,August,21
+2020,Tairawhiti,August,8
+2020,Taranaki,August,24
+2020,Hawke's Bay,August,25
+2020,Whanganui,August,10
+2020,MidCentral,August,25
+2020,Hutt Valley,August,6
+2020,Capital and Coast,August,26
+2020,Wairarapa,August,7
+2020,Nelson Marlborough,August,15
+2020,West Coast,August,2
+2020,Canterbury,August,45
+2020,South Canterbury,August,17
+2020,Southern,August,29
+2020,Northland,September,23
+2020,Waitemata,September,47
+2020,Auckland,September,28
+2020,Counties Manukau,September,34
+2020,Waikato,September,66
+2020,Lakes,September,11
+2020,Bay of Plenty,September,19
+2020,Tairawhiti,September,4
+2020,Taranaki,September,14
+2020,Hawke's Bay,September,19
+2020,Whanganui,September,10
+2020,MidCentral,September,35
+2020,Hutt Valley,September,13
+2020,Capital and Coast,September,18
+2020,Wairarapa,September,8
+2020,Nelson Marlborough,September,18
+2020,West Coast,September,4
+2020,Canterbury,September,49
+2020,South Canterbury,September,12
+2020,Southern,September,52
+2020,Northland,October,18
+2020,Waitemata,October,62
+2020,Auckland,October,38
+2020,Counties Manukau,October,33
+2020,Waikato,October,61
+2020,Lakes,October,22
+2020,Bay of Plenty,October,40
+2020,Tairawhiti,October,5
+2020,Taranaki,October,25
+2020,Hawke's Bay,October,16
+2020,Whanganui,October,5
+2020,MidCentral,October,23
+2020,Hutt Valley,October,12
+2020,Capital and Coast,October,18
+2020,Wairarapa,October,5
+2020,Nelson Marlborough,October,19
+2020,West Coast,October,7
+2020,Canterbury,October,62
+2020,South Canterbury,October,17
+2020,Southern,October,67
+2020,Northland,November,28
+2020,Waitemata,November,84
+2020,Auckland,November,42
+2020,Counties Manukau,November,69
+2020,Waikato,November,61
+2020,Lakes,November,18
+2020,Bay of Plenty,November,27
+2020,Tairawhiti,November,7
+2020,Taranaki,November,20
+2020,Hawke's Bay,November,34
+2020,Whanganui,November,8
+2020,MidCentral,November,29
+2020,Hutt Valley,November,17
+2020,Capital and Coast,November,28
+2020,Wairarapa,November,17
+2020,Nelson Marlborough,November,26
+2020,West Coast,November,9
+2020,Canterbury,November,93
+2020,South Canterbury,November,13
+2020,Southern,November,57
+2020,Northland,December,27
+2020,Waitemata,December,105
+2020,Auckland,December,74
+2020,Counties Manukau,December,61
+2020,Waikato,December,81
+2020,Lakes,December,11
+2020,Bay of Plenty,December,43
+2020,Tairawhiti,December,12
+2020,Taranaki,December,34
+2020,Hawke's Bay,December,38
+2020,Whanganui,December,16
+2020,MidCentral,December,58
+2020,Hutt Valley,December,12
+2020,Capital and Coast,December,40
+2020,Wairarapa,December,16
+2020,Nelson Marlborough,December,32
+2020,West Coast,December,5
+2020,Canterbury,December,91
+2020,South Canterbury,December,14
+2020,Southern,December,88

@@ -1,0 +1,13 @@
+Month Northland Waitemata Auckland "Counties Manukau" Waikato Lakes "Bay of Plenty" Tairawhiti Taranaki "Hawke's Bay" Whanganui MidCentral "Hutt Valley" "Capital and Coast" Wairarapa "Nelson Marlborough" "West Coast" Canterbury "South Canterbury" Southern
+January 32 112 56 61 63 18 27 4 27 36 12 24 19 42 6 24 5 67 23 62
+February 20 55 39 39 30 8 15 6 22 16 2 18 13 24 5 15 2 64 13 48
+March 25 39 43 28 44 7 16 4 14 8 3 16 12 27 4 10 5 58 14 39
+April 8 46 31 32 47 7 12 4 9 28 4 10 14 22 2 11 2 35 5 36
+May 16 43 30 31 27 7 16 6 15 28 4 16 11 21 1 14 3 54 8 40
+June 6 37 32 26 23 9 21 6 5 16 8 20 7 33 4 9 5 34 4 29
+July 22 60 35 27 33 3 22 4 5 14 5 19 9 31 0 8 0 23 6 16
+August 40 76 34 35 46 11 23 3 15 627 12 22 12 40 7 10 1 62 9 29
+September 38 43 32 38 56 19 22 11 23 58 9 23 12 28 7 13 8 72 16 43
+October 28 79 53 58 70 10 23 4 35 172 15 32 20 40 17 21 7 100 22 50
+November 26 88 66 80 63 19 25 12 28 296 18 54 34 52 10 19 12 96 18 87
+December 28 95 69 51 61 12 24 10 38 37 10 42 32 53 10 20 10 97 13 84
