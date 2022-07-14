@@ -1,0 +1,187 @@
+color_id,color,rgb,sort_group,sort_order
+1021,Modulex Brown,#907450,2,209
+28,Dark Tan,#958A73,2,208
+179,Flat Silver,#898788,2,207
+1015,Modulex Light Gray,#9C9C9C,2,206
+1041,Modulex Foil Light Gray,#9C9C9C,2,205
+135,Pearl Light Gray,#9CA3A8,2,204
+71,Light Bluish Gray,#A0A5A9,2,203
+150,Pearl Very Light Gray,#ABADAC,2,202
+7,Light Gray,#9BA19D,2,201
+1017,Modulex Tile Gray,#6B5A5A,3,312
+1018,Modulex Black,#4D4C52,3,311
+148,Pearl Dark Gray,#575857,3,310
+1040,Modulex Foil Dark Gray,#595D60,3,309
+1016,Modulex Charcoal Gray,#595D60,3,308
+76,Speckle DBGray-Silver,#6C6E68,3,307
+72,Dark Bluish Gray,#6C6E68,3,306
+8,Dark Gray,#6D6E5C,3,305
+40,Trans-Black,#635F52,3,304
+32,Trans-Black IR Lens,#635F52,3,303
+60,Chrome Antique Brass,#645A4C,3,302
+1020,Modulex Terracotta,#5C5030,3,301
+1046,Modulex Foil Violet,#4B0082,4,412
+33,Trans-Dark Blue,#0020A0,4,411
+-1,[Unknown],#0033B2,4,410
+23,Dark Blue-Violet,#2032B0,4,409
+85,Dark Purple,#3F3691,4,408
+272,Dark Blue,#0A3463,4,407
+64,Chrome Black,#1B2A34,4,406
+0,Black,#05131D,4,405
+133,Speckle Black-Gold,#05131D,4,404
+132,Speckle Black-Silver,#05131D,4,403
+9999,[No Color/Any Color],#05131D,4,402
+75,Speckle Black-Copper,#05131D,4,401
+1035,Modulex Medium Blue,#61AFFF,5,515
+73,Medium Blue,#5A93DB,5,514
+61,Chrome Blue,#6C96BF,5,513
+313,Maersk Blue,#3592C3,5,512
+321,Dark Azure,#078BC9,5,511
+1033,Modulex Teal Blue,#467083,5,510
+1034,Modulex Tile Blue,#0057A6,5,509
+1044,Modulex Foil Dark Blue,#0057A6,5,508
+1,Blue,#0055BF,5,507
+110,Violet,#4354A3,5,506
+89,Royal Blue,#4C61DB,5,505
+112,Blue-Violet,#6874CA,5,504
+379,Sand Blue,#6074A1,5,503
+137,Metal Blue,#7988A1,5,502
+1001,Medium Violet,#9391E4,5,501
+1032,Modulex Aqua Green,#27867E,6,611
+3,Dark Turquoise,#008F9B,6,610
+1008,Vintage Blue,#039CBD,6,609
+11,Light Turquoise,#55A5AF,6,608
+322,Medium Azure,#36AEBF,6,607
+1003,Glitter Trans-Light Blue,#68BCC5,6,606
+1053,Trans-Blue Opal,#68BCC5,6,605
+1051,Pastel Blue,#5AC4DA,6,604
+232,Sky Blue,#7DBFDD,6,603
+1045,Modulex Foil Light Blue,#68AECE,6,602
+1036,Modulex Pastel Blue,#68AECE,6,601
+41,Trans-Light Blue,#AEEFEC,8,829
+118,Aqua,#B3D7D1,8,828
+323,Light Aqua,#ADC3C0,8,827
+378,Sand Green,#A0BCAC,8,826
+294,Glow In Dark Trans,#BDC6AD,8,825
+17,Light Green,#C2DAB8,8,824
+120,Light Lime,#D9E4A7,8,823
+35,Trans-Bright Green,#D9E4A7,8,822
+158,Yellowish Green,#DFEEA5,8,821
+1057,Trans-Light Bright Green,#C9E788,8,820
+42,Trans-Neon Green,#F8F184,8,819
+1005,Trans-Fire Yellow,#FBE890,8,818
+18,Light Yellow,#FBE696,8,817
+1027,Modulex Light Yellow,#FFE371,8,816
+226,Bright Light Yellow,#FFF03A,8,815
+1002,Glitter Trans-Neon Green,#C0F500,8,814
+27,Lime,#BBE90B,8,813
+115,Medium Lime,#C7D23C,8,812
+1029,Modulex Lemon,#BDC618,8,811
+1043,Modulex Foil Light Green,#7DB538,8,810
+1030,Modulex Pastel Green,#7DB538,8,809
+326,Olive Green,#9B9A5A,8,808
+81,Metallic Green,#899B5F,8,807
+1031,Modulex Olive Green,#7C9051,8,806
+10,Bright Green,#4B9F4A,8,805
+62,Chrome Green,#3CB371,8,804
+34,Trans-Green,#84B68D,8,803
+74,Medium Green,#73DCA1,8,802
+1058,Trans-Light Green,#94E5AB,8,801
+484,Dark Orange,#A95500,12,1209
+86,Dark Flesh,#7C503A,12,1208
+1023,Modulex Red,#B52C20,12,1207
+216,Rust,#B31004,12,1206
+36,Trans-Red,#C91A09,12,1205
+4,Red,#C91A09,12,1204
+1010,Vintage Red,#CA1F08,12,1203
+1024,Modulex Pink Red,#F45C40,12,1202
+12,Salmon,#F2705E,12,1201
+2,Green,#237841,7,704
+5,Dark Pink,#C870A0,11,1109
+6,Brown,#583927,13,1306
+9,Light Blue,#B4D2E3,1,109
+13,Pink,#FC97AC,10,1005
+14,Yellow,#F2CD37,9,922
+15,White,#FFFFFF,1,115
+19,Tan,#E4CD9E,9,930
+20,Light Violet,#C9CAE2,1,102
+21,Glow In Dark Opaque,#D4D5C9,1,124
+22,Purple,#81007B,11,1101
+25,Orange,#FE8A18,9,909
+26,Magenta,#923978,11,1102
+29,Bright Pink,#E4ADC8,10,1004
+30,Medium Lavender,#AC78BA,11,1108
+31,Lavender,#E1D5ED,1,101
+43,Trans-Very Lt Blue,#C1DFF0,1,110
+45,Trans-Dark Pink,#DF6695,11,1112
+46,Trans-Yellow,#F5CD2F,9,923
+47,Trans-Clear,#FCFCFC,1,116
+52,Trans-Purple,#A5A5CB,1,105
+54,Trans-Neon Yellow,#DAB000,9,925
+57,Trans-Neon Orange,#FF800D,9,908
+63,Chrome Pink,#AA4D8E,11,1104
+68,Very Light Orange,#F3CF9B,9,931
+69,Light Purple,#CD6298,11,1110
+70,Reddish Brown,#582A12,13,1304
+77,Light Pink,#FECCCF,10,1001
+78,Light Flesh,#F6D7B3,9,932
+79,Milky White,#FFFFFF,1,114
+80,Metallic Silver,#A5A9B4,1,104
+82,Metallic Gold,#DBAC34,9,926
+84,Medium Dark Flesh,#CC702A,9,906
+92,Flesh,#D09168,9,903
+100,Light Salmon,#FEBABD,10,1002
+114,Glitter Trans-Dark Pink,#DF6695,11,1111
+117,Glitter Trans-Clear,#FFFFFF,1,113
+125,Light Orange,#F9BA61,9,918
+129,Glitter Trans-Purple,#A5A5CB,1,106
+134,Copper,#AE7A59,9,904
+142,Pearl Light Gold,#DCBC81,9,928
+143,Trans-Medium Blue,#CFE2F7,1,111
+151,Very Light Bluish Gray,#E6E3E0,1,122
+178,Flat Dark Gold,#B48455,9,902
+182,Trans-Orange,#F08F1C,9,910
+183,Pearl White,#F2F3F2,1,119
+191,Bright Light Orange,#F8BB3D,9,919
+212,Bright Light Blue,#9FC3E9,1,107
+230,Trans-Pink,#E4ADC8,10,1003
+236,Trans-Light Purple,#96709F,11,1107
+288,Dark Green,#184632,7,701
+297,Pearl Gold,#AA7F2E,9,901
+308,Dark Brown,#352100,13,1307
+320,Dark Red,#720E0F,13,1302
+334,Chrome Gold,#BBA53D,9,927
+335,Sand Red,#D67572,10,1009
+351,Medium Dark Pink,#F785B1,10,1007
+366,Earth Orange,#FA9C1C,9,913
+373,Sand Purple,#845E84,11,1106
+383,Chrome Silver,#E0E0E0,1,120
+450,Fabuland Brown,#B67B50,9,905
+462,Medium Orange,#FFA70B,9,914
+503,Very Light Gray,#E6E3DA,1,123
+1000,Glow in Dark White,#D9D9D9,1,121
+1004,Trans-Flame Yellowish Orange,#FCB76D,9,917
+1006,Trans-Light Royal Blue,#B4D4F7,1,108
+1007,Reddish Lilac,#8E5597,11,1105
+1009,Vintage Green,#1E601E,7,702
+1011,Vintage Yellow,#F3C305,9,924
+1012,Fabuland Orange,#EF9121,9,912
+1013,Modulex White,#F4F4F4,1,118
+1014,Modulex Light Bluish Gray,#AfB5C7,1,103
+1019,Modulex Tile Brown,#330000,13,1301
+1022,Modulex Buff,#DEC69C,9,929
+1025,Modulex Orange,#F47B30,9,907
+1026,Modulex Light Orange,#F7AD63,9,915
+1028,Modulex Ochre Yellow,#FED557,9,920
+1037,Modulex Violet,#BD7D85,10,1010
+1038,Modulex Pink,#F785B1,10,1006
+1039,Modulex Clear,#FFFFFF,1,112
+1042,Modulex Foil Dark Green,#006400,7,703
+1047,Modulex Foil Red,#8B0000,13,1303
+1048,Modulex Foil Yellow,#FED557,9,921
+1049,Modulex Foil Orange,#F7AD63,9,916
+1050,Coral,#FF698F,10,1008
+1052,Glitter Trans-Orange,#F08F1C,9,911
+1054,Trans-Medium Reddish Violet Opal,#CE1D9B,11,1103
+1055,Trans-Clear Opal,#FCFCFC,1,117
+1056,Trans-Brown Opal,#583927,13,1305
