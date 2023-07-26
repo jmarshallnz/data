@@ -115,6 +115,26 @@ download_excel <- function(url, base_url) {
         pivot_longer(-c(DHB,Age), names_to=c("Ethnicity", "Item"), names_sep="_", values_to = "value") |>
         mutate(Date = dmy(date))
     }
+    method3b <- function(file) {
+      # need to figure out the date
+      date_cell <- read_excel(file, range="A1", col_names=FALSE, sheet="Ethnicity") %>% as_vector()
+      date <- str_match(date_cell, "- ?(3.*)\\)")[2]
+      dhb_cells <- read_excel(file, range="B1:B7", col_names=FALSE, sheet="Ethnicity") |>
+        set_names('field') |> rowid_to_column('row') |>
+        filter(str_detect(field, 'residence')) |> slice(1) |> as.list()
+      region_cells <- read_excel(file, range="C1:C7", col_names=FALSE, sheet="Ethnicity") |>
+        set_names('field') |> rowid_to_column('row') |>
+        filter(!is.na(field)) |> slice(1) |> as.list()
+      read_excel(file, range = paste0("A", dhb_cells$row, ":U40000"), sheet="Ethnicity") |>
+        rename(Age = `Milestone age`,
+               DHB = dhb_cells$field,
+               Region = region_cells$field) |>
+        rename_with(.fn = ~ names, .cols = -c(Age, DHB, Region)) |>
+        fill(Age, DHB) |>
+        mutate(across(all_of(names), as.numeric)) |>
+        pivot_longer(-c(DHB,Age,Region), names_to=c("Ethnicity", "Item"), names_sep="_", values_to = "value") |>
+        mutate(Date = dmy(date))
+    }
     # figure out WTF method we should use
     top_cell <- read_excel(out, range="A1", col_names=FALSE, sheet=1) %>% as_vector()
     if (str_detect(top_cell, "11 October 2021")) {
@@ -125,6 +145,9 @@ download_excel <- function(url, base_url) {
     } else if (str_detect(top_cell, "^Childhood")) {
       # Newer layout
       method2(file=out)
+    } else if (str_detect(top_cell, "22\\-23")) {
+      # newest
+      method3b(file=out)
     } else if (str_detect(top_cell, "Quarterly childhood")) {
       # Even newer
       method3(file=out)
