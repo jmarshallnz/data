@@ -195,7 +195,8 @@ for_real_final <- final %>% group_by(DHB, Date, Age, Ethnicity, Item) %>% summar
   filter(Item != "Percent") %>% pivot_wider(names_from = Item, values_from = value) %>%
   mutate(Immunised = if_else(is.na(Eligible), NA_real_, Immunised)) %>% ungroup()
 
-write_csv(for_real_final, "immunisation/vaccinations_all.csv")
+for_real_final |> filter(!DHB %in% c("Central", "Nothern", "Te Manawa Taki", "Te Waipounamu")) |>
+  write_csv("immunisation/vaccinations_all.csv")
 
 for_real_final %>% filter(DHB == "National") %>%
   mutate(Year = year(Date),
