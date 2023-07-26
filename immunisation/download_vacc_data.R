@@ -103,9 +103,12 @@ download_excel <- function(url, base_url) {
       # need to figure out the date
       date_cell <- read_excel(file, range="A1", col_names=FALSE, sheet="Ethnicity") %>% as_vector()
       date <- str_match(date_cell, "- (.*)\\)")[2]
+      dhb_cells <- read_excel(file, range="B1:B7", col_names=FALSE, sheet="Ethnicity") |>
+        set_names('field') |> rowid_to_column('row') |>
+        filter(str_detect(field, "DHB")) |> slice(1) |> as.list()
       read_excel(file, skip = 5, sheet="Ethnicity") |>
         rename(Age = `Milestone age`,
-               DHB = `DHB of residence`) |>
+               DHB = dhb_cells$field) |>
         rename_with(.fn = ~ names, .cols = -c(Age, DHB)) |>
         fill(Age, DHB) |>
         mutate(across(all_of(names), as.numeric)) |>
