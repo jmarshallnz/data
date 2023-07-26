@@ -35,6 +35,7 @@ urls <- c(urls1, urls2)
 
 # download the excel sheets and extract the data
 base_url <- "https://www.health.govt.nz/"
+base_url <- "https://www.tewhatuora.govt.nz"
 
 cat("Processing...\n", file="log.txt", append=FALSE)
 download_excel <- function(url, base_url) {
