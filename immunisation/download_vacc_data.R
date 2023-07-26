@@ -175,7 +175,9 @@ final <- foo %>% mutate(Age = str_extract(tolower(Age), "[0-9]+ (months|years)")
                             MidCentral = c("Midcentral", "MidCentral"),
                             `Hawkes Bay` = c("Hawkes Bay", "Hawke's Bay"),
                             Southern = c("Otago", "Southland", "Southern"),
-                            National = c("National", "National Total", "National total")),
+                            National = c("National", "National Total", "National total"),
+                            Tairawhiti = c("Tairawhiti", "Tairāwhiti"),
+                            Waitemata = c("Waitematā", "Waitemata")),
          Age = factor(Age, levels=age_cats))
 
 # checking stuff - have too many southern's but the for_real_final below fixes stuff up
