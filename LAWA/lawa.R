@@ -3,10 +3,15 @@ library(lubridate)
 library(readxl)
 library(TSP)
 
-ni1 <- read_excel("~/data/data/LAWA/riverwqmonitoringdata_northisland_2006-2020_1of2.xlsx", guess_max = Inf, na = c("", "NA"))
-ni2 <- read_excel("~/data/data/LAWA/riverwqmonitoringdata_northisland_2006-2020_2of2.xlsx", guess_max = Inf, na = c("", "NA"))
-si <- read_excel("~/data/data/LAWA/riverwqmonitoringdata_southisland_2006-2020.xlsx", guess_max = Inf, na = c("", "NA")) %>%
-  rename(RECLandcover = `REC Landcover`) %>% select(-License)
+ni1 <- read_excel("~/data/data/LAWA/riverwqmonitoringdata_northisland_2004-2021-_1of2.xlsx", guess_max = Inf, na = c("", "NA"), sheet=2)
+ni2 <- read_excel("~/data/data/LAWA/riverwqmonitoringdata_northisland_2004-2021_2of2.xlsx", guess_max = Inf, na = c("", "NA"), sheet=2)
+si <- read_excel("~/data/data/LAWA/riverwqmonitoringdata_southisland_2004-2021.xlsx", guess_max = Inf, na = c("", "NA"), sheet="RiverWQMonitoringDataSI") %>%
+  rename(`REC Landcover` = RECLandcover,
+         `Landuse_council WFS` = Landuse_councilWFS,
+         `Altitude_council WFS` = Altitude_councilWFS)
+
+setdiff(names(ni1), names(ni2))
+setdiff(names(ni1), names(si))
 
 if (0) {
   # could potentially append old stuff here...
@@ -18,7 +23,8 @@ if (0) {
                  col_types = cols(RawValue = col_character(),
                                   Symbol = col_character()))
 }
-all <- bind_rows(ni1, ni2, si) %>% mutate(Date = as_date(DateSampled))
+all <- bind_rows(ni1, ni2, si) %>% mutate(Date = as_date(Date)) |>
+  rename(LawaSiteID = `LAWA ID`)
 
 # NOTE: Some sites have unique SiteIDs. I think this can happen when there's a lawa site and a regional council site that are the same.
 #       Often the site names differ, but lat/long don't. Sometimes, you can get different names with same site id too...
@@ -27,7 +33,8 @@ all %>% group_by(LawaSiteID) %>% summarise(n = n_distinct(SiteID)) %>%
 
 # Hmm, we have a new measure TURBNFU. Let's see how that works out...
 wider <- all %>%
-  select(Agency, Region, SiteID, Catchment, LandCover = RECLandcover, Altitude = `Agency assigned Altitude`, Lat, Long, Date, Indicator, Value) %>%
+  select(Agency, Region, SiteID, Catchment, LandCover = `REC Landcover`, Altitude = `Altitude_council WFS`,
+         Lat = Latitude, Long = Longitude, Date, Indicator, Value = `Censored Value`) %>%
   pivot_wider(names_from = Indicator, values_from = Value, values_fn = first)
 
 # seems pretty much correlated with TURB, so just replace when needed
@@ -59,13 +66,13 @@ sites <- final %>% select(Latitude = Lat, Longitude = Long, SiteID) %>% group_by
   tibble::rowid_to_column("LocationID")
 
 # Cluster the SiteID spatially by taking a travelling salesman tour through all sites
-set.seed(8)
+set.seed(7)
 etsp <- ETSP(data.frame(x=sites$Longitude, y=sites$Latitude), labels = sites$LocationID)
 tour <- solve_TSP(etsp)
 plot(etsp, tour)
 plot(etsp, tour, xlim=c(173,175), ylim=c(-42,-39))
 text(etsp, labels=sites$LocationID, col=rainbow(10))
-foo <- cut_tour(tour, 1022, exclude_cut = TRUE)
+foo <- cut_tour(tour, 826, exclude_cut = TRUE)
 plot(etsp)
 lines(etsp[foo,])
 
@@ -97,7 +104,7 @@ dump_data <- function(subset, out_path = ".") {
   write_csv(out_data, file.path(out_path, sprintf("lawa%02i.csv", student %% 100)))
 }
 
-out_path <- here::here("data/horizons_river_quality/LAWA")
+out_path <- here::here("LAWA/LAWA")
 fs::dir_create(out_path)
 out <- map(datasets, dump_data, out_path = out_path)
 
