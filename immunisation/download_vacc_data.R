@@ -119,19 +119,30 @@ download_excel <- function(url, base_url) {
       # need to figure out the date
       date_cell <- read_excel(file, range="A1", col_names=FALSE, sheet="Ethnicity") %>% as_vector()
       date <- str_match(date_cell, "- ?(3.*)\\)")[2]
-      dhb_cells <- read_excel(file, range="B1:B7", col_names=FALSE, sheet="Ethnicity") |>
+      dhb_cells <- read_excel(file, range="B1:B20", col_names=FALSE, sheet="Ethnicity") |>
         set_names('field') |> rowid_to_column('row') |>
         filter(str_detect(field, 'residence')) |> slice(1) |> as.list()
-      region_cells <- read_excel(file, range="C1:C7", col_names=FALSE, sheet="Ethnicity") |>
+      region_cells <- read_excel(file, range="C1:C20", col_names=FALSE, sheet="Ethnicity") |>
         set_names('field') |> rowid_to_column('row') |>
         filter(!is.na(field)) |> slice(1) |> as.list()
-      read_excel(file, range = paste0("A", dhb_cells$row, ":U40000"), sheet="Ethnicity") |>
+      too_many_rows <- read_excel(file, range = paste0("A", dhb_cells$row, ":U40000"), sheet="Ethnicity") |>
         rename(Age = `Milestone age`,
                DHB = dhb_cells$field,
                Region = region_cells$field) |>
-        rename_with(.fn = ~ names, .cols = -c(Age, DHB, Region)) |>
+        rename_with(.fn = ~ names, .cols = -c(Age, DHB, Region))
+      # filter out where all the rows are NA
+      empty <- apply(too_many_rows, 1, \(x) sum(is.na(x))) == ncol(too_many_rows)
+      last_row <- max(which(!empty))
+      my_parse_number <- function(col) {
+        if (is.numeric(col)) {
+          col
+        } else {
+          readr::parse_number(col)
+        }
+      }
+      too_many_rows |> slice(1:last_row) |>
         fill(Age, DHB) |>
-        mutate(across(all_of(names), as.numeric)) |>
+        mutate(across(all_of(names), my_parse_number)) |>
         pivot_longer(-c(DHB,Age,Region), names_to=c("Ethnicity", "Item"), names_sep="_", values_to = "value") |>
         mutate(Date = dmy(date))
     }
@@ -146,8 +157,11 @@ download_excel <- function(url, base_url) {
       # Newer layout
       method2(file=out)
     } else if (str_detect(top_cell, "22\\-23")) {
-      # newest
+      # 22/23
       method3b(file=out)
+    } else if (str_detect(top_cell, "23\\-24")) {
+      # TODO: Changed to group EU/Other together
+      data.frame()
     } else if (str_detect(top_cell, "Quarterly childhood")) {
       # Even newer
       method3(file=out)
@@ -162,6 +176,11 @@ download_excel <- function(url, base_url) {
 
 # try and grab them all
 foo <- map_dfr(urls, download_excel, base_url=base_url)
+
+if (0) {
+  bad <- urls[[28]]
+  download_excel(bad, base_url=base_url)
+}
 
 if (0) {
   download_excel(url = urls[28], base_url=base_url)
