@@ -58,3 +58,9 @@ fs::dir_create(out_dir)
 write_csv(roll, file.path(out_dir, "roll.csv"))
 write_csv(roll_nomacrons, file.path(out_dir, "roll_nomacrons.csv"))
 write_csv(schools, file.path(out_dir, "schools.csv"))
+
+# Tidy up the school column
+str_replace('Ä\u0081', 'ā')
+str_replace('Å\u008d', 'ō')
+str_replace('â€™', "'")
+
