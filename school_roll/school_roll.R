@@ -27,9 +27,16 @@ schools_dir <- read_csv("school_roll/directory.csv", skip=15) |>
   select(ID = `School Number`, School2 = `School Name`, EQI = `Equity Index (EQI)`) |>
   mutate(EQI = parse_number(EQI))
 
+# problem cases for macron stuff
+schools_dir |> filter(grepl("[^a-z,() -']+", School2, ignore.case = TRUE))
+
+
 schools <- schools |> left_join(schools_dir, by="ID") |>
   select(-School) |>
   select(School = School2, everything()) |> filter(!is.na(School))
+
+schools |> filter(grepl("[^a-z,() -']+", School, ignore.case = TRUE)) |>
+  pull(School) # seems fine?
 
 # and now the student rolls
 roll = all %>% select(starts_with('Student'), `School: ID`, `School: Name`) %>%
@@ -49,6 +56,9 @@ roll = all %>% select(starts_with('Student'), `School: ID`, `School: Name`) %>%
                                  TRUE ~ EthnicGroup)) %>%
   select(School, everything())
 
+roll |> filter(grepl("[^a-z,() -']+", School, ignore.case = TRUE)) |>
+  pull(School) |> unique() # seems fine?
+
 schools <- schools |> select(-ID)
 roll_nomacrons <- roll %>% mutate(EthnicGroup = str_replace(EthnicGroup, "Māori", "Maori"))
 
@@ -63,4 +73,28 @@ write_csv(schools, file.path(out_dir, "schools.csv"))
 str_replace('Ä\u0081', 'ā')
 str_replace('Å\u008d', 'ō')
 str_replace('â€™', "'")
+str_replace('Ä€', "Ā")
+roll <- read_csv(file.path(out_dir, "schools.csv"))
+roll <- read_csv("https://www.massey.ac.nz/~jcmarsha/data/schools/roll.csv")
+roll |> filter(str_detect(School, "\u008d"))
+roll |> filter(str_detect(School, "\u0081"))
+roll |> filter(str_detect(School, "\u0085"))
+roll |> filter(str_detect(School, "Beckenham")) |> pull(School)
+
+roll |> filter(str_detect(School, "Ä€"))
+roll |> filter(str_detect(School, "â€™")) #"'"
+roll |> filter(str_detect(School, "Å«")) #"ū"
+roll |> mutate(School = str_replace_all(School, 'Ä\u0081', 'ā'),
+               School = str_replace_all(School, 'Å\u008d', 'ō'),
+               School = str_replace_all(School, 'â€™', "'"),
+               School = str_replace_all(School, 'Ä€', "Ā"),
+               School = str_replace_all(School, 'Å«', "ū"),
+               School = str_replace_all(School, 'Ä«', 'ī'),
+               School = str_replace_all(School, 'ÅŒ', "Ō"),
+               School = str_replace_all(School, 'â€“', "-")) |>
+  pull(School) |> unique() -> school_list
+
+roll |> filter(!str_detect(School, "[A-Za-z,() ]+"))
+
+roll |> filter(grepl("[^a-z,() -']+", School, ignore.case = TRUE))
 
