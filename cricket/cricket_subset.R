@@ -25,5 +25,5 @@ all   <- teams |> mutate(dat = map(Team, \(team) getTeamData(matchType = "ODI", 
 read_csv(here::here("cricket/ODIs_all_majors.csv")) |>
   add_count(Ground) |>
   filter(n > 50) |>
-  select(-n) |>
+  select(-n, -Opposition) |>
   write_csv(here::here("cricket/ODIs_major_grounds.csv"))
