@@ -39,3 +39,11 @@ final_one_year <- one_year %>%
   mutate(Direction = if_else(Direction == 1, "To Massey", "To City"))
 
 write_csv(final_one_year, "~/data/data/pncc_cycle_counts/he_ara_kotahi_one_year.csv")
+
+# print out the dataset
+daily <- final_one_year |> group_by(Date, Mode) |> summarise(Count = sum(Count)) |>
+  pivot_wider(names_from=Mode, values_from=Count) |> mutate(Day = wday(Date, label=TRUE)) |>
+  mutate(DayType = if_else(Day %in% c("Sat", "Sun"), "Weekend", "Weekday")) |>
+  select(Date, DayType, Cyclist, Pedestrian)
+
+write_csv(daily, "~/data/data/pncc_cycle_counts/cyclist_pedestrian.csv")
