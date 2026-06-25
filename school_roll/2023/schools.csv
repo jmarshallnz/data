@@ -1,9 +1,11 @@
 School,Sector,Type,Authority,SchoolGender,AffiliationType,Affiliation,MāoriAffiliation,RegionalCouncil,TerritorialAuthority,Takiwa,EQI
+3H School International,Composite,Composite (Year 1-15),Private: Prov.Reg.,Co-Ed,No Affiliation,Not Applicable,Not Applicable,Auckland,Auckland: Rodney,Te Tai Raro,NA
 A1 Student Limited,Composite,Composite (Year 1-15),Private: Fully Reg.,Co-Ed,No Affiliation,Not Applicable,Not Applicable,Auckland,Auckland: Orakei,Te Tai Raro,NA
 ACG Parnell College,Composite,Composite (Year 1-15),Private: Fully Reg.,Co-Ed,No Affiliation,Not Applicable,Not Applicable,Auckland,Auckland: Waitemata,Te Tai Raro,NA
 ACG Strathallan,Composite,Composite (Year 1-15),Private: Fully Reg.,Co-Ed,No Affiliation,Not Applicable,Not Applicable,Auckland,Auckland: Papakura,Te Tai Raro,NA
 ACG Sunderland,Composite,Composite (Year 1-15),Private: Fully Reg.,Co-Ed,No Affiliation,Not Applicable,Not Applicable,Auckland,Auckland: Henderson-Massey,Te Tai Raro,NA
 ACG Tauranga,Composite,Composite (Year 1-15),Private: Fully Reg.,Co-Ed,No Affiliation,Not Applicable,Not Applicable,Bay of Plenty,Western Bay of Plenty,Te Tai Whenua,NA
+ADDI Enrichment Academy,Composite,Composite (Year 1-15),Private: Fully Reg.,Co-Ed,No Affiliation,Not Applicable,Not Applicable,Waikato,Taupo,Te Tai Whenua,NA
 AGE School,Composite,Composite (Year 1-15),Private: Fully Reg.,Co-Ed,No Affiliation,Not Applicable,Not Applicable,Auckland,Auckland: Devonport-Takapuna,Te Tai Raro,NA
 Abbotsford School,Primary,Full Primary,State: Not integrated,Co-Ed,No Affiliation,Not Applicable,Not Applicable,Otago,Dunedin,Te Tai Runga,433
 Aberdeen School,Primary,Contributing,State: Not integrated,Co-Ed,No Affiliation,Not Applicable,Not Applicable,Waikato,Hamilton,Te Tai Whenua,453
@@ -17,6 +19,7 @@ Ahutoetoe School,Primary,Contributing,State: Not integrated,Co-Ed,No Affiliation
 Aidanfield Christian School,Composite,Composite (Year 1-15),State: Integrated,Co-Ed,Religious Affiliation,Non-Denominational,Not Applicable,Canterbury,Christchurch,Te Tai Runga,375
 Aka Aka School,Primary,Full Primary,State: Not integrated,Co-Ed,No Affiliation,Not Applicable,Not Applicable,Waikato,Waikato,Te Tai Raro,474
 Akaroa Area School,Composite,Composite (Year 1-15),State: Not integrated,Co-Ed,No Affiliation,Not Applicable,Not Applicable,Canterbury,Christchurch,Te Tai Runga,450
+Ako Space,Primary,Full Primary,Private: Fully Reg.,Co-Ed,No Affiliation,Not Applicable,Not Applicable,Auckland,Auckland: Kaipatiki,Te Tai Raro,NA
 Al-Madinah School,Composite,Composite (Year 1-15),State: Integrated,Co-Ed,Religious Affiliation,Muslim,Not Applicable,Auckland,Auckland: Mangere-Otahuhu,Te Tai Raro,412
 Albany Junior High School,Secondary,Secondary (Year 7-15),State: Not integrated,Co-Ed,No Affiliation,Not Applicable,Not Applicable,Auckland,Auckland: Upper Harbour,Te Tai Raro,410
 Albany School,Primary,Contributing,State: Not integrated,Co-Ed,No Affiliation,Not Applicable,Not Applicable,Auckland,Auckland: Upper Harbour,Te Tai Raro,381
@@ -471,6 +474,7 @@ Gonville School,Primary,Contributing,State: Not integrated,Co-Ed,No Affiliation,
 Good Shepherd School (Balmoral),Primary,Contributing,State: Integrated,Co-Ed,Religious Affiliation,Roman Catholic,Not Applicable,Auckland,Auckland: Albert-Eden,Te Tai Raro,374
 Goodwood School,Primary,Contributing,State: Not integrated,Co-Ed,No Affiliation,Not Applicable,Not Applicable,Waikato,Waipa,Te Tai Whenua,386
 Gordonton School,Primary,Full Primary,State: Not integrated,Co-Ed,No Affiliation,Not Applicable,Not Applicable,Waikato,Waikato,Te Tai Whenua,425
+Gore High School,Secondary,Secondary (Year 9-15),State: Not integrated,Co-Ed,No Affiliation,Not Applicable,Not Applicable,Southland,Gore,Te Tai Runga,NA
 Gore Main School,Primary,Contributing,State: Not integrated,Co-Ed,No Affiliation,Not Applicable,Not Applicable,Southland,Gore,Te Tai Runga,443
 Gorge Road School,Primary,Full Primary,State: Not integrated,Co-Ed,No Affiliation,Not Applicable,Not Applicable,Southland,Southland,Te Tai Runga,470
 Gracefield School,Primary,Contributing,State: Not integrated,Co-Ed,No Affiliation,Not Applicable,Not Applicable,Wellington,Lower Hutt,Te Tai Runga,426
@@ -688,6 +692,7 @@ Kaipaki School,Primary,Full Primary,State: Not integrated,Co-Ed,No Affiliation,N
 Kaipara College,Secondary,Secondary (Year 9-15),State: Not integrated,Co-Ed,No Affiliation,Not Applicable,Not Applicable,Auckland,Auckland: Rodney,Te Tai Raro,457
 Kaipara Flats School,Primary,Contributing,State: Not integrated,Co-Ed,No Affiliation,Not Applicable,Not Applicable,Auckland,Auckland: Rodney,Te Tai Raro,421
 Kairanga School,Primary,Full Primary,State: Not integrated,Co-Ed,No Affiliation,Not Applicable,Not Applicable,Manawatu-Whanganui,Palmerston North,Te Tai Whenua,445
+Kaitaia Abundant Life School,Composite,Composite (Year 1-15),State: Integrated,Co-Ed,Religious Affiliation,Abundant Life Centre,Not Applicable,Northland,Far North,Te Tai Raro,NA
 Kaitaia College,Secondary,Secondary (Year 9-15),State: Not integrated,Co-Ed,No Affiliation,Not Applicable,Not Applicable,Northland,Far North,Te Tai Raro,519
 Kaitaia Intermediate,Primary,Intermediate,State: Not integrated,Co-Ed,No Affiliation,Not Applicable,Not Applicable,Northland,Far North,Te Tai Raro,537
 Kaitaia School,Primary,Contributing,State: Not integrated,Co-Ed,No Affiliation,Not Applicable,Not Applicable,Northland,Far North,Te Tai Raro,547
@@ -845,6 +850,7 @@ Long Bay School,Primary,Contributing,State: Not integrated,Co-Ed,No Affiliation,
 Longbeach School,Primary,Full Primary,State: Not integrated,Co-Ed,No Affiliation,Not Applicable,Not Applicable,Canterbury,Ashburton,Te Tai Runga,424
 Longburn Adventist College,Secondary,Secondary (Year 7-15),State: Integrated,Co-Ed,Religious Affiliation,Seventh Day Adventist,Not Applicable,Manawatu-Whanganui,Palmerston North,Te Tai Whenua,483
 Longburn School,Primary,Full Primary,State: Not integrated,Co-Ed,No Affiliation,Not Applicable,Not Applicable,Manawatu-Whanganui,Palmerston North,Te Tai Whenua,483
+Longford Intermediate,Primary,Intermediate,State: Not integrated,Co-Ed,No Affiliation,Not Applicable,Not Applicable,Southland,Gore,Te Tai Runga,NA
 Lower Moutere School,Primary,Full Primary,State: Not integrated,Co-Ed,No Affiliation,Not Applicable,Not Applicable,Tasman,Tasman,Te Tai Runga,471
 Lucknow School,Primary,Contributing,State: Not integrated,Co-Ed,No Affiliation,Not Applicable,Not Applicable,Hawke's Bay,Hastings,Te Tai Whenua,452
 Lumsden School,Primary,Contributing,State: Not integrated,Co-Ed,No Affiliation,Not Applicable,Not Applicable,Southland,Southland,Te Tai Runga,459
@@ -997,6 +1003,8 @@ Meadowbank School,Primary,Contributing,State: Not integrated,Co-Ed,No Affiliatio
 Medbury Preparatory School,Primary,Full Primary,Private: Fully Reg.,Single Sex-Boys,Religious Affiliation,Anglican,Not Applicable,Canterbury,Christchurch,Te Tai Runga,NA
 Meeanee School,Primary,Full Primary,State: Not integrated,Co-Ed,No Affiliation,Not Applicable,Not Applicable,Hawke's Bay,Napier,Te Tai Whenua,499
 Mellons Bay School,Primary,Contributing,State: Not integrated,Co-Ed,No Affiliation,Not Applicable,Not Applicable,Auckland,Auckland: Howick,Te Tai Raro,353
+Melville High School,Secondary,Secondary (Year 9-15),State: Not integrated,Co-Ed,No Affiliation,Not Applicable,Not Applicable,Waikato,Hamilton,Te Tai Whenua,NA
+Melville Intermediate,Primary,Intermediate,State: Not integrated,Co-Ed,No Affiliation,Not Applicable,Not Applicable,Waikato,Hamilton,Te Tai Whenua,NA
 Melville Primary School,Primary,Contributing,State: Not integrated,Co-Ed,No Affiliation,Not Applicable,Not Applicable,Waikato,Hamilton,Te Tai Whenua,542
 Menzies College,Secondary,Secondary (Year 7-15),State: Not integrated,Co-Ed,No Affiliation,Not Applicable,Not Applicable,Southland,Southland,Te Tai Runga,480
 Meraki Montessori School,Primary,Full Primary,Private: Fully Reg.,Co-Ed,Organisational Affiliation,Montessori,Not Applicable,Auckland,Auckland: Rodney,Te Tai Raro,NA
@@ -1017,6 +1025,7 @@ Millers Flat School,Primary,Full Primary,State: Not integrated,Co-Ed,No Affiliat
 Milson School,Primary,Contributing,State: Not integrated,Co-Ed,No Affiliation,Not Applicable,Not Applicable,Manawatu-Whanganui,Palmerston North,Te Tai Whenua,483
 Milton School,Primary,Contributing,State: Not integrated,Co-Ed,No Affiliation,Not Applicable,Not Applicable,Otago,Clutha,Te Tai Runga,491
 Mimi School,Primary,Contributing,State: Not integrated,Co-Ed,No Affiliation,Not Applicable,Not Applicable,Taranaki,New Plymouth,Te Tai Whenua,479
+MindAlive,Composite,Composite (Year 1-15),Private: Fully Reg.,Co-Ed,Organisational Affiliation,Trust,Not Applicable,Auckland,Auckland: Waitemata,Te Tai Raro,NA
 Miramar Central School,Primary,Contributing,State: Not integrated,Co-Ed,No Affiliation,Not Applicable,Not Applicable,Wellington,Wellington,Te Tai Runga,416
 Miramar Christian School,Primary,Full Primary,State: Integrated,Co-Ed,Religious Affiliation,Non-Denominational,Not Applicable,Wellington,Wellington,Te Tai Runga,433
 Miramar North School,Primary,Contributing,State: Not integrated,Co-Ed,No Affiliation,Not Applicable,Not Applicable,Wellington,Wellington,Te Tai Runga,377
@@ -1163,6 +1172,7 @@ Oaklynn Special School,Specialist,Specialist School,State: Not integrated,Co-Ed,
 Oakura School,Primary,Full Primary,State: Not integrated,Co-Ed,No Affiliation,Not Applicable,Not Applicable,Taranaki,New Plymouth,Te Tai Whenua,392
 Oamaru Intermediate,Primary,Intermediate,State: Not integrated,Co-Ed,No Affiliation,Not Applicable,Not Applicable,Otago,Waitaki,Te Tai Runga,473
 Oceanview Heights School,Primary,Full Primary,State: Not integrated,Co-Ed,No Affiliation,Not Applicable,Not Applicable,Canterbury,Timaru,Te Tai Runga,533
+Odyssey House School (Auckland),Secondary,Secondary (Year 9-15),Private: Fully Reg.,Co-Ed,Organisational Affiliation,Trust,Not Applicable,Auckland,Auckland: Whau,Te Tai Raro,NA
 Ohaeawai School,Primary,Contributing,State: Not integrated,Co-Ed,No Affiliation,Not Applicable,Not Applicable,Northland,Far North,Te Tai Raro,487
 Ohakune School,Primary,Full Primary,State: Not integrated,Co-Ed,No Affiliation,Not Applicable,Not Applicable,Manawatu-Whanganui,Ruapehu,Te Tai Whenua,474
 Ohau School,Primary,Full Primary,State: Not integrated,Co-Ed,No Affiliation,Not Applicable,Not Applicable,Manawatu-Whanganui,Horowhenua,Te Tai Runga,462
@@ -1304,6 +1314,7 @@ Paparoa Range School,Primary,Full Primary,State: Not integrated,Co-Ed,No Affilia
 Paparoa School,Primary,Contributing,State: Not integrated,Co-Ed,No Affiliation,Not Applicable,Not Applicable,Northland,Kaipara,Te Tai Raro,475
 Paparoa Street School,Primary,Contributing,State: Not integrated,Co-Ed,No Affiliation,Not Applicable,Not Applicable,Canterbury,Christchurch,Te Tai Runga,392
 Paparore School,Primary,Contributing,State: Not integrated,Co-Ed,No Affiliation,Not Applicable,Not Applicable,Northland,Far North,Te Tai Raro,481
+Papatawa School,Primary,Full Primary,State: Not integrated,Co-Ed,No Affiliation,Not Applicable,Not Applicable,Manawatu-Whanganui,Tararua,Te Tai Runga,NA
 Papatoetoe Central School,Primary,Contributing,State: Not integrated,Co-Ed,No Affiliation,Not Applicable,Not Applicable,Auckland,Auckland: Otara-Papatoetoe,Te Tai Raro,420
 Papatoetoe East School,Primary,Contributing,State: Not integrated,Co-Ed,No Affiliation,Not Applicable,Not Applicable,Auckland,Auckland: Otara-Papatoetoe,Te Tai Raro,462
 Papatoetoe High School,Secondary,Secondary (Year 9-15),State: Not integrated,Co-Ed,No Affiliation,Not Applicable,Not Applicable,Auckland,Auckland: Otara-Papatoetoe,Te Tai Raro,473

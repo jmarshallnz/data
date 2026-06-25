@@ -1,4 +1,9 @@
 School,EthnicGroup,Level,Students
+3H School International,Asian,Year 10,1
+3H School International,Asian,Year 7,2
+3H School International,European,Year 7,1
+3H School International,Pacific,Year 9,1
+3H School International,Asian,Year 9,1
 A1 Student Limited,European,Year 10,1
 A1 Student Limited,European,Year 11,1
 A1 Student Limited,European,Year 4,2
@@ -277,6 +282,20 @@ ACG Tauranga,International fee paying,Year 8,4
 ACG Tauranga,Māori,Year 9,1
 ACG Tauranga,Asian,Year 9,9
 ACG Tauranga,European,Year 9,24
+ADDI Enrichment Academy,Māori,Year 10,1
+ADDI Enrichment Academy,European,Year 10,3
+ADDI Enrichment Academy,European,Year 11,3
+ADDI Enrichment Academy,European,Year 14,2
+ADDI Enrichment Academy,Māori,Year 15,1
+ADDI Enrichment Academy,European,Year 15,1
+ADDI Enrichment Academy,Asian,Year 3,1
+ADDI Enrichment Academy,European,Year 4,1
+ADDI Enrichment Academy,Māori,Year 5,2
+ADDI Enrichment Academy,European,Year 6,1
+ADDI Enrichment Academy,Māori,Year 7,1
+ADDI Enrichment Academy,Māori,Year 8,3
+ADDI Enrichment Academy,European,Year 8,2
+ADDI Enrichment Academy,Māori,Year 9,2
 AGE School,Asian,Year 1,1
 AGE School,European,Year 10,5
 AGE School,Asian,Year 11,1
@@ -637,6 +656,11 @@ Akaroa Area School,European,Year 8,10
 Akaroa Area School,Māori,Year 9,9
 Akaroa Area School,Asian,Year 9,1
 Akaroa Area School,European,Year 9,10
+Ako Space,European,Year 1,5
+Ako Space,European,Year 3,5
+Ako Space,European,Year 4,1
+Ako Space,European,Year 5,2
+Ako Space,Māori,Year 6,1
 Al-Madinah School,Pacific,Year 1,3
 Al-Madinah School,Asian,Year 1,31
 Al-Madinah School,Asian,Year 10,37
@@ -13447,6 +13471,33 @@ Gordonton School,European,Year 7,21
 Gordonton School,Māori,Year 8,3
 Gordonton School,Asian,Year 8,3
 Gordonton School,European,Year 8,13
+Gore High School,Māori,Year 10,28
+Gore High School,Pacific,Year 10,3
+Gore High School,Asian,Year 10,4
+Gore High School,MELAA,Year 10,3
+Gore High School,Other,Year 10,1
+Gore High School,European,Year 10,71
+Gore High School,Māori,Year 11,25
+Gore High School,Pacific,Year 11,4
+Gore High School,Asian,Year 11,4
+Gore High School,MELAA,Year 11,3
+Gore High School,Other,Year 11,3
+Gore High School,European,Year 11,72
+Gore High School,Māori,Year 12,12
+Gore High School,Pacific,Year 12,2
+Gore High School,Asian,Year 12,2
+Gore High School,European,Year 12,61
+Gore High School,Māori,Year 13,6
+Gore High School,Pacific,Year 13,1
+Gore High School,Asian,Year 13,2
+Gore High School,Other,Year 13,1
+Gore High School,European,Year 13,39
+Gore High School,Māori,Year 9,30
+Gore High School,Pacific,Year 9,3
+Gore High School,Asian,Year 9,3
+Gore High School,MELAA,Year 9,3
+Gore High School,Other,Year 9,1
+Gore High School,European,Year 9,77
 Gore Main School,Māori,Year 1,10
 Gore Main School,Pacific,Year 1,1
 Gore Main School,Asian,Year 1,4
@@ -19183,6 +19234,42 @@ Kairanga School,MELAA,Year 7,1
 Kairanga School,European,Year 7,17
 Kairanga School,Māori,Year 8,2
 Kairanga School,European,Year 8,11
+Kaitaia Abundant Life School,Māori,Year 1,7
+Kaitaia Abundant Life School,Pacific,Year 1,1
+Kaitaia Abundant Life School,European,Year 1,2
+Kaitaia Abundant Life School,Māori,Year 10,9
+Kaitaia Abundant Life School,Pacific,Year 10,1
+Kaitaia Abundant Life School,Other,Year 10,1
+Kaitaia Abundant Life School,European,Year 10,1
+Kaitaia Abundant Life School,Māori,Year 11,12
+Kaitaia Abundant Life School,European,Year 11,2
+Kaitaia Abundant Life School,Māori,Year 12,7
+Kaitaia Abundant Life School,Māori,Year 13,4
+Kaitaia Abundant Life School,European,Year 13,2
+Kaitaia Abundant Life School,Māori,Year 2,9
+Kaitaia Abundant Life School,Asian,Year 2,1
+Kaitaia Abundant Life School,European,Year 2,2
+Kaitaia Abundant Life School,Māori,Year 3,7
+Kaitaia Abundant Life School,Pacific,Year 3,1
+Kaitaia Abundant Life School,European,Year 3,2
+Kaitaia Abundant Life School,Māori,Year 4,7
+Kaitaia Abundant Life School,Pacific,Year 4,1
+Kaitaia Abundant Life School,European,Year 4,2
+Kaitaia Abundant Life School,Māori,Year 5,8
+Kaitaia Abundant Life School,Pacific,Year 5,1
+Kaitaia Abundant Life School,Other,Year 5,2
+Kaitaia Abundant Life School,Māori,Year 6,2
+Kaitaia Abundant Life School,Asian,Year 6,1
+Kaitaia Abundant Life School,European,Year 6,1
+Kaitaia Abundant Life School,Māori,Year 7,6
+Kaitaia Abundant Life School,Other,Year 7,1
+Kaitaia Abundant Life School,European,Year 7,1
+Kaitaia Abundant Life School,Māori,Year 8,5
+Kaitaia Abundant Life School,Pacific,Year 8,1
+Kaitaia Abundant Life School,European,Year 8,1
+Kaitaia Abundant Life School,Māori,Year 9,11
+Kaitaia Abundant Life School,Pacific,Year 9,2
+Kaitaia Abundant Life School,Asian,Year 9,1
 Kaitaia College,Māori,Year 10,169
 Kaitaia College,Pacific,Year 10,6
 Kaitaia College,Asian,Year 10,2
@@ -23208,6 +23295,14 @@ Longburn School,European,Year 7,5
 Longburn School,Māori,Year 8,4
 Longburn School,MELAA,Year 8,1
 Longburn School,European,Year 8,4
+Longford Intermediate,Māori,Year 7,20
+Longford Intermediate,Pacific,Year 7,7
+Longford Intermediate,Asian,Year 7,2
+Longford Intermediate,European,Year 7,55
+Longford Intermediate,Māori,Year 8,20
+Longford Intermediate,Pacific,Year 8,3
+Longford Intermediate,Asian,Year 8,1
+Longford Intermediate,European,Year 8,60
 Lower Moutere School,Māori,Year 1,10
 Lower Moutere School,MELAA,Year 1,1
 Lower Moutere School,European,Year 1,21
@@ -27057,6 +27152,46 @@ Mellons Bay School,Māori,Year 7,3
 Mellons Bay School,Pacific,Year 7,1
 Mellons Bay School,Asian,Year 7,13
 Mellons Bay School,European,Year 7,9
+Melville High School,Māori,Year 10,83
+Melville High School,Pacific,Year 10,13
+Melville High School,Asian,Year 10,24
+Melville High School,MELAA,Year 10,7
+Melville High School,European,Year 10,34
+Melville High School,Māori,Year 11,55
+Melville High School,Pacific,Year 11,6
+Melville High School,Asian,Year 11,9
+Melville High School,MELAA,Year 11,5
+Melville High School,Other,Year 11,4
+Melville High School,European,Year 11,21
+Melville High School,Māori,Year 12,30
+Melville High School,Pacific,Year 12,5
+Melville High School,Asian,Year 12,17
+Melville High School,MELAA,Year 12,3
+Melville High School,Other,Year 12,1
+Melville High School,European,Year 12,19
+Melville High School,Māori,Year 13,32
+Melville High School,Pacific,Year 13,6
+Melville High School,Asian,Year 13,17
+Melville High School,MELAA,Year 13,1
+Melville High School,Other,Year 13,3
+Melville High School,European,Year 13,21
+Melville High School,Māori,Year 9,89
+Melville High School,Pacific,Year 9,13
+Melville High School,Asian,Year 9,8
+Melville High School,MELAA,Year 9,3
+Melville High School,Other,Year 9,10
+Melville High School,European,Year 9,33
+Melville Intermediate,Māori,Year 7,78
+Melville Intermediate,Pacific,Year 7,11
+Melville Intermediate,Asian,Year 7,11
+Melville Intermediate,MELAA,Year 7,4
+Melville Intermediate,European,Year 7,32
+Melville Intermediate,Māori,Year 8,78
+Melville Intermediate,Pacific,Year 8,10
+Melville Intermediate,Asian,Year 8,14
+Melville Intermediate,MELAA,Year 8,5
+Melville Intermediate,Other,Year 8,1
+Melville Intermediate,European,Year 8,18
 Melville Primary School,Māori,Year 1,22
 Melville Primary School,Pacific,Year 1,4
 Melville Primary School,Asian,Year 1,3
@@ -27661,6 +27796,17 @@ Mimi School,Māori,Year 6,5
 Mimi School,European,Year 6,6
 Mimi School,Māori,Year 7,1
 Mimi School,European,Year 7,1
+MindAlive,European,Year 10,1
+MindAlive,European,Year 11,4
+MindAlive,Māori,Year 12,1
+MindAlive,Asian,Year 12,1
+MindAlive,European,Year 12,1
+MindAlive,European,Year 13,1
+MindAlive,Asian,Year 14,1
+MindAlive,European,Year 14,1
+MindAlive,European,Year 3,1
+MindAlive,European,Year 8,2
+MindAlive,European,Year 9,3
 Miramar Central School,Māori,Year 1,3
 Miramar Central School,Asian,Year 1,14
 Miramar Central School,MELAA,Year 1,2
@@ -31317,6 +31463,8 @@ Oceanview Heights School,European,Year 7,9
 Oceanview Heights School,Māori,Year 8,1
 Oceanview Heights School,Pacific,Year 8,6
 Oceanview Heights School,European,Year 8,6
+Odyssey House School (Auckland),European,Year 11,1
+Odyssey House School (Auckland),European,Year 13,2
 Ohaeawai School,Māori,Year 1,19
 Ohaeawai School,European,Year 1,9
 Ohaeawai School,Māori,Year 2,21
@@ -34816,6 +34964,7 @@ Paparore School,Pacific,Year 6,1
 Paparore School,Asian,Year 6,1
 Paparore School,European,Year 6,4
 Paparore School,Māori,Year 7,3
+Papatawa School,European,Year 7,1
 Papatoetoe Central School,Māori,Year 1,15
 Papatoetoe Central School,Pacific,Year 1,26
 Papatoetoe Central School,Asian,Year 1,98
@@ -66111,152 +66260,3 @@ Zayed College for Girls,MELAA,Year 9,7
 Ōwhango School,European,Year 7,2
 Ōwhango School,Māori,Year 8,5
 Ōwhango School,European,Year 8,5
-NA,Māori,Year 1,7
-NA,Pacific,Year 1,1
-NA,European,Year 1,2
-NA,European,Year 1,5
-NA,Māori,Year 10,83
-NA,Pacific,Year 10,13
-NA,Asian,Year 10,24
-NA,MELAA,Year 10,7
-NA,European,Year 10,34
-NA,Māori,Year 10,9
-NA,Pacific,Year 10,1
-NA,Other,Year 10,1
-NA,European,Year 10,1
-NA,Māori,Year 10,28
-NA,Pacific,Year 10,3
-NA,Asian,Year 10,4
-NA,MELAA,Year 10,3
-NA,Other,Year 10,1
-NA,European,Year 10,71
-NA,European,Year 10,1
-NA,Māori,Year 10,1
-NA,European,Year 10,3
-NA,Asian,Year 10,1
-NA,Māori,Year 11,55
-NA,Pacific,Year 11,6
-NA,Asian,Year 11,9
-NA,MELAA,Year 11,5
-NA,Other,Year 11,4
-NA,European,Year 11,21
-NA,Māori,Year 11,12
-NA,European,Year 11,2
-NA,Māori,Year 11,25
-NA,Pacific,Year 11,4
-NA,Asian,Year 11,4
-NA,MELAA,Year 11,3
-NA,Other,Year 11,3
-NA,European,Year 11,72
-NA,European,Year 11,1
-NA,European,Year 11,4
-NA,European,Year 11,3
-NA,Māori,Year 12,30
-NA,Pacific,Year 12,5
-NA,Asian,Year 12,17
-NA,MELAA,Year 12,3
-NA,Other,Year 12,1
-NA,European,Year 12,19
-NA,Māori,Year 12,7
-NA,Māori,Year 12,12
-NA,Pacific,Year 12,2
-NA,Asian,Year 12,2
-NA,European,Year 12,61
-NA,Māori,Year 12,1
-NA,Asian,Year 12,1
-NA,European,Year 12,1
-NA,Māori,Year 13,32
-NA,Pacific,Year 13,6
-NA,Asian,Year 13,17
-NA,MELAA,Year 13,1
-NA,Other,Year 13,3
-NA,European,Year 13,21
-NA,Māori,Year 13,4
-NA,European,Year 13,2
-NA,Māori,Year 13,6
-NA,Pacific,Year 13,1
-NA,Asian,Year 13,2
-NA,Other,Year 13,1
-NA,European,Year 13,39
-NA,European,Year 13,2
-NA,European,Year 13,1
-NA,Asian,Year 14,1
-NA,European,Year 14,1
-NA,European,Year 14,2
-NA,Māori,Year 15,1
-NA,European,Year 15,1
-NA,Māori,Year 2,9
-NA,Asian,Year 2,1
-NA,European,Year 2,2
-NA,Māori,Year 3,7
-NA,Pacific,Year 3,1
-NA,European,Year 3,2
-NA,European,Year 3,1
-NA,Asian,Year 3,1
-NA,European,Year 3,5
-NA,Māori,Year 4,7
-NA,Pacific,Year 4,1
-NA,European,Year 4,2
-NA,European,Year 4,1
-NA,European,Year 4,1
-NA,Māori,Year 5,8
-NA,Pacific,Year 5,1
-NA,Other,Year 5,2
-NA,Māori,Year 5,2
-NA,European,Year 5,2
-NA,Māori,Year 6,2
-NA,Asian,Year 6,1
-NA,European,Year 6,1
-NA,European,Year 6,1
-NA,Māori,Year 6,1
-NA,Māori,Year 7,6
-NA,Other,Year 7,1
-NA,European,Year 7,1
-NA,Māori,Year 7,1
-NA,Asian,Year 7,2
-NA,European,Year 7,1
-NA,Māori,Year 7,78
-NA,Pacific,Year 7,11
-NA,Asian,Year 7,11
-NA,MELAA,Year 7,4
-NA,European,Year 7,32
-NA,European,Year 7,1
-NA,Māori,Year 7,20
-NA,Pacific,Year 7,7
-NA,Asian,Year 7,2
-NA,European,Year 7,55
-NA,Māori,Year 8,5
-NA,Pacific,Year 8,1
-NA,European,Year 8,1
-NA,European,Year 8,2
-NA,Māori,Year 8,3
-NA,European,Year 8,2
-NA,Māori,Year 8,78
-NA,Pacific,Year 8,10
-NA,Asian,Year 8,14
-NA,MELAA,Year 8,5
-NA,Other,Year 8,1
-NA,European,Year 8,18
-NA,Māori,Year 8,20
-NA,Pacific,Year 8,3
-NA,Asian,Year 8,1
-NA,European,Year 8,60
-NA,Māori,Year 9,89
-NA,Pacific,Year 9,13
-NA,Asian,Year 9,8
-NA,MELAA,Year 9,3
-NA,Other,Year 9,10
-NA,European,Year 9,33
-NA,Māori,Year 9,11
-NA,Pacific,Year 9,2
-NA,Asian,Year 9,1
-NA,Māori,Year 9,30
-NA,Pacific,Year 9,3
-NA,Asian,Year 9,3
-NA,MELAA,Year 9,3
-NA,Other,Year 9,1
-NA,European,Year 9,77
-NA,European,Year 9,3
-NA,Māori,Year 9,2
-NA,Pacific,Year 9,1
-NA,Asian,Year 9,1

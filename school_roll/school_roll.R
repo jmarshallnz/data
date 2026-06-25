@@ -32,8 +32,9 @@ schools_dir |> filter(grepl("[^a-z,() -']+", School2, ignore.case = TRUE))
 
 
 schools <- schools |> left_join(schools_dir, by="ID") |>
-  select(-School) |>
-  select(School = School2, everything()) |> filter(!is.na(School))
+  mutate(School = if_else(!is.na(School2), School2, School)) |>
+  select(-School2) |>
+  select(School, everything()) #|> filter(!is.na(School))
 
 schools |> filter(grepl("[^a-z,() -']+", School, ignore.case = TRUE)) |>
   pull(School) # seems fine?
@@ -46,8 +47,7 @@ roll = all %>% select(starts_with('Student'), `School: ID`, `School: Name`) %>%
          Level = `Year level`) %>%
   select(-`Year level (Grouped)`) %>%
   select(ID, EthnicGroup, Level, Students) %>%
-  left_join(schools |> select(ID, School)) %>%
-  select(-ID) %>%
+  left_join(schools |> select(ID, School)) |>
   arrange(School, Level) %>%
   mutate(EthnicGroup = case_when(EthnicGroup == "European\\Pā\u0081kehā\u0081" ~ "European",
                                  EthnicGroup == "European\\Pākehā" ~ "European",
