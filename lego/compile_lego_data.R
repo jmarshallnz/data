@@ -142,20 +142,28 @@ set_info %>% filter(theme %in% c("Technic", "Town", "Creator", "Friends", "Archi
   filter(year > 2011) %>%
   left_join(colors %>% select(color, sort_order)) %>%
   filter(!is.na(quantity)) %>%
-  select(set, name, year, num_parts, price, theme, part, colour_id=sort_order, quantity) ->
+  select(set, name, year, num_parts, price, theme, part, colour_id=sort_order, quantity, weight) ->
   lego2011
 
 lego2011 |> select(set, name, year, num_parts, price, theme) |>
   unique() |>
-  write_csv("lego/lego_sets.csv")
+  write_csv("lego/out/lego_sets.csv")
 
-lego2011 |> select(set, part, colour_id, quantity) |>
-  write_csv("lego/lego_parts.csv")
+read_csv("https://www.massey.ac.nz/~jcmarsha/data/lego/lego_sets.csv") |>
+  anti_join(lego2011 |> select(set, name, year, num_parts, price, theme) |>
+              unique())
+
+lego2011 |> select(set, name, year, num_parts, price, theme) |>
+  unique() |>
+  anti_join(read_csv("https://www.massey.ac.nz/~jcmarsha/data/lego/lego_sets.csv"))
+
+lego2011 |> select(set, part, colour_id, quantity, weight) |>
+  write_csv("lego/out/lego_parts.csv.gz")
 
 write_csv(lego2011, "lego/lego.csv.gz")
 
 colours <- colors %>% select(colour_id=sort_order, rgb, colour=color)
-write_csv(colours, "lego/lego_colours.csv")
+write_csv(colours, "lego/out/lego_colours.csv")
 
 lego <- read_csv("lego/lego.csv.gz")
 
