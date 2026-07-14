@@ -1,17 +1,33 @@
 library(tidyverse)
-library(lubridate)
 library(readxl)
 library(TSP)
 
-ni1 <- read_excel("~/data/data/LAWA/riverwqmonitoringdata_northisland_2004-2021-_1of2.xlsx", guess_max = Inf, na = c("", "NA"), sheet=2)
-ni2 <- read_excel("~/data/data/LAWA/riverwqmonitoringdata_northisland_2004-2021_2of2.xlsx", guess_max = Inf, na = c("", "NA"), sheet=2)
-si <- read_excel("~/data/data/LAWA/riverwqmonitoringdata_southisland_2004-2021.xlsx", guess_max = Inf, na = c("", "NA"), sheet="RiverWQMonitoringDataSI") %>%
-  rename(`REC Landcover` = RECLandcover,
-         `Landuse_council WFS` = Landuse_councilWFS,
-         `Altitude_council WFS` = Altitude_councilWFS)
+# for 2026
+ni1 <- read_excel("~/data/data/LAWA/2026/LAWA River Water Quality Monitoring Data_North Island 1of3_16Dec2025.xlsx", 
+                  guess_max=2e7, na = c("", "NA"), sheet=2) |>
+  rename(QCNumber = `QCNumber (Agency value)`,
+         RECLandCover = RECLandcover)
+ni2 <- read_excel("~/data/data/LAWA/2026/LAWA River Water Quality Monitoring Data_North Island 2of3_9Feb2026.xlsx", 
+                  guess_max=2e7, na = c("", "NA"), sheet=2)
+ni3 <- read_excel("~/data/data/LAWA/2026/LAWA River Water Quality Monitoring Data_North Island 3of3_9Feb2026.xlsx", 
+                  guess_max=2e7, na = c("", "NA"), sheet=2)
 
 setdiff(names(ni1), names(ni2))
-setdiff(names(ni1), names(si))
+setdiff(names(ni2), names(ni1))
+setdiff(names(ni1), names(ni3))
+setdiff(names(ni3), names(ni1))
+
+si1 <- read_excel("~/data/data/LAWA/2026/LAWA River Water Quality Monitoring Data_South Island 1of2_10Feb2026.xlsx",
+                  guess_max=2e7, na = c("", "NA"), sheet=2) |>
+  rename(QCNumber = `QCNumber (Agency value)`)
+si2 <- read_excel("~/data/data/LAWA/2026/LAWA River Water Quality Monitoring Data_South Island 2of2_10Feb2026.xlsx",
+                  guess_max=2e7, na = c("", "NA"), sheet=2) |>
+  rename(QCNumber = `QCNumber (Agency value)`)
+
+setdiff(names(ni1), names(si1))
+setdiff(names(ni1), names(si2))
+setdiff(names(si1), names(ni1))
+setdiff(names(si2), names(ni1))
 
 if (0) {
   # could potentially append old stuff here...
@@ -23,35 +39,35 @@ if (0) {
                  col_types = cols(RawValue = col_character(),
                                   Symbol = col_character()))
 }
-all <- bind_rows(ni1, ni2, si) %>% mutate(Date = as_date(Date)) |>
-  rename(LawaSiteID = `LAWA ID`)
+all <- bind_rows(ni1, ni2, ni3, si1, si2) %>% mutate(Date = as_date(SampleDateTime), .keep='unused')
 
 # NOTE: Some sites have unique SiteIDs. I think this can happen when there's a lawa site and a regional council site that are the same.
 #       Often the site names differ, but lat/long don't. Sometimes, you can get different names with same site id too...
 all %>% group_by(LawaSiteID) %>% summarise(n = n_distinct(SiteID)) %>%
   filter(n != 1)
 
-# Hmm, we have a new measure TURBNFU. Let's see how that works out...
 wider <- all %>%
-  select(Agency, Region, SiteID, Catchment, LandCover = `REC Landcover`, Altitude = `Altitude_council WFS`,
-         Lat = Latitude, Long = Longitude, Date, Indicator, Value = `Censored Value`) %>%
+  select(Agency, Region, SiteID=LawaSiteID, Catchment, LandCover = RECLandCover, Altitude = `WFSAltitude`,
+         Lat = Latitude, Long = Longitude, Date, Indicator, Value = Value) %>%
   pivot_wider(names_from = Indicator, values_from = Value, values_fn = first)
 
-# seems pretty much correlated with TURB, so just replace when needed
-wider %>% filter(!is.na(TURBFNU)) %>%
-  ggplot(aes(x=TURB, y=TURBFNU)) +
-  geom_point() +
-  geom_abline(slope = 1, intercept = 0, col='red') +
-  scale_x_log10() +
-  scale_y_log10()
+if (0) {
+  # Hmm, we have a new measure TURBNFU. Let's see how that works out...
+  # seems pretty much correlated with TURB, so just replace when needed
+  wider %>% filter(!is.na(TURBFNU)) %>%
+    ggplot(aes(x=TURB, y=TURBFNU)) +
+    geom_point() +
+    geom_abline(slope = 1, intercept = 0, col='red') +
+    scale_x_log10() +
+    scale_y_log10()
+  
+  final <- wider %>% mutate(TURB = coalesce(TURBFNU, TURB)) %>%
+    select(-TURBFNU)
+  
+  final %>% names()
+}
 
-final <- wider %>% mutate(TURB = coalesce(TURBFNU, TURB)) %>%
-  select(-TURBFNU)
-
-final %>% names()
-
-# write out the big dataset
-write_csv(final, "~/data/data/LAWA/lawa_2021.csv.gz")
+write_csv(wider, here::here("LAWA/2026/all.csv.gz"))
 # NH4 = ammonia and ammonium
 # TURB = Turbidity
 # BDISC = Black Disc
@@ -62,8 +78,10 @@ write_csv(final, "~/data/data/LAWA/lawa_2021.csv.gz")
 # PH = pH
 # TON = Total Oxygenated Nitrogen nitrite nitrogen+ nitrate nitrogen
 
-sites <- final %>% select(Latitude = Lat, Longitude = Long, SiteID) %>% group_by(SiteID, Latitude, Longitude) %>% summarise(Count = n()) %>%
-  tibble::rowid_to_column("LocationID")
+sites <- wider %>% select(Latitude = Lat, Longitude = Long, SiteID) %>% group_by(SiteID, Latitude, Longitude) %>% summarise(Count = n()) %>%
+  tibble::rowid_to_column("LocationID") |>
+  filter(!is.na(Longitude)) |>
+  filter(Longitude > 0)
 
 # Cluster the SiteID spatially by taking a travelling salesman tour through all sites
 set.seed(7)
@@ -72,9 +90,11 @@ tour <- solve_TSP(etsp)
 plot(etsp, tour)
 plot(etsp, tour, xlim=c(173,175), ylim=c(-42,-39))
 text(etsp, labels=sites$LocationID, col=rainbow(10))
-foo <- cut_tour(tour, 826, exclude_cut = TRUE)
+foo <- cut_tour(tour, "1092", exclude_cut = TRUE)
 plot(etsp)
 lines(etsp[foo,])
+plot(etsp[foo,], tour[foo], xlim=c(173,175), ylim=c(-42,-39))
+#text(etsp, labels=sites$LocationID, col=rainbow(10))
 
 plot(etsp)
 plot(etsp[foo[1:106],], col='red')
@@ -93,11 +113,20 @@ grab_sites <- function(student, start, end) {
 }
 foo <- student_rows %>% pmap_dfr(grab_sites, .id = "StudentID")
 
+nz <- map_data('nz')
+
+foo |> mutate(StudentID = as.integer(StudentID)) |> filter(StudentID < 10) |>
+  ggplot() +
+  aes(x=Longitude, y=Latitude) +
+  geom_polygon(data=nz, mapping=aes(x=long, y=lat, group=group), fill=NA, col='black') +
+  geom_point(col='red') +
+  facet_wrap(vars(StudentID))
+
 # Right, now dump this data out as spreadsheet
 datasets <- foo %>% ungroup() %>% group_split(StudentID)
 
 dump_data <- function(subset, out_path = ".") {
-  out_data <- subset %>% select(SiteID) %>% left_join(final, by="SiteID") %>%
+  out_data <- subset %>% select(SiteID) %>% left_join(wider, by="SiteID") %>%
     select(SiteID, everything()) %>%
     select(-Agency, -Region, -Catchment)
   student = subset %>% pull(StudentID) %>% first() %>% as.numeric()
@@ -112,4 +141,4 @@ out %>% bind_rows(.id="Student") %>%
   group_by(Student) %>%
   count(LandCover) %>%
   pivot_wider(names_from=LandCover, values_from=n) %>%
-  filter(is.na(Urban))
+  filter(is.na(Urban)) # One has no urban cover
