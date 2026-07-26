@@ -105,6 +105,7 @@ finalish <- concordance |> group_by(sa3, sa3_name, territorial_authority, region
   st_as_sf()
 
 finalish |>
+  filter(!is.na(home_wondership) |>
   st_write("~/data/data/nz_map/sa3_data.sqlite", delete_layer=TRUE)
 
 ggplot(finalish) +
